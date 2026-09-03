@@ -6,6 +6,8 @@ import unittest
 
 from collector.adapters.generic import GenericAdapter
 from collector.adapters.imi import ImiAdapter
+from collector.adapters.ncfe import NcfeAdapter
+from collector.adapters.etf import EtfAdapter
 from collector.adapters.pearson import PearsonAdapter
 from collector.models import Opportunity, deduplicate
 from collector.parsing import parse_date, parse_times
@@ -36,6 +38,26 @@ class PearsonSession:
             {"fieldName":"Event Fee","fieldValue":"Free"},
         ])
 
+class TextResponse:
+    def __init__(self, text): self.text = text
+    def raise_for_status(self): pass
+
+class PearsonWidgetSession(PearsonSession):
+    @staticmethod
+    def get(url, *args, **kwargs):
+        if "/webwidget/" in url:
+            return TextResponse("applicationSettings = { authorization: 'abc123' }")
+        return PearsonSession.get(url, *args, **kwargs)
+
+class NcfeSession:
+    @staticmethod
+    def get(*args, **kwargs): return TextResponse('<div data-event-json=\'{"eventDate":"Wednesday 14 October","eventYear":"2026","eventName":"NCFE Assessor Training","eventTime":"10:00 AM - 12:00pm","eventAdditionalDetails":"Online","eventDescription":"Assessment CPD","eventRegisterUrl":"https://events.example/register","eventSectors":"Assessment~Quality","eventTypes":"Online","eventQualification":"T Levels"}\'></div>')
+
+class EtfSession:
+    @staticmethod
+    def post(*args, **kwargs):
+        return JsonResponse({"results":[{"name":"Inclusive practice","startDate":"2026-10-01T16:00:00Z","endDate":"2026-10-01T17:00:00Z","eventType":"Webinar","venue":"Online","summary":"Practical CPD","eventUrl":"/events-and-community/inclusive-practice/","eventTags":["Membership"],"eventStatus":"Open","fromPrice":""}]})
+
 
 class CollectorTests(unittest.TestCase):
     def test_sources_ignore_comments_and_blanks(self):
@@ -60,6 +82,26 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(item.url, "https://pearson.cventevents.com/d/example/4W")
         self.assertEqual(item.startTime, "16:00")
         self.assertTrue(item.isFree)
+
+    def test_pearson_resolves_current_public_widget(self):
+        html = '<div id="calendar-widget-container" data-widget-id="widget-id" data-calendar-id="calendar-id"></div>'
+        items = PearsonAdapter().collect(html, "https://qualifications.pearson.com/btec", PearsonWidgetSession)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].url, "https://pearson.cventevents.com/d/example/4W")
+
+    def test_ncfe_collects_embedded_direct_registration_records(self):
+        parent = '<a href="/technical-education/t-levels/provider-hub/events-webinars/digital/">Explore</a>'
+        items = NcfeAdapter().collect(parent, "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/", NcfeSession)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].startDate, "2026-10-14")
+        self.assertEqual(items[0].url, "https://events.example/register")
+        self.assertIn("T Levels", items[0].tags)
+
+    def test_etf_collects_public_event_api(self):
+        items = EtfAdapter().collect("", "https://etfoundation.co.uk/events-and-community/", EtfSession)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].url, "https://etfoundation.co.uk/events-and-community/inclusive-practice/")
+        self.assertIn("Members only", items[0].tags)
 
     def test_imi_keeps_direct_events_and_skips_fully_booked(self):
         html = '''<article><h3><a href="/event/one">EV safety webinar</a></h3><p>Date: 24 September 2026 Time: 18:00 - 19:00 Location: Online for IMI members</p></article>

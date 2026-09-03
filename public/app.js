@@ -1,6 +1,6 @@
 import { rollingMonths, monthKey, isInRollingWindow } from "./date-utils.js";
 
-const state = { data: null, query: "", onlineOnly: false, provider: "", topic: "", type: "" };
+const state = { data: null, query: "", onlineOnly: false, provider: "", topic: "", type: "", expandedMonths: new Set() };
 const els = {
   months: document.querySelector("#month-grid"), anytime: document.querySelector("#anytime-grid"),
   anytimeSection: document.querySelector("#anytime-section"), search: document.querySelector("#search"),
@@ -67,9 +67,13 @@ function render() {
   const visible = state.data.opportunities.filter(matches);
   const months = rollingMonths();
   els.months.innerHTML = months.map((month, index) => {
+    const key = monthKey(month);
     const items = visible.filter(item => !item.isSelfPaced && item.startDate?.startsWith(monthKey(month)))
       .sort((a, b) => `${a.startDate}${a.startTime || ""}`.localeCompare(`${b.startDate}${b.startTime || ""}`));
-    return `<section class="month-column" aria-labelledby="month-${index}"><div class="month-title"><h3 id="month-${index}">${monthFmt.format(month)}</h3><span>${items.length || "—"}</span></div><div class="card-list">${items.length ? items.map(card).join("") : '<p class="empty">Nothing discovered yet —<br>check back soon.</p>'}</div></section>`;
+    const expanded = state.expandedMonths.has(key);
+    const shown = expanded ? items : items.slice(0, 6);
+    const more = items.length > 6 ? `<button class="show-more" type="button" data-month="${key}" aria-expanded="${expanded}">${expanded ? "Show fewer" : `Show all ${items.length}`}</button>` : "";
+    return `<section class="month-column" aria-labelledby="month-${index}"><div class="month-title"><h3 id="month-${index}">${monthFmt.format(month)}</h3><span>${items.length || "—"}</span></div><div class="card-list">${shown.length ? shown.map(card).join("") : '<p class="empty">Nothing discovered yet —<br>check back soon.</p>'}</div>${more}</section>`;
   }).join("");
   const anytime = visible.filter(item => item.isSelfPaced);
   els.anytimeSection.hidden = !anytime.length;
@@ -103,6 +107,13 @@ els.online.addEventListener("change", event => { state.onlineOnly = event.target
 els.provider.addEventListener("change", event => { state.provider = event.target.value; render(); });
 els.topic.addEventListener("change", event => { state.topic = event.target.value; render(); });
 els.type.addEventListener("change", event => { state.type = event.target.value; render(); });
+els.months.addEventListener("click", event => {
+  const button = event.target.closest("[data-month]");
+  if (!button) return;
+  const key = button.dataset.month;
+  state.expandedMonths.has(key) ? state.expandedMonths.delete(key) : state.expandedMonths.add(key);
+  render();
+});
 els.clear.addEventListener("click", () => {
   state.query = state.provider = state.topic = state.type = ""; state.onlineOnly = false;
   els.search.value = els.provider.value = els.topic.value = els.type.value = ""; els.online.checked = false; render();

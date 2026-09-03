@@ -17,14 +17,27 @@ class PearsonAdapter(GenericAdapter):
         r"calendarId:\s*['\"](?P<calendar>[0-9a-f-]+)['\"].*?authorization:\s*['\"](?P<token>[0-9a-f]+)['\"]",
         re.I | re.S,
     )
+    AUTHORIZATION = re.compile(r"authorization:\s*['\"](?P<token>[0-9a-f]+)['\"]", re.I)
 
     def collect(self, html, source_url, session):
         """Collect Pearson's public Cvent calendar, including direct registration URLs."""
         config = self.CONFIG.search(html)
-        if not config:
-            return self.extract(html, source_url)
-        calendar = config.group("calendar")
-        headers = {"Authorization": f"BEARER {config.group('token')}", "Content-Type": "application/json"}
+        if config:
+            calendar, token = config.group("calendar"), config.group("token")
+        else:
+            container = soup(html).select_one("#calendar-widget-container[data-calendar-id][data-widget-id]")
+            if not container:
+                return self.extract(html, source_url)
+            calendar = container["data-calendar-id"]
+            widget = container["data-widget-id"]
+            widget_url = f"https://www.cvent.com/c/calendar/{calendar}/webwidget/{widget}?showIcons=true&isPreview=false&showSpinner=false"
+            widget_response = session.get(widget_url, timeout=(10, 25))
+            widget_response.raise_for_status()
+            authorization = self.AUTHORIZATION.search(widget_response.text)
+            if not authorization:
+                return []
+            token = authorization.group("token")
+        headers = {"Authorization": f"BEARER {token}", "Content-Type": "application/json"}
         base = f"https://www.cvent.com/api/calendar_events/v1/{calendar}"
         response = session.post(
             f"{base}/events?forMonth=false",
