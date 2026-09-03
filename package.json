@@ -1,0 +1,10 @@
+{
+  "name": "cpd-finder",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 4173 --directory public",
+    "collect": "python -m collector",
+    "test": "python -m unittest discover -s tests -v && node --test tests/frontend.test.mjs"
+  }
+}
