@@ -24,7 +24,10 @@ class GenericAdapter(Adapter):
                 location = node.get("location", {})
                 location_name = location.get("name", "") if isinstance(location, dict) else ""
                 mode, inferred_location = infer_delivery(f"{location_name} {node.get('eventAttendanceMode', '')}")
-                items.append(Opportunity(title=clean(node.get("name")), provider=provider, type=infer_type(clean(node.get("name"))), description=clean(node.get("description")), startDate=parse_date(node.get("startDate")), endDate=parse_date(node.get("endDate")), delivery=mode, location=location_name or inferred_location, url=urljoin(source_url, node.get("url") or source_url), sourceUrl=source_url))
+                event_url = node.get("url")
+                if not event_url:
+                    continue
+                items.append(Opportunity(title=clean(node.get("name")), provider=provider, type=infer_type(clean(node.get("name"))), description=clean(node.get("description")), startDate=parse_date(node.get("startDate")), endDate=parse_date(node.get("endDate")), delivery=mode, location=location_name or inferred_location, url=urljoin(source_url, event_url), sourceUrl=source_url))
         if items:
             return [item for item in items if item.title]
         selectors = "article, .event, .event-card, .course-card, [class*='event-card'], [class*='event_item']"

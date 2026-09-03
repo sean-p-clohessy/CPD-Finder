@@ -8,7 +8,7 @@ from collector.adapters.generic import GenericAdapter
 from collector.adapters.pearson import PearsonAdapter
 from collector.models import Opportunity, deduplicate
 from collector.parsing import parse_date, parse_times
-from collector.pipeline import collect, read_sources
+from collector.pipeline import collect, is_direct_destination, read_sources
 
 
 class Response:
@@ -68,6 +68,12 @@ class CollectorTests(unittest.TestCase):
     def test_expiry_keeps_self_paced(self):
         self.assertTrue(Opportunity(title="Old", provider="P", url="https://x/a", sourceUrl="https://x", startDate="2025-01-01").expired(date(2026, 9, 3)))
         self.assertFalse(Opportunity(title="Anytime", provider="P", url="https://x/b", sourceUrl="https://x", startDate="2025-01-01", isSelfPaced=True).expired(date(2026, 9, 3)))
+
+    def test_source_listing_is_not_a_direct_destination(self):
+        listing = Opportunity(title="Not direct", provider="P", url="https://x.test/events/", sourceUrl="https://x.test/events")
+        event = Opportunity(title="Direct", provider="P", url="https://x.test/events/direct-event", sourceUrl="https://x.test/events")
+        self.assertFalse(is_direct_destination(listing))
+        self.assertTrue(is_direct_destination(event))
 
     def test_failure_retains_last_known_good(self):
         with TemporaryDirectory() as folder:

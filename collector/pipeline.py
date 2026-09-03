@@ -13,6 +13,16 @@ from collector.models import Opportunity, deduplicate, utc_now
 USER_AGENT = "CPD-Finder/1.0 (+https://github.com/; polite daily educational-opportunity indexer)"
 
 
+def is_direct_destination(item: Opportunity) -> bool:
+    """Reject cards whose CTA merely points back to the source listing page."""
+    def normalise(url: str) -> tuple[str, str, str]:
+        parsed = urlparse(url)
+        path = parsed.path.rstrip("/") or "/"
+        return parsed.netloc.casefold(), path.casefold(), parsed.query
+
+    return bool(item.url and item.sourceUrl and normalise(item.url) != normalise(item.sourceUrl))
+
+
 def read_sources(path: Path) -> list[str]:
     return [line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip() and not line.lstrip().startswith("#")]
 
@@ -43,7 +53,7 @@ def collect(source_file: Path, output_file: Path, *, session=requests, today: da
             response = session.get(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}, timeout=(10, 25), allow_redirects=True)
             response.raise_for_status()
             extracted = adapter.collect(response.text, url, session)
-            valid = [item for item in deduplicate(extracted) if not item.expired(today)]
+            valid = [item for item in deduplicate(extracted) if not item.expired(today) and is_direct_destination(item)]
             if not valid:
                 raise ValueError("No opportunities found; retained last-known-good data")
             all_items.extend(valid)
@@ -53,7 +63,7 @@ def collect(source_file: Path, output_file: Path, *, session=requests, today: da
             for raw in old_by_source.get(url, []):
                 try:
                     item = Opportunity(**raw)
-                    if not item.expired(today):
+                    if not item.expired(today) and is_direct_destination(item):
                         retained.append(item)
                 except TypeError:
                     continue
