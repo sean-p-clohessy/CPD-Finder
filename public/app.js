@@ -1,12 +1,14 @@
 import { rollingMonths, monthKey, isInRollingWindow } from "./date-utils.js";
 
-const state = { data: null, query: "", onlineOnly: false };
+const state = { data: null, query: "", onlineOnly: false, provider: "", topic: "", type: "" };
 const els = {
   months: document.querySelector("#month-grid"), anytime: document.querySelector("#anytime-grid"),
   anytimeSection: document.querySelector("#anytime-section"), search: document.querySelector("#search"),
   online: document.querySelector("#online-only"), freshness: document.querySelector("#freshness"),
   count: document.querySelector("#result-count"), error: document.querySelector("#load-error"),
-  sourceSummary: document.querySelector("#source-summary"), sourceList: document.querySelector("#source-list")
+  sourceSummary: document.querySelector("#source-summary"), sourceList: document.querySelector("#source-list"),
+  provider: document.querySelector("#provider-filter"), topic: document.querySelector("#topic-filter"),
+  type: document.querySelector("#type-filter"), clear: document.querySelector("#clear-filters")
 };
 const themeToggle = document.querySelector("#theme-toggle");
 const dateFmt = new Intl.DateTimeFormat("en-GB", { weekday: "short", day: "numeric", month: "short" });
@@ -33,7 +35,18 @@ syncThemeControl();
 
 function matches(item) {
   const text = [item.title, item.provider, item.type, item.description, item.location, ...(item.tags || [])].join(" ").toLowerCase();
-  return (!state.query || text.includes(state.query)) && (!state.onlineOnly || item.delivery?.toLowerCase() === "online");
+  return (!state.query || text.includes(state.query))
+    && (!state.onlineOnly || item.delivery?.toLowerCase() === "online")
+    && (!state.provider || item.provider === state.provider)
+    && (!state.type || item.type === state.type)
+    && (!state.topic || (item.tags || []).includes(state.topic));
+}
+
+function populateFilters() {
+  const options = (values, first) => `<option value="">${first}</option>${[...new Set(values.filter(Boolean))].sort().map(value => `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`).join("")}`;
+  els.provider.innerHTML = options(state.data.opportunities.map(item => item.provider), "All providers");
+  els.type.innerHTML = options(state.data.opportunities.map(item => item.type), "All formats");
+  els.topic.innerHTML = options(state.data.opportunities.flatMap(item => item.tags || []).filter(tag => !["Members only", "Open access"].includes(tag)), "All topics");
 }
 
 function card(item) {
@@ -41,8 +54,9 @@ function card(item) {
   const time = item.startTime ? `${item.startTime}${item.endTime ? `–${item.endTime}` : ""}` : "";
   const meta = [time, item.delivery, item.location].filter(Boolean).map(escapeHtml).join(" · ");
   const cost = item.isFree === true ? '<span class="cost free">Free</span>' : item.cost && item.cost !== "Unknown" ? `<span class="cost">${escapeHtml(item.cost)}</span>` : "";
+  const access = (item.tags || []).includes("Members only") ? '<span class="badge access">Members</span>' : "";
   return `<article class="opportunity-card">
-    <div class="badges"><span class="badge provider provider-${escapeHtml(item.provider.toLowerCase().replace(/[^a-z0-9]/g, ""))}">${escapeHtml(item.provider)}</span><span class="badge">${escapeHtml(item.type)}</span>${cost}</div>
+    <div class="badges"><span class="badge provider provider-${escapeHtml(item.provider.toLowerCase().replace(/[^a-z0-9]/g, ""))}">${escapeHtml(item.provider)}</span><span class="badge">${escapeHtml(item.type)}</span>${access}${cost}</div>
     <p class="card-date">${escapeHtml(date)}</p><h3>${escapeHtml(item.title)}</h3>
     ${meta ? `<p class="meta">${meta}</p>` : ""}${item.description ? `<p class="description">${escapeHtml(item.description)}</p>` : ""}
     <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">View opportunity <span aria-hidden="true">→</span><span class="sr-only">: ${escapeHtml(item.title)} (opens in a new tab)</span></a>
@@ -53,7 +67,8 @@ function render() {
   const visible = state.data.opportunities.filter(matches);
   const months = rollingMonths();
   els.months.innerHTML = months.map((month, index) => {
-    const items = visible.filter(item => !item.isSelfPaced && item.startDate?.startsWith(monthKey(month)));
+    const items = visible.filter(item => !item.isSelfPaced && item.startDate?.startsWith(monthKey(month)))
+      .sort((a, b) => `${a.startDate}${a.startTime || ""}`.localeCompare(`${b.startDate}${b.startTime || ""}`));
     return `<section class="month-column" aria-labelledby="month-${index}"><div class="month-title"><h3 id="month-${index}">${monthFmt.format(month)}</h3><span>${items.length || "—"}</span></div><div class="card-list">${items.length ? items.map(card).join("") : '<p class="empty">Nothing discovered yet —<br>check back soon.</p>'}</div></section>`;
   }).join("");
   const anytime = visible.filter(item => item.isSelfPaced);
@@ -77,7 +92,7 @@ async function init() {
     state.data = await response.json();
     const updated = new Date(state.data.generatedAt);
     els.freshness.innerHTML = `<span class="status-dot" aria-hidden="true"></span>Last updated ${updatedFmt.format(updated)}`;
-    renderHealth(); render();
+    populateFilters(); renderHealth(); render();
   } catch (error) {
     console.error(error); els.error.hidden = false; els.months.hidden = true; els.freshness.textContent = "Update unavailable";
   }
@@ -85,4 +100,11 @@ async function init() {
 
 els.search.addEventListener("input", event => { state.query = event.target.value.trim().toLowerCase(); render(); });
 els.online.addEventListener("change", event => { state.onlineOnly = event.target.checked; render(); });
+els.provider.addEventListener("change", event => { state.provider = event.target.value; render(); });
+els.topic.addEventListener("change", event => { state.topic = event.target.value; render(); });
+els.type.addEventListener("change", event => { state.type = event.target.value; render(); });
+els.clear.addEventListener("click", () => {
+  state.query = state.provider = state.topic = state.type = ""; state.onlineOnly = false;
+  els.search.value = els.provider.value = els.topic.value = els.type.value = ""; els.online.checked = false; render();
+});
 init();

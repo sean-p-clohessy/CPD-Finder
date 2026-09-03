@@ -5,6 +5,7 @@ from tempfile import TemporaryDirectory
 import unittest
 
 from collector.adapters.generic import GenericAdapter
+from collector.adapters.imi import ImiAdapter
 from collector.adapters.pearson import PearsonAdapter
 from collector.models import Opportunity, deduplicate
 from collector.parsing import parse_date, parse_times
@@ -59,6 +60,15 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(item.url, "https://pearson.cventevents.com/d/example/4W")
         self.assertEqual(item.startTime, "16:00")
         self.assertTrue(item.isFree)
+
+    def test_imi_keeps_direct_events_and_skips_fully_booked(self):
+        html = '''<article><h3><a href="/event/one">EV safety webinar</a></h3><p>Date: 24 September 2026 Time: 18:00 - 19:00 Location: Online for IMI members</p></article>
+        <article><h3><a href="/event/full">Forum (Fully Booked)</a></h3><p>Date: 30 September 2026 Time: 10:00 - 12:00 Location: Leeds</p></article>'''
+        items = ImiAdapter().extract(html, "https://www.theimi.org.uk/industry-latest/events")
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].url, "https://www.theimi.org.uk/event/one")
+        self.assertIn("Electric vehicles", items[0].tags)
+        self.assertIn("Members only", items[0].tags)
 
     def test_deduplication_is_conservative(self):
         base = dict(title="Weekly webinar", provider="ETF", url="https://x.test/a", sourceUrl="https://x.test")
