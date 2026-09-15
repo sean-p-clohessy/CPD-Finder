@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T10:10:17Z",
+  "generatedAt": "2026-09-15T11:14:10Z",
   "opportunities": [
     {
       "title": "Getting Started: Ways to Teach and Assess BTEC Tech Award (2022) in Child Development",
@@ -21,7 +21,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:23Z",
+      "lastSeen": "2026-09-15T11:14:18Z",
       "id": "opp_7bec4afbc3cc4c07"
     },
     {
@@ -43,7 +43,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_a6798807f93cd543"
     },
     {
@@ -65,7 +65,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:20Z",
+      "lastSeen": "2026-09-15T11:14:13Z",
       "id": "opp_cd960304b3468e6d"
     },
     {
@@ -88,7 +88,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_64db519ce4e6d070"
     },
     {
@@ -111,7 +111,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_106f1db282d5d1be"
     },
     {
@@ -133,7 +133,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:21Z",
+      "lastSeen": "2026-09-15T11:14:15Z",
       "id": "opp_1399f5d1a6a90729"
     },
     {
@@ -155,7 +155,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_4867e3285385523a"
     },
     {
@@ -177,7 +177,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:22Z",
+      "lastSeen": "2026-09-15T11:14:16Z",
       "id": "opp_bc22e218bda5dc5e"
     },
     {
@@ -199,7 +199,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:23Z",
+      "lastSeen": "2026-09-15T11:14:17Z",
       "id": "opp_16b264723559d796"
     },
     {
@@ -222,7 +222,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_50fd4a945c674c5f"
     },
     {
@@ -244,7 +244,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_b75d7b682a21326d"
     },
     {
@@ -266,7 +266,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:20Z",
+      "lastSeen": "2026-09-15T11:14:13Z",
       "id": "opp_da4d3001587527cf"
     },
     {
@@ -289,7 +289,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_b94fa9630131dc8f"
     },
     {
@@ -312,7 +312,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_c43d13ce79be2711"
     },
     {
@@ -334,7 +334,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:23Z",
+      "lastSeen": "2026-09-15T11:14:18Z",
       "id": "opp_a93c394b0ee2a0fa"
     },
     {
@@ -357,8 +357,35 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_43a4fe11add21898"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 22nd September 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/bK57jN_JTZCP3bHMtHkvnQ",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2026-09-22",
+      "endDate": null,
+      "startTime": "12:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_0654edace7fd9f78"
     },
     {
       "title": "Functional & Essential Skills Drop-in Clinic",
@@ -382,7 +409,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_ccae75ee28e441a6"
     },
     {
@@ -405,7 +432,7 @@
         "T Level Health and Science",
         "T Levels"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_e5b0c5003a9be55f"
     },
     {
@@ -428,7 +455,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_9aac83ddb4934c50"
     },
     {
@@ -450,7 +477,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_0827c9af07ceb985"
     },
     {
@@ -472,7 +499,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:21Z",
+      "lastSeen": "2026-09-15T11:14:15Z",
       "id": "opp_884b0b51e0f2be6b"
     },
     {
@@ -495,7 +522,7 @@
         "Automotive",
         "Electric vehicles"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_493ccf82488d6d41"
     },
     {
@@ -517,7 +544,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_f9111e115d20b73c"
     },
     {
@@ -540,7 +567,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_f3674afd3798d444"
     },
     {
@@ -563,7 +590,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_7d78d72d619b27ed"
     },
     {
@@ -585,7 +612,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:23Z",
+      "lastSeen": "2026-09-15T11:14:17Z",
       "id": "opp_40271a80b22fab06"
     },
     {
@@ -607,7 +634,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:22Z",
+      "lastSeen": "2026-09-15T11:14:15Z",
       "id": "opp_ee22c046d933be27"
     },
     {
@@ -629,7 +656,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-15T10:10:22Z",
+      "lastSeen": "2026-09-15T11:14:17Z",
       "id": "opp_1d0152057de6e409"
     },
     {
@@ -652,7 +679,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_89bc2e36fd52feab"
     },
     {
@@ -675,7 +702,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_66c4d3e8313b80ae"
     },
     {
@@ -698,7 +725,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_6c6749b34996c299"
     },
     {
@@ -722,7 +749,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_4a3e0aa80aadbc73"
     },
     {
@@ -746,8 +773,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_cd8a9ccda7447557"
+    },
+    {
+      "title": "CO2A5 Qualification Briefing – Technical Award in the Study of Hair and Beauty – 1st October 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/webinar/register/WN_srhGcyHvQ9O3-12YEjtEYg",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "Please join us for a Qualification Briefing designed for new and existing centres offering Level 1/2 Technical Award in the Study of Hair and Beauty (CO2A5). This session is designed for new and established centres and will provide an overview of qualification structure, updates",
+      "startDate": "2026-10-01",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:27Z",
+      "id": "opp_d36d8474929f315c"
     },
     {
       "title": "ESOL Network - Initial Assessment, Profiling & Pre-Entry Learners",
@@ -769,7 +823,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_8b796d40d542fa82"
     },
     {
@@ -791,7 +845,7 @@
       "tags": [
         "Digital Functional Skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_4710b46cb0211305"
     },
     {
@@ -814,7 +868,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_872d1158aea1c3fb"
     },
     {
@@ -836,7 +890,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_a2e82d8f8814073d"
     },
     {
@@ -859,7 +913,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_a314d203fa07ec68"
     },
     {
@@ -883,7 +937,7 @@
         "Members only",
         "Networking"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_da4f724a84d73abd"
     },
     {
@@ -905,7 +959,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_f57fa931e11c8670"
     },
     {
@@ -928,7 +982,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-15T10:10:28Z",
+      "lastSeen": "2026-09-15T11:14:21Z",
       "id": "opp_91e31341d0833b3a"
     },
     {
@@ -953,8 +1007,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_c5abdc248f290eea"
+    },
+    {
+      "title": "VTCT Skills Beauty Collective – 13th October 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/j/87199654141",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
+      "startDate": "2026-10-13",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:27Z",
+      "id": "opp_5109ba087981c009"
     },
     {
       "title": "NCFE Functional Skills IQA Training",
@@ -975,7 +1056,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_83566dbc52306745"
     },
     {
@@ -1001,7 +1082,7 @@
         "Functional skills",
         "Teach share transform"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_905478f7ddc1e93e"
     },
     {
@@ -1023,8 +1104,35 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_ef784a7c17c18844"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 15th October 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/HKO6ze_ATLS1vWqB66Trjg",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2026-10-15",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:25Z",
+      "id": "opp_77e254d88ba8a730"
     },
     {
       "title": "NCFE L1/2 Technical Award in Music Technology Assessor and IQA Training",
@@ -1048,8 +1156,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_81b844cfeb411cf7"
+    },
+    {
+      "title": "Hair and Barbering online Collective – Monday 19th October 2026 – 12pm",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/Egd7BGGURGaOLAjJAqzFaw",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
+      "startDate": "2026-10-19",
+      "endDate": null,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:25Z",
+      "id": "opp_60db8193902f90d4"
     },
     {
       "title": "Building Stronger Teams for Better Results: Mental Resilience",
@@ -1072,7 +1207,7 @@
         "Leadership & teams",
         "Wellbeing"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_05dc627f114fbe51"
     },
     {
@@ -1097,7 +1232,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_be21a4c45656626f"
     },
     {
@@ -1122,7 +1257,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_c03ae46dbf8c8d5c"
     },
     {
@@ -1147,7 +1282,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_001a977405f70e54"
     },
     {
@@ -1172,7 +1307,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_8621595ce65b1acc"
     },
     {
@@ -1195,7 +1330,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_95b7dcfe6cf69851"
     },
     {
@@ -1218,8 +1353,35 @@
         "All",
         "Essential Digital Skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_1e5a4aa22e03faf0"
+    },
+    {
+      "title": "Non-Exam Assessment Briefing – Technical Award in The Study of Hair and Beauty (CO2A5) – 5th November 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/webinar/register/WN_WpSnbr_jSguEnXcBOb8qEQ",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "Please join us online for a qualification briefing for centres delivering the Level 1/2 Technical Award in the Study of Hair and Beauty (CO2A5).",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:27Z",
+      "id": "opp_a45cbbb3fe0f3a3e"
     },
     {
       "title": "NCFE Functional Skills Assessor Training",
@@ -1240,7 +1402,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_f4f522a362b94a25"
     },
     {
@@ -1263,8 +1425,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_d01ebf60ac31a763"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 16th November 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/-I_j5F9ZSA2mtK1K8PnWBQ",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2026-11-16",
+      "endDate": null,
+      "startTime": "11:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_b09b977367a575c7"
     },
     {
       "title": "Functional Fluency: Enhancing EAL Support in English Functional Skills",
@@ -1286,7 +1475,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_e0296d0d5ef99625"
     },
     {
@@ -1309,7 +1498,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_11b912b1322f1d45"
     },
     {
@@ -1335,7 +1524,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_5992d9c95ff2f7e7"
     },
     {
@@ -1358,7 +1547,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_7f69693ac6a5c040"
     },
     {
@@ -1383,7 +1572,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_339417d7cea84540"
     },
     {
@@ -1406,7 +1595,7 @@
         "Automotive",
         "Wellbeing"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_e9c24df7816d68f9"
     },
     {
@@ -1429,7 +1618,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_3e44ee5d18ed2cd5"
     },
     {
@@ -1454,8 +1643,62 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_01259793bb0d16dd"
+    },
+    {
+      "title": "Hair and Barbering online Collective – Tuesday 1st December 2026 – 12pm",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/Vk4d1KhuQE--i0VDr9ddcQ",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
+      "startDate": "2026-12-01",
+      "endDate": null,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:25Z",
+      "id": "opp_c1163ea5ebc08a8c"
+    },
+    {
+      "title": "Exam Briefing – Technical Award in The Study of Hair and Beauty (CO2A5) – 2nd December 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/webinar/register/WN_5xw7OluEQqqiJgoa1hqZ3g",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "Please join us online for a qualification briefing for centres delivering the Level 1/2 Technical Award in the Study of Hair and Beauty (CO2A5).",
+      "startDate": "2026-12-02",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:27Z",
+      "id": "opp_fa4d81607a76c842"
     },
     {
       "title": "CPD English: Entry Level English Standardisation",
@@ -1477,7 +1720,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_f4caece989976142"
     },
     {
@@ -1500,8 +1743,35 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_dc0090450a494323"
+    },
+    {
+      "title": "VTCT Skills Beauty Collective – 10th December 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/h7eAvd-cTherNQw3KShCCA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
+      "startDate": "2026-12-10",
+      "endDate": null,
+      "startTime": "10:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_ae70c0897435b6a5"
     },
     {
       "title": "Functional & Essential Skills Drop-in Clinic",
@@ -1525,7 +1795,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_86409f114f85ea29"
     },
     {
@@ -1548,8 +1818,62 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_a9c53681b40dca9b"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 16th December 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/h8p9i19tQgOOyl4ZwKcPHQ",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2026-12-16",
+      "endDate": null,
+      "startTime": "16:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_79c06695d5ffa832"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 12th January 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/zrAOoPZ4RmGz7Bn69VLmqg",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2027-01-12",
+      "endDate": null,
+      "startTime": "12:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_10a0b4fdb03a6bb5"
     },
     {
       "title": "V Certs Level 1/2 Technical Awards Road show Face -to- Face Standardisation Event - Stevenage",
@@ -1572,7 +1896,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_4d35a4131bbe8105"
     },
     {
@@ -1595,7 +1919,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_70d240b1dd4792f4"
     },
     {
@@ -1620,7 +1944,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_0e7b59963c6ea638"
     },
     {
@@ -1643,7 +1967,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_f1ce578c681e3da4"
     },
     {
@@ -1668,7 +1992,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_2c978b0e57a4ea22"
     },
     {
@@ -1691,7 +2015,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_870caed02c8331cf"
     },
     {
@@ -1716,8 +2040,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_67430ef15b96cab6"
+    },
+    {
+      "title": "VTCT Skills Beauty Collective – 20th January 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/FdkjwTWQT9-ku7qrjdTIOg",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
+      "startDate": "2027-01-20",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:27Z",
+      "id": "opp_a9c4cd48350ce967"
     },
     {
       "title": "NCFE L1/2 Technical Award in Business & Enterprise Assessor/IQA Training",
@@ -1741,7 +2092,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_5ba384c367e65b8d"
     },
     {
@@ -1766,7 +2117,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_5875768c2fcc6c85"
     },
     {
@@ -1791,8 +2142,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_96f0e62fdb22e01b"
+    },
+    {
+      "title": "Hair and Barbering online Collective – Monday 1st February 2027 – 3pm",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/Jzd-LcsvQ1K0lCnO6E7lqw",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
+      "startDate": "2027-02-01",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:25Z",
+      "id": "opp_0cecfea4f79be1a0"
     },
     {
       "title": "NCFE Assessor Training",
@@ -1813,7 +2191,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_be10c41b8d24f501"
     },
     {
@@ -1838,7 +2216,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_b31a6ca4207f75e6"
     },
     {
@@ -1861,7 +2239,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-15T10:10:30Z",
+      "lastSeen": "2026-09-15T11:14:22Z",
       "id": "opp_485da026f6484007"
     },
     {
@@ -1884,7 +2262,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_e68f114c93f93109"
     },
     {
@@ -1906,8 +2284,35 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_2dca0ef7a0ab0484"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 18th February 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/DW4sbQ1JRyeJ84_o81y9Xg",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2027-02-18",
+      "endDate": null,
+      "startTime": "10:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_2a2dd7e728c40da4"
     },
     {
       "title": "V Certs Level 1/2 Technical Awards Road show Face -to- Face Standardisation Event - Manchester",
@@ -1930,7 +2335,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_b64018812c4a05b6"
     },
     {
@@ -1952,7 +2357,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_480f99f2e0398261"
     },
     {
@@ -1975,8 +2380,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_fa2bb23b88344dd9"
+    },
+    {
+      "title": "VTCT Skills Beauty Collective – 16th March 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/HBwSdDjjQe-ClVDWBPVssA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
+      "startDate": "2027-03-16",
+      "endDate": null,
+      "startTime": "10:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:27Z",
+      "id": "opp_26b7310b733a1a83"
     },
     {
       "title": "NCFE IQA Training",
@@ -1997,8 +2429,62 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_af8556ca4a101074"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 22nd March 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/PLLIOYthTm2vIr7kFyeojA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2027-03-22",
+      "endDate": null,
+      "startTime": "16:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_e9a65f8463236472"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 20th April 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/oA0CAUiJRuObijjStOdY_Q",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2027-04-20",
+      "endDate": null,
+      "startTime": "14:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_253f748f645a5b68"
     },
     {
       "title": "NCFE Assessor Training",
@@ -2019,8 +2505,62 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_7ca4de8abc4fe45d"
+    },
+    {
+      "title": "Hair and Barbering online Collective – Tuesday 27th April 2027 – 3pm",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/XzqvRHu5Sy2RC3OkzzvKNw",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
+      "startDate": "2027-04-27",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:25Z",
+      "id": "opp_70f1104d17da2b88"
+    },
+    {
+      "title": "VTCT Skills Beauty Collective – 5th May 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/tRtEzfegRM6yxLCezpaJWA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
+      "startDate": "2027-05-05",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:27Z",
+      "id": "opp_a17a87a01cfffa95"
     },
     {
       "title": "NCFE Assessor Training",
@@ -2041,7 +2581,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_3ad34e7125790d62"
     },
     {
@@ -2063,7 +2603,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_8e845cac408ad1a1"
     },
     {
@@ -2086,8 +2626,35 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_21debc3351c09500"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 19th May 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/TeISOx5GRx6MSjI3hAtHMQ",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2027-05-19",
+      "endDate": null,
+      "startTime": "12:00",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:26Z",
+      "id": "opp_e1e3550938c9bd5b"
     },
     {
       "title": "NCFE Functional Skills IQA Training",
@@ -2108,7 +2675,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_fbf8ea0cdf135866"
     },
     {
@@ -2130,7 +2697,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_e80741f7c30d13a4"
     },
     {
@@ -2152,8 +2719,62 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_60706e147f767b5c"
+    },
+    {
+      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 10th June 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/51_goSfeSBCBwyoqFymgxA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
+      "startDate": "2027-06-10",
+      "endDate": null,
+      "startTime": "09:30",
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:25Z",
+      "id": "opp_8e3959894d8faefa"
+    },
+    {
+      "title": "Hair and Barbering online Collective – Tuesday 15th June 2027 – 3pm",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/P7DqHjihQfqXM3aBvZr1CA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Networking",
+      "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
+      "startDate": "2027-06-15",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-15T11:14:25Z",
+      "id": "opp_356ba3b3fdc12656"
     },
     {
       "title": "NCFE Functional Skills IQA Training",
@@ -2174,7 +2795,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_c752cda682295c48"
     },
     {
@@ -2197,7 +2818,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_412d2c6f3aff4d8e"
     },
     {
@@ -2220,7 +2841,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-15T10:10:25Z",
+      "lastSeen": "2026-09-15T11:14:20Z",
       "id": "opp_ec9a65c3fe771a70"
     }
   ],
@@ -2228,8 +2849,8 @@
     {
       "url": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "provider": "Pearson",
-      "lastAttempted": "2026-09-15T10:10:17Z",
-      "lastSuccessful": "2026-09-15T10:10:17Z",
+      "lastAttempted": "2026-09-15T11:14:10Z",
+      "lastSuccessful": "2026-09-15T11:14:10Z",
       "count": 11,
       "status": "ok",
       "error": null
@@ -2237,8 +2858,8 @@
     {
       "url": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/",
       "provider": "NCFE",
-      "lastAttempted": "2026-09-15T10:10:17Z",
-      "lastSuccessful": "2026-09-15T10:10:17Z",
+      "lastAttempted": "2026-09-15T11:14:10Z",
+      "lastSuccessful": "2026-09-15T11:14:10Z",
       "count": 67,
       "status": "ok",
       "error": null
@@ -2246,8 +2867,8 @@
     {
       "url": "https://etfoundation.co.uk/events-and-community/",
       "provider": "ETF",
-      "lastAttempted": "2026-09-15T10:10:17Z",
-      "lastSuccessful": "2026-09-15T10:10:17Z",
+      "lastAttempted": "2026-09-15T11:14:10Z",
+      "lastSuccessful": "2026-09-15T11:14:10Z",
       "count": 8,
       "status": "ok",
       "error": null
@@ -2255,8 +2876,8 @@
     {
       "url": "https://www.theimi.org.uk/industry-latest/events",
       "provider": "IMI",
-      "lastAttempted": "2026-09-15T10:10:17Z",
-      "lastSuccessful": "2026-09-15T10:10:17Z",
+      "lastAttempted": "2026-09-15T11:14:10Z",
+      "lastSuccessful": "2026-09-15T11:14:10Z",
       "count": 10,
       "status": "ok",
       "error": null
@@ -2264,11 +2885,20 @@
     {
       "url": "https://www.nocn.org.uk/products/short-online-courses/",
       "provider": "NOCN",
-      "lastAttempted": "2026-09-15T10:10:17Z",
+      "lastAttempted": "2026-09-15T11:14:10Z",
       "lastSuccessful": null,
       "count": 0,
       "status": "error",
       "error": "No opportunities found; retained last-known-good data"
+    },
+    {
+      "url": "https://www.vtctskills.org.uk/media-centre/events/",
+      "provider": "VTCT Skills",
+      "lastAttempted": "2026-09-15T11:14:10Z",
+      "lastSuccessful": "2026-09-15T11:14:10Z",
+      "count": 23,
+      "status": "ok",
+      "error": null
     }
   ]
 }

@@ -9,6 +9,7 @@ from collector.adapters.imi import ImiAdapter
 from collector.adapters.ncfe import NcfeAdapter
 from collector.adapters.etf import EtfAdapter
 from collector.adapters.pearson import PearsonAdapter
+from collector.adapters.vtct import VtctAdapter
 from collector.models import Opportunity, deduplicate
 from collector.parsing import parse_date, parse_times
 from collector.pipeline import collect, is_direct_destination, read_sources
@@ -57,6 +58,19 @@ class EtfSession:
     @staticmethod
     def post(*args, **kwargs):
         return JsonResponse({"results":[{"name":"Inclusive practice","startDate":"2026-10-01T16:00:00Z","endDate":"2026-10-01T17:00:00Z","eventType":"Webinar","venue":"Online","summary":"Practical CPD","eventUrl":"/events-and-community/inclusive-practice/","eventTags":["Membership"],"eventStatus":"Open","fromPrice":""}]})
+
+
+class VtctSession:
+    @staticmethod
+    def get(url, *args, **kwargs):
+        if "/page/2/" in url:
+            return TextResponse('<a class="blog-posts__post" href="/event/second/"></a>')
+        pages = {
+            "one": '''<main><h1>CO2A5 Qualification Briefing</h1><p>1st October 2026 | 15:00 | Online</p><article>Free guidance on qualification delivery and assessment.</article><a href="https://zoom.example/register-one">Register here</a></main>''',
+            "second": '''<main><h1>Hair and Barbering Online Collective</h1><p>19th October 2026 | 12:00 - 13:00 | Online</p><article>Network and share practice with other centres.</article><a href="https://zoom.example/register-two">Join the event</a></main>''',
+        }
+        key = "second" if "/second/" in url else "one"
+        return TextResponse(pages[key])
 
 
 class CollectorTests(unittest.TestCase):
@@ -111,6 +125,18 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(items[0].url, "https://www.theimi.org.uk/event/one")
         self.assertIn("Electric vehicles", items[0].tags)
         self.assertIn("Members only", items[0].tags)
+
+    def test_vtct_collects_all_pages_and_direct_registration_links(self):
+        listing = '''<a class="blog-posts__post" href="/event/one/"></a>
+        <div class="pagination"><a href="?paged=2&amp;search_type=content" data-page="2">2</a></div>'''
+        items = VtctAdapter().collect(listing, "https://www.vtctskills.org.uk/media-centre/events/", VtctSession)
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items[0].provider, "VTCT Skills")
+        self.assertEqual(items[0].startDate, "2026-10-01")
+        self.assertEqual(items[0].startTime, "15:00")
+        self.assertEqual(items[0].url, "https://zoom.example/register-one")
+        self.assertIn("Qualification delivery", items[0].tags)
+        self.assertEqual(items[1].endTime, "13:00")
 
     def test_deduplication_is_conservative(self):
         base = dict(title="Weekly webinar", provider="ETF", url="https://x.test/a", sourceUrl="https://x.test")
