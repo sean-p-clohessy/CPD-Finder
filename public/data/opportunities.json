@@ -1,57 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T10:04:44Z",
+  "generatedAt": "2026-09-23T10:04:45Z",
   "opportunities": [
-    {
-      "title": "Embedding Neuro-Inclusive Practice Across Further Education",
-      "provider": "ETF",
-      "url": "https://etfoundation.co.uk/events-and-community/embedding-neuro-inclusive-practice-across-further-education",
-      "sourceUrl": "https://etfoundation.co.uk/events-and-community",
-      "type": "Member Event",
-      "description": "Join ETF Fellow, Imran Mir FSET QTLS for a discussion focusing on embedding neuro-inclusive practice across further education, with a particular emphasis on moving beyond awareness towards sustainable, institution-wide approaches that improve both staff and learner outcomes. By t",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "startTime": "16:00",
-      "endTime": "17:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "tags": [
-        "Members only",
-        "Membership"
-      ],
-      "lastSeen": "2026-09-22T10:04:59Z",
-      "id": "opp_43a4fe11add21898"
-    },
-    {
-      "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 22nd September 2026",
-      "provider": "VTCT Skills",
-      "url": "https://us02web.zoom.us/meeting/register/bK57jN_JTZCP3bHMtHkvnQ",
-      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
-      "description": "Join us at this event to support centres currently delivering, or those planning future delivery, of Higher-Level Beauty provision.",
-      "startDate": "2026-09-22",
-      "endDate": null,
-      "startTime": "12:00",
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Free",
-      "isFree": true,
-      "isSelfPaced": false,
-      "tags": [
-        "Assessment",
-        "Early Years",
-        "Hair & Beauty",
-        "Logistics",
-        "Networking",
-        "Qualification delivery"
-      ],
-      "lastSeen": "2026-09-22T10:05:12Z",
-      "id": "opp_0654edace7fd9f78"
-    },
     {
       "title": "Functional & Essential Skills Drop-in Clinic",
       "provider": "NCFE",
@@ -74,7 +24,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_ccae75ee28e441a6"
     },
     {
@@ -97,7 +47,7 @@
         "T Level Health and Science",
         "T Levels"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_e5b0c5003a9be55f"
     },
     {
@@ -120,7 +70,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-22T10:04:59Z",
+      "lastSeen": "2026-09-23T10:04:57Z",
       "id": "opp_9aac83ddb4934c50"
     },
     {
@@ -142,7 +92,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_0827c9af07ceb985"
     },
     {
@@ -164,7 +114,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:48Z",
+      "lastSeen": "2026-09-23T10:04:49Z",
       "id": "opp_884b0b51e0f2be6b"
     },
     {
@@ -187,7 +137,7 @@
         "Automotive",
         "Electric vehicles"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_493ccf82488d6d41"
     },
     {
@@ -209,7 +159,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_f9111e115d20b73c"
     },
     {
@@ -232,7 +182,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-22T10:04:59Z",
+      "lastSeen": "2026-09-23T10:04:57Z",
       "id": "opp_f3674afd3798d444"
     },
     {
@@ -255,7 +205,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_7d78d72d619b27ed"
     },
     {
@@ -277,7 +227,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:51Z",
+      "lastSeen": "2026-09-23T10:04:52Z",
       "id": "opp_c554e8951d7aedfb"
     },
     {
@@ -299,7 +249,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:49Z",
+      "lastSeen": "2026-09-23T10:04:50Z",
       "id": "opp_40271a80b22fab06"
     },
     {
@@ -321,7 +271,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:48Z",
+      "lastSeen": "2026-09-23T10:04:49Z",
       "id": "opp_ee22c046d933be27"
     },
     {
@@ -343,7 +293,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:49Z",
+      "lastSeen": "2026-09-23T10:04:49Z",
       "id": "opp_1d0152057de6e409"
     },
     {
@@ -366,7 +316,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_89bc2e36fd52feab"
     },
     {
@@ -389,7 +339,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_66c4d3e8313b80ae"
     },
     {
@@ -411,7 +361,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:50Z",
+      "lastSeen": "2026-09-23T10:04:51Z",
       "id": "opp_7984ee8fdbe76efc"
     },
     {
@@ -433,7 +383,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:51Z",
+      "lastSeen": "2026-09-23T10:04:51Z",
       "id": "opp_10ec9f0ef5668741"
     },
     {
@@ -455,7 +405,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:50Z",
+      "lastSeen": "2026-09-23T10:04:51Z",
       "id": "opp_10aff0570db1bd59"
     },
     {
@@ -479,7 +429,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_4a3e0aa80aadbc73"
     },
     {
@@ -501,7 +451,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:47Z",
+      "lastSeen": "2026-09-23T10:04:48Z",
       "id": "opp_0024816fadfbc18e"
     },
     {
@@ -525,7 +475,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_cd8a9ccda7447557"
     },
     {
@@ -552,7 +502,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:14Z",
+      "lastSeen": "2026-09-23T10:05:21Z",
       "id": "opp_d36d8474929f315c"
     },
     {
@@ -575,7 +525,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-22T10:04:59Z",
+      "lastSeen": "2026-09-23T10:04:57Z",
       "id": "opp_8b796d40d542fa82"
     },
     {
@@ -597,7 +547,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:50Z",
+      "lastSeen": "2026-09-23T10:04:50Z",
       "id": "opp_32dbae84c03a1c5e"
     },
     {
@@ -619,7 +569,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:49Z",
+      "lastSeen": "2026-09-23T10:04:50Z",
       "id": "opp_5db7f6229a1dd4ab"
     },
     {
@@ -641,7 +591,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:48Z",
+      "lastSeen": "2026-09-23T10:04:49Z",
       "id": "opp_a610299ad88b436b"
     },
     {
@@ -651,6 +601,28 @@
       "sourceUrl": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "type": "Standardisation",
       "description": "This session is aimed at UK based teachers delivering the BTEC Tech Award (2022) in Music Practice. During this session, you learn how to apply a 'best fit' approach to marking your learner's work in response to the Pearson Set Assignments for internally assessed components. The",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": false,
+      "tags": [
+        "BTEC"
+      ],
+      "lastSeen": "2026-09-23T10:04:50Z",
+      "id": "opp_561960bd070f1e50"
+    },
+    {
+      "title": "BTEC Tech Award in Travel and Tourism (2022): Marking and moderation for Internally Assessed Components- Component 1",
+      "provider": "Pearson",
+      "url": "https://pearson.cventevents.com/d/bcz48c/4W",
+      "sourceUrl": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
+      "type": "Standardisation",
+      "description": "This session is aimed at UK based teachers delivering the BTEC Tech Award (2022) in Travel and Tourism. During this session, you learn how to apply a 'best fit' approach to marking your learner's work in response to the Pearson Set Assignments for internally assessed components.",
       "startDate": "2026-10-05",
       "endDate": "2026-10-05",
       "startTime": "16:00",
@@ -663,8 +635,8 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-22T10:04:49Z",
-      "id": "opp_561960bd070f1e50"
+      "lastSeen": "2026-09-23T10:04:52Z",
+      "id": "opp_8755e733d5360c62"
     },
     {
       "title": "NCFE Digital Functional Skills Onboarding",
@@ -685,7 +657,7 @@
       "tags": [
         "Digital Functional Skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_4710b46cb0211305"
     },
     {
@@ -708,7 +680,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-22T10:04:59Z",
+      "lastSeen": "2026-09-23T10:04:57Z",
       "id": "opp_75bee427813a95ea"
     },
     {
@@ -730,7 +702,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_a2e82d8f8814073d"
     },
     {
@@ -753,7 +725,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_a314d203fa07ec68"
     },
     {
@@ -775,7 +747,7 @@
       "tags": [
         "Automotive"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_2e9b31fcdba39e11"
     },
     {
@@ -799,7 +771,7 @@
         "Members only",
         "Networking"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_da4f724a84d73abd"
     },
     {
@@ -821,7 +793,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_f57fa931e11c8670"
     },
     {
@@ -846,7 +818,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_c5abdc248f290eea"
     },
     {
@@ -873,7 +845,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:12Z",
+      "lastSeen": "2026-09-23T10:05:15Z",
       "id": "opp_5109ba087981c009"
     },
     {
@@ -895,7 +867,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_83566dbc52306745"
     },
     {
@@ -921,8 +893,31 @@
         "Functional skills",
         "Teach share transform"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_905478f7ddc1e93e"
+    },
+    {
+      "title": "ADAS Explained: The Hidden Intelligence Behind Modern Vehicle Systems",
+      "provider": "IMI",
+      "url": "https://www.theimi.org.uk/event/adas-explained-hidden-intelligence-behind-modern-vehicle-systems",
+      "sourceUrl": "https://www.theimi.org.uk/industry-latest/events",
+      "type": "Professional development",
+      "description": "| Online | Presented by Grahame Pells AAE, FIMI, automotive engineer, MOT tester, industry writer and co-author of Automated Driving and Driver Assistance System...",
+      "startDate": "2026-10-15",
+      "endDate": null,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Automotive",
+        "Vehicle technology"
+      ],
+      "lastSeen": "2026-09-23T10:04:59Z",
+      "id": "opp_6c42f6bd9ea2c811"
     },
     {
       "title": "NCFE IQA Training",
@@ -943,7 +938,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_ef784a7c17c18844"
     },
     {
@@ -966,7 +961,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-22T10:04:59Z",
+      "lastSeen": "2026-09-23T10:04:57Z",
       "id": "opp_8bf305e450eb3b6c"
     },
     {
@@ -993,7 +988,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:08Z",
+      "lastSeen": "2026-09-23T10:05:09Z",
       "id": "opp_77e254d88ba8a730"
     },
     {
@@ -1018,7 +1013,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_81b844cfeb411cf7"
     },
     {
@@ -1045,7 +1040,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:06Z",
+      "lastSeen": "2026-09-23T10:05:06Z",
       "id": "opp_60db8193902f90d4"
     },
     {
@@ -1069,7 +1064,7 @@
         "Leadership & teams",
         "Wellbeing"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_05dc627f114fbe51"
     },
     {
@@ -1092,7 +1087,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-22T10:04:59Z",
+      "lastSeen": "2026-09-23T10:04:57Z",
       "id": "opp_250cab40c64eb935"
     },
     {
@@ -1117,7 +1112,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_be21a4c45656626f"
     },
     {
@@ -1142,7 +1137,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_c03ae46dbf8c8d5c"
     },
     {
@@ -1167,7 +1162,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_001a977405f70e54"
     },
     {
@@ -1192,7 +1187,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_8621595ce65b1acc"
     },
     {
@@ -1215,7 +1210,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_95b7dcfe6cf69851"
     },
     {
@@ -1239,7 +1234,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-22T10:04:59Z",
+      "lastSeen": "2026-09-23T10:04:57Z",
       "id": "opp_9ac7e3263137bffe"
     },
     {
@@ -1262,8 +1257,35 @@
         "All",
         "Essential Digital Skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_1e5a4aa22e03faf0"
+    },
+    {
+      "title": "VTCT Skills Early Years Collective – 4th November 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/webinar/register/WN_31eKrK2GQ020DYUNEW7-GA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "Join us at the VTCT Skills Early Years Collective Online",
+      "startDate": "2026-11-04",
+      "endDate": null,
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-23T10:05:20Z",
+      "id": "opp_d9a7904c8b9b89e5"
     },
     {
       "title": "Non-Exam Assessment Briefing – Technical Award in The Study of Hair and Beauty (CO2A5) – 5th November 2026",
@@ -1289,7 +1311,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:15Z",
+      "lastSeen": "2026-09-23T10:05:22Z",
       "id": "opp_a45cbbb3fe0f3a3e"
     },
     {
@@ -1311,7 +1333,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_f4f522a362b94a25"
     },
     {
@@ -1334,7 +1356,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_d01ebf60ac31a763"
     },
     {
@@ -1361,8 +1383,31 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:10Z",
+      "lastSeen": "2026-09-23T10:05:11Z",
       "id": "opp_b09b977367a575c7"
+    },
+    {
+      "title": "Learning without Barriers - High Quality Inclusive Practice in FES & Apprenticeships",
+      "provider": "ETF",
+      "url": "https://etfoundation.co.uk/events-and-community/learning-without-barriers-high-quality-inclusive-practice-in-fes-apprenticeships",
+      "sourceUrl": "https://etfoundation.co.uk/events-and-community",
+      "type": "Webinar",
+      "description": "Join Dr Barbara Van Der Eecken MSET to introduce and reconfirm the foundations of high quality inclusive practice in FES and apprenticeships. This session will build shared language and expectations around inclusion, explore what Ofsted looks for and strengthens practitioners’ ab",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "delivery": "In person",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Members only",
+        "Membership"
+      ],
+      "lastSeen": "2026-09-23T10:04:57Z",
+      "id": "opp_122263e5fbc03038"
     },
     {
       "title": "Functional Fluency: Enhancing EAL Support in English Functional Skills",
@@ -1384,7 +1429,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_e0296d0d5ef99625"
     },
     {
@@ -1407,7 +1452,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_11b912b1322f1d45"
     },
     {
@@ -1433,7 +1478,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_5992d9c95ff2f7e7"
     },
     {
@@ -1456,7 +1501,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_7f69693ac6a5c040"
     },
     {
@@ -1481,7 +1526,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_339417d7cea84540"
     },
     {
@@ -1504,7 +1549,7 @@
         "Automotive",
         "Wellbeing"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_e9c24df7816d68f9"
     },
     {
@@ -1527,7 +1572,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_3e44ee5d18ed2cd5"
     },
     {
@@ -1552,7 +1597,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_01259793bb0d16dd"
     },
     {
@@ -1579,7 +1624,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:07Z",
+      "lastSeen": "2026-09-23T10:05:08Z",
       "id": "opp_c1163ea5ebc08a8c"
     },
     {
@@ -1606,8 +1651,31 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:15Z",
+      "lastSeen": "2026-09-23T10:05:21Z",
       "id": "opp_fa4d81607a76c842"
+    },
+    {
+      "title": "Learning without Barriers - Beyond Identification: High-Quality Inclusive Practice in FES/Apprenticeships",
+      "provider": "ETF",
+      "url": "https://etfoundation.co.uk/events-and-community/learning-without-barriers-beyond-identification-high-quality-inclusive-practice-in-fesapprenticeships",
+      "sourceUrl": "https://etfoundation.co.uk/events-and-community",
+      "type": "Webinar",
+      "description": "The second webinar in our Learning Without Barriers mini-series, this focused 1 hour session will explore inclusion, moving beyond identification into skilled, intentional responses to barriers in learning and work. Delivered by Dr Barbara Van Der Eecken, the session helps practi",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "delivery": "In person",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Members only",
+        "Membership"
+      ],
+      "lastSeen": "2026-09-23T10:04:57Z",
+      "id": "opp_46796cd9c2ed2d1d"
     },
     {
       "title": "CPD English: Entry Level English Standardisation",
@@ -1629,7 +1697,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_f4caece989976142"
     },
     {
@@ -1652,7 +1720,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_dc0090450a494323"
     },
     {
@@ -1679,7 +1747,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:12Z",
+      "lastSeen": "2026-09-23T10:05:15Z",
       "id": "opp_ae70c0897435b6a5"
     },
     {
@@ -1704,7 +1772,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_86409f114f85ea29"
     },
     {
@@ -1727,7 +1795,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_a9c53681b40dca9b"
     },
     {
@@ -1754,7 +1822,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:09Z",
+      "lastSeen": "2026-09-23T10:05:10Z",
       "id": "opp_79c06695d5ffa832"
     },
     {
@@ -1781,7 +1849,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:09Z",
+      "lastSeen": "2026-09-23T10:05:10Z",
       "id": "opp_10a0b4fdb03a6bb5"
     },
     {
@@ -1805,7 +1873,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_4d35a4131bbe8105"
     },
     {
@@ -1828,7 +1896,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_70d240b1dd4792f4"
     },
     {
@@ -1853,7 +1921,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_0e7b59963c6ea638"
     },
     {
@@ -1876,7 +1944,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_f1ce578c681e3da4"
     },
     {
@@ -1901,7 +1969,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_2c978b0e57a4ea22"
     },
     {
@@ -1924,7 +1992,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_870caed02c8331cf"
     },
     {
@@ -1949,7 +2017,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_67430ef15b96cab6"
     },
     {
@@ -1976,7 +2044,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:13Z",
+      "lastSeen": "2026-09-23T10:05:17Z",
       "id": "opp_a9c4cd48350ce967"
     },
     {
@@ -2001,7 +2069,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_5ba384c367e65b8d"
     },
     {
@@ -2026,7 +2094,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_5875768c2fcc6c85"
     },
     {
@@ -2051,7 +2119,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_96f0e62fdb22e01b"
     },
     {
@@ -2078,7 +2146,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:06Z",
+      "lastSeen": "2026-09-23T10:05:06Z",
       "id": "opp_0cecfea4f79be1a0"
     },
     {
@@ -2100,7 +2168,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_be10c41b8d24f501"
     },
     {
@@ -2125,7 +2193,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_b31a6ca4207f75e6"
     },
     {
@@ -2148,7 +2216,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-22T10:05:01Z",
+      "lastSeen": "2026-09-23T10:04:59Z",
       "id": "opp_485da026f6484007"
     },
     {
@@ -2171,7 +2239,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_e68f114c93f93109"
     },
     {
@@ -2193,7 +2261,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_2dca0ef7a0ab0484"
     },
     {
@@ -2220,7 +2288,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:10Z",
+      "lastSeen": "2026-09-23T10:05:12Z",
       "id": "opp_2a2dd7e728c40da4"
     },
     {
@@ -2244,7 +2312,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_b64018812c4a05b6"
     },
     {
@@ -2266,8 +2334,35 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_480f99f2e0398261"
+    },
+    {
+      "title": "VTCT Skills Early Years Collective – 11th March 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/webinar/register/WN_CAl8gHiPQCKkZeN0XxHudA",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "Join us at the VTCT Skills Early Years Collective Online",
+      "startDate": "2027-03-11",
+      "endDate": null,
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-23T10:05:18Z",
+      "id": "opp_091302bb4ba2daac"
     },
     {
       "title": "2026/27 Group Approval Hub for V Cert Level 1/2 Technical Awards",
@@ -2289,7 +2384,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_fa2bb23b88344dd9"
     },
     {
@@ -2316,7 +2411,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:13Z",
+      "lastSeen": "2026-09-23T10:05:16Z",
       "id": "opp_26b7310b733a1a83"
     },
     {
@@ -2338,7 +2433,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_af8556ca4a101074"
     },
     {
@@ -2365,7 +2460,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:11Z",
+      "lastSeen": "2026-09-23T10:05:14Z",
       "id": "opp_e9a65f8463236472"
     },
     {
@@ -2392,7 +2487,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:11Z",
+      "lastSeen": "2026-09-23T10:05:13Z",
       "id": "opp_253f748f645a5b68"
     },
     {
@@ -2414,7 +2509,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_7ca4de8abc4fe45d"
     },
     {
@@ -2441,7 +2536,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:07Z",
+      "lastSeen": "2026-09-23T10:05:08Z",
       "id": "opp_70f1104d17da2b88"
     },
     {
@@ -2468,7 +2563,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:14Z",
+      "lastSeen": "2026-09-23T10:05:18Z",
       "id": "opp_a17a87a01cfffa95"
     },
     {
@@ -2490,8 +2585,35 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_3ad34e7125790d62"
+    },
+    {
+      "title": "VTCT Skills Early Years Collective – 11th May 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/webinar/register/WN_M5gVtwl7QTqhje2P-tsI2w",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "Join us at the VTCT Skills Early Years Collective Online",
+      "startDate": "2027-05-11",
+      "endDate": null,
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-23T10:05:19Z",
+      "id": "opp_2017a3ede31372df"
     },
     {
       "title": "NCFE Functional Skills Assessor Training",
@@ -2512,7 +2634,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_8e845cac408ad1a1"
     },
     {
@@ -2535,7 +2657,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_21debc3351c09500"
     },
     {
@@ -2562,7 +2684,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:10Z",
+      "lastSeen": "2026-09-23T10:05:12Z",
       "id": "opp_e1e3550938c9bd5b"
     },
     {
@@ -2584,7 +2706,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_fbf8ea0cdf135866"
     },
     {
@@ -2606,7 +2728,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_e80741f7c30d13a4"
     },
     {
@@ -2628,7 +2750,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_60706e147f767b5c"
     },
     {
@@ -2655,7 +2777,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:08Z",
+      "lastSeen": "2026-09-23T10:05:09Z",
       "id": "opp_8e3959894d8faefa"
     },
     {
@@ -2682,7 +2804,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-22T10:05:07Z",
+      "lastSeen": "2026-09-23T10:05:07Z",
       "id": "opp_356ba3b3fdc12656"
     },
     {
@@ -2704,7 +2826,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_c752cda682295c48"
     },
     {
@@ -2727,7 +2849,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_412d2c6f3aff4d8e"
     },
     {
@@ -2750,25 +2872,52 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-22T10:04:52Z",
+      "lastSeen": "2026-09-23T10:04:54Z",
       "id": "opp_ec9a65c3fe771a70"
+    },
+    {
+      "title": "VTCT Skills Early Years Collective – 19th July 2027",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/webinar/register/WN_eb1CimPbSRKi_QfriE0fSw",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "Join us at the VTCT Skills Early Years Collective Online",
+      "startDate": "2027-07-19",
+      "endDate": null,
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-09-23T10:05:20Z",
+      "id": "opp_6dcfed1f9011329e"
     }
   ],
   "sources": [
     {
       "url": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "provider": "Pearson",
-      "lastAttempted": "2026-09-22T10:04:44Z",
-      "lastSuccessful": "2026-09-22T10:04:44Z",
-      "count": 13,
+      "lastAttempted": "2026-09-23T10:04:45Z",
+      "lastSuccessful": "2026-09-23T10:04:45Z",
+      "count": 14,
       "status": "ok",
       "error": null
     },
     {
       "url": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/",
       "provider": "NCFE",
-      "lastAttempted": "2026-09-22T10:04:44Z",
-      "lastSuccessful": "2026-09-22T10:04:44Z",
+      "lastAttempted": "2026-09-23T10:04:45Z",
+      "lastSuccessful": "2026-09-23T10:04:45Z",
       "count": 61,
       "status": "ok",
       "error": null
@@ -2776,25 +2925,25 @@
     {
       "url": "https://etfoundation.co.uk/events-and-community/",
       "provider": "ETF",
-      "lastAttempted": "2026-09-22T10:04:44Z",
-      "lastSuccessful": "2026-09-22T10:04:44Z",
-      "count": 8,
+      "lastAttempted": "2026-09-23T10:04:45Z",
+      "lastSuccessful": "2026-09-23T10:04:45Z",
+      "count": 9,
       "status": "ok",
       "error": null
     },
     {
       "url": "https://www.theimi.org.uk/industry-latest/events",
       "provider": "IMI",
-      "lastAttempted": "2026-09-22T10:04:44Z",
-      "lastSuccessful": "2026-09-22T10:04:44Z",
-      "count": 10,
+      "lastAttempted": "2026-09-23T10:04:45Z",
+      "lastSuccessful": "2026-09-23T10:04:45Z",
+      "count": 11,
       "status": "ok",
       "error": null
     },
     {
       "url": "https://www.nocn.org.uk/products/short-online-courses/",
       "provider": "NOCN",
-      "lastAttempted": "2026-09-22T10:04:44Z",
+      "lastAttempted": "2026-09-23T10:04:45Z",
       "lastSuccessful": null,
       "count": 0,
       "status": "error",
@@ -2803,9 +2952,9 @@
     {
       "url": "https://www.vtctskills.org.uk/media-centre/events/",
       "provider": "VTCT Skills",
-      "lastAttempted": "2026-09-22T10:04:44Z",
-      "lastSuccessful": "2026-09-22T10:04:44Z",
-      "count": 23,
+      "lastAttempted": "2026-09-23T10:04:45Z",
+      "lastSuccessful": "2026-09-23T10:04:45Z",
+      "count": 26,
       "status": "ok",
       "error": null
     }
