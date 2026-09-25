@@ -61,6 +61,12 @@ Unknown sources use the generic collector. A site with unusual markup or a clien
 
 `pages.yml` deploys `public/` after pushes to `main`, including automated data refreshes. In repository settings, choose **GitHub Actions** as the Pages source.
 
+## Public visits counter
+
+The footer uses the [Hits badge service](https://github.com/silentsoft/hits) to display an approximate shared visit total from 25 September 2026. `public/visits.js` loads the badge once per page load on the published CPD Finder hostname/path only, so local previews do not count. No visitor identifiers, cookies, or browser storage are added by this integration. The image request necessarily reaches the third-party service; `referrerpolicy="no-referrer"` suppresses the page referrer. Hits states that its badge API does not collect personal data; its separate statistics website has its own analytics ([service terms](https://hits.sh/terms/)).
+
+This is a public hit counter, not unique visitor analytics or proof of who visited. Reloads, caching, blockers, bots, and service availability can affect the total. The badge refreshes with a page visit, not continuously. If the service fails, its image alternative text says the counter is unavailable and the opportunity finder continues working. No historical GitHub repository traffic is added to the total.
+
 ## Diagnose a broken source
 
 1. Open the site's **sources checked** control to identify the failing provider and its last successful refresh.

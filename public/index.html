@@ -8,6 +8,7 @@
     <script>document.documentElement.dataset.theme=localStorage.getItem("cpd-theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")</script>
     <link rel="stylesheet" href="./styles.css">
     <script type="module" src="./app.js"></script>
+    <script type="module" src="./visits.js"></script>
   </head>
   <body>
     <a class="skip-link" href="#opportunities">Skip to opportunities</a>
@@ -62,7 +63,12 @@
 
     <footer>
       <div class="footer-inner">
-        <div><strong>CPD Finder</strong><p>A lightweight discovery tool for further education.</p></div>
+        <div><strong>CPD Finder</strong><p>A lightweight discovery tool for further education.</p>
+          <div class="visit-counter" id="visit-counter" hidden>
+            <a href="https://hits.sh/sean-p-clohessy.github.io/CPD-Finder/" target="_blank" rel="noopener noreferrer" aria-label="View CPD Finder visit totals on Hits (opens in a new tab)"><img id="visit-badge" alt="Visits counter unavailable" height="20" referrerpolicy="no-referrer"></a>
+            <p>Approximate visits since 25 September 2026 · repeat visits may count again.</p>
+          </div>
+        </div>
         <details id="source-health"><summary><span id="source-summary">Source status</span></summary><div id="source-list" class="source-list"></div></details>
       </div>
     </footer>
