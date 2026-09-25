@@ -27,6 +27,15 @@ def read_sources(path: Path) -> list[str]:
     return [line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip() and not line.lstrip().startswith("#")]
 
 
+def is_allowed_destination(item: Opportunity) -> bool:
+    # Explicitly approved catalogue exception; all other providers retain the direct-link rule.
+    nocn = "https://www.nocn.org.uk/products/short-online-courses"
+    return is_direct_destination(item) or (
+        item.provider == "NOCN" and item.isSelfPaced and item.linkType == "catalogue"
+        and item.url.rstrip("/") == nocn and item.sourceUrl.rstrip("/") == nocn
+    )
+
+
 def load_previous(path: Path) -> dict:
     if not path.exists():
         return {"opportunities": [], "sources": []}
@@ -53,7 +62,7 @@ def collect(source_file: Path, output_file: Path, *, session=requests, today: da
             response = session.get(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}, timeout=(10, 25), allow_redirects=True)
             response.raise_for_status()
             extracted = adapter.collect(response.text, url, session)
-            valid = [item for item in deduplicate(extracted) if not item.expired(today) and is_direct_destination(item)]
+            valid = [item for item in deduplicate(extracted) if not item.expired(today) and is_allowed_destination(item)]
             if not valid:
                 raise ValueError("No opportunities found; retained last-known-good data")
             all_items.extend(valid)
@@ -63,7 +72,7 @@ def collect(source_file: Path, output_file: Path, *, session=requests, today: da
             for raw in old_by_source.get(url, []):
                 try:
                     item = Opportunity(**raw)
-                    if not item.expired(today) and is_direct_destination(item):
+                    if not item.expired(today) and is_allowed_destination(item):
                         retained.append(item)
                 except TypeError:
                     continue

@@ -59,7 +59,8 @@ function card(item) {
     <div class="badges"><span class="badge provider provider-${escapeHtml(item.provider.toLowerCase().replace(/[^a-z0-9]/g, ""))}">${escapeHtml(item.provider)}</span><span class="badge">${escapeHtml(item.type)}</span>${access}${cost}</div>
     <p class="card-date">${escapeHtml(date)}</p><h3>${escapeHtml(item.title)}</h3>
     ${meta ? `<p class="meta">${meta}</p>` : ""}${item.description ? `<p class="description">${escapeHtml(item.description)}</p>` : ""}
-    <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">View opportunity <span aria-hidden="true">→</span><span class="sr-only">: ${escapeHtml(item.title)} (opens in a new tab)</span></a>
+    ${item.linkType === "catalogue" ? '<p class="catalogue-note">Find this course in the catalogue; registration or login required.</p>' : ""}
+    <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${item.linkType === "catalogue" ? "Browse NOCN courses" : "View opportunity"} <span aria-hidden="true">→</span><span class="sr-only">: ${escapeHtml(item.title)} (opens in a new tab)</span></a>
   </article>`;
 }
 

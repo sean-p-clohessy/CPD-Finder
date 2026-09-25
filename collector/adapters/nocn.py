@@ -1,26 +1,28 @@
 from __future__ import annotations
 
-from urllib.parse import urljoin
+import re
 from collector.adapters.base import Adapter, soup
 from collector.models import Opportunity, clean
-from collector.parsing import infer_type
 
 
 class NocnAdapter(Adapter):
     provider = "NOCN"
 
     def extract(self, html: str, source_url: str) -> list[Opportunity]:
-        page = soup(html)
-        results: list[Opportunity] = []
-        for card in page.select("article, .card, [class*='course']"):
-            heading = card.select_one("h2, h3, h4")
-            link = card.select_one("a[href]")
-            if not heading or not link:
+        results = []
+        for table in soup(html).select(".article table"):
+            heading = table.select_one("tr:first-child strong")
+            login = table.select_one('a[href="https://nocn.org/login"]')
+            if not heading or not login:
                 continue
             title = clean(heading.get_text(" ", strip=True))
-            text = clean(card.get_text(" ", strip=True))
-            if len(title) < 4 or "course" not in f"{title} {text}".casefold():
+            if not title:
                 continue
-            free = True if "free" in text.casefold() else None
-            results.append(Opportunity(title=title, provider=self.provider, type=infer_type(title, text), description=text.replace(title, "", 1), delivery="Online", cost="Free" if free else "Unknown", isFree=free, isSelfPaced=True, url=urljoin(source_url, link["href"]), sourceUrl=source_url, tags=["Self-paced"]))
+            description = clean(" ".join(p.get_text(" ", strip=True) for p in table.select("p")))
+            price = next((clean(td.get_text(" ", strip=True)) for td in table.select("td")
+                          if re.fullmatch(r"£\s*\d+(?:\.\d{2})?|Free", clean(td.get_text(" ", strip=True)), re.I)), "Unknown")
+            free = True if price.casefold() == "free" else False if price.startswith("£") else None
+            results.append(Opportunity(title=title, provider=self.provider, type="Course", description=description,
+                delivery="Online", cost=price, isFree=free, isSelfPaced=True,
+                url=source_url, sourceUrl=source_url, linkType="catalogue", tags=["Self-paced", "Registration required"]))
         return results

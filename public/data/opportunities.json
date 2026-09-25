@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T10:16:17Z",
+  "generatedAt": "2026-09-25T15:05:42Z",
   "opportunities": [
     {
       "title": "Assessor Drop-in Clinic: Assisting Teaching",
@@ -18,11 +18,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_7d78d72d619b27ed"
     },
     {
@@ -41,10 +42,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:24Z",
+      "lastSeen": "2026-09-25T15:05:50Z",
       "id": "opp_c554e8951d7aedfb"
     },
     {
@@ -63,10 +65,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:22Z",
+      "lastSeen": "2026-09-25T15:05:48Z",
       "id": "opp_40271a80b22fab06"
     },
     {
@@ -85,10 +88,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:21Z",
+      "lastSeen": "2026-09-25T15:05:46Z",
       "id": "opp_ee22c046d933be27"
     },
     {
@@ -107,10 +111,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:21Z",
+      "lastSeen": "2026-09-25T15:05:46Z",
       "id": "opp_1d0152057de6e409"
     },
     {
@@ -129,11 +134,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_89bc2e36fd52feab"
     },
     {
@@ -152,11 +158,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_66c4d3e8313b80ae"
     },
     {
@@ -175,10 +182,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:23Z",
+      "lastSeen": "2026-09-25T15:05:48Z",
       "id": "opp_7984ee8fdbe76efc"
     },
     {
@@ -197,10 +205,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:23Z",
+      "lastSeen": "2026-09-25T15:05:49Z",
       "id": "opp_10ec9f0ef5668741"
     },
     {
@@ -219,10 +228,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:22Z",
+      "lastSeen": "2026-09-25T15:05:48Z",
       "id": "opp_10aff0570db1bd59"
     },
     {
@@ -241,12 +251,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Essential Digital Skills",
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_4a3e0aa80aadbc73"
     },
     {
@@ -265,10 +276,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:20Z",
+      "lastSeen": "2026-09-25T15:05:46Z",
       "id": "opp_0024816fadfbc18e"
     },
     {
@@ -287,12 +299,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_cd8a9ccda7447557"
     },
     {
@@ -311,6 +324,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -319,7 +333,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:17:01Z",
+      "lastSeen": "2026-09-25T15:06:15Z",
       "id": "opp_d36d8474929f315c"
     },
     {
@@ -338,11 +352,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_8b796d40d542fa82"
     },
     {
@@ -361,10 +376,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:22Z",
+      "lastSeen": "2026-09-25T15:05:48Z",
       "id": "opp_32dbae84c03a1c5e"
     },
     {
@@ -383,10 +399,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:22Z",
+      "lastSeen": "2026-09-25T15:05:47Z",
       "id": "opp_5db7f6229a1dd4ab"
     },
     {
@@ -405,10 +422,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:21Z",
+      "lastSeen": "2026-09-25T15:05:46Z",
       "id": "opp_a610299ad88b436b"
     },
     {
@@ -427,10 +445,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:21Z",
+      "lastSeen": "2026-09-25T15:05:47Z",
       "id": "opp_561960bd070f1e50"
     },
     {
@@ -449,10 +468,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:24Z",
+      "lastSeen": "2026-09-25T15:05:49Z",
       "id": "opp_8755e733d5360c62"
     },
     {
@@ -471,10 +491,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:20Z",
+      "lastSeen": "2026-09-25T15:05:44Z",
       "id": "opp_5207c065833eb8ce"
     },
     {
@@ -493,10 +514,11 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-09-25T10:16:21Z",
+      "lastSeen": "2026-09-25T15:05:46Z",
       "id": "opp_79b2d472d7bffd4e"
     },
     {
@@ -515,10 +537,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Digital Functional Skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_4710b46cb0211305"
     },
     {
@@ -537,11 +560,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_75bee427813a95ea"
     },
     {
@@ -560,10 +584,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_a2e82d8f8814073d"
     },
     {
@@ -582,11 +607,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_a314d203fa07ec68"
     },
     {
@@ -605,10 +631,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_2e9b31fcdba39e11"
     },
     {
@@ -627,12 +654,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Members only",
         "Networking"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_da4f724a84d73abd"
     },
     {
@@ -651,10 +679,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_f57fa931e11c8670"
     },
     {
@@ -673,13 +702,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_c5abdc248f290eea"
     },
     {
@@ -698,6 +728,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -706,7 +737,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:54Z",
+      "lastSeen": "2026-09-25T15:06:09Z",
       "id": "opp_5109ba087981c009"
     },
     {
@@ -725,10 +756,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_83566dbc52306745"
     },
     {
@@ -747,6 +779,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Digital Functional Skills",
         "Essential Digital Skills",
@@ -754,7 +787,7 @@
         "Functional skills",
         "Teach share transform"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_905478f7ddc1e93e"
     },
     {
@@ -773,11 +806,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_6c42f6bd9ea2c811"
     },
     {
@@ -796,10 +830,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_ef784a7c17c18844"
     },
     {
@@ -818,11 +853,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_8bf305e450eb3b6c"
     },
     {
@@ -841,6 +877,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -849,7 +886,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:44Z",
+      "lastSeen": "2026-09-25T15:06:03Z",
       "id": "opp_77e254d88ba8a730"
     },
     {
@@ -868,13 +905,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_81b844cfeb411cf7"
     },
     {
@@ -893,6 +931,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -901,7 +940,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:38Z",
+      "lastSeen": "2026-09-25T15:05:59Z",
       "id": "opp_60db8193902f90d4"
     },
     {
@@ -920,12 +959,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Leadership & teams",
         "Wellbeing"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_05dc627f114fbe51"
     },
     {
@@ -944,11 +984,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_250cab40c64eb935"
     },
     {
@@ -967,13 +1008,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Digital Functional Skills",
         "Essential Digital Skills",
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_be21a4c45656626f"
     },
     {
@@ -992,13 +1034,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_c03ae46dbf8c8d5c"
     },
     {
@@ -1017,13 +1060,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_001a977405f70e54"
     },
     {
@@ -1042,13 +1086,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_8621595ce65b1acc"
     },
     {
@@ -1067,11 +1112,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_95b7dcfe6cf69851"
     },
     {
@@ -1090,12 +1136,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "ESD",
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_9ac7e3263137bffe"
     },
     {
@@ -1114,11 +1161,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "All",
         "Essential Digital Skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_1e5a4aa22e03faf0"
     },
     {
@@ -1137,6 +1185,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1145,7 +1194,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:59Z",
+      "lastSeen": "2026-09-25T15:06:14Z",
       "id": "opp_d9a7904c8b9b89e5"
     },
     {
@@ -1164,6 +1213,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1172,7 +1222,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:17:02Z",
+      "lastSeen": "2026-09-25T15:06:16Z",
       "id": "opp_a45cbbb3fe0f3a3e"
     },
     {
@@ -1191,12 +1241,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Members only",
         "Networking"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_9837b201ef43d3ae"
     },
     {
@@ -1215,10 +1266,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_f4f522a362b94a25"
     },
     {
@@ -1237,11 +1289,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_d01ebf60ac31a763"
     },
     {
@@ -1260,6 +1313,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1268,7 +1322,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:47Z",
+      "lastSeen": "2026-09-25T15:06:06Z",
       "id": "opp_b09b977367a575c7"
     },
     {
@@ -1287,11 +1341,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_122263e5fbc03038"
     },
     {
@@ -1310,11 +1365,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_e0296d0d5ef99625"
     },
     {
@@ -1333,11 +1389,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_11b912b1322f1d45"
     },
     {
@@ -1356,6 +1413,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
@@ -1363,7 +1421,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_5992d9c95ff2f7e7"
     },
     {
@@ -1382,11 +1440,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_7f69693ac6a5c040"
     },
     {
@@ -1405,13 +1464,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_339417d7cea84540"
     },
     {
@@ -1430,6 +1490,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1438,7 +1499,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:17:00Z",
+      "lastSeen": "2026-09-25T15:06:14Z",
       "id": "opp_c7f35169f2f5a75d"
     },
     {
@@ -1457,11 +1518,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Wellbeing"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_e9c24df7816d68f9"
     },
     {
@@ -1480,11 +1542,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_3e44ee5d18ed2cd5"
     },
     {
@@ -1503,13 +1566,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Digital Functional Skills",
         "Essential Digital Skills",
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_01259793bb0d16dd"
     },
     {
@@ -1528,6 +1592,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1536,7 +1601,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:41Z",
+      "lastSeen": "2026-09-25T15:06:02Z",
       "id": "opp_c1163ea5ebc08a8c"
     },
     {
@@ -1555,6 +1620,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1563,7 +1629,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:17:02Z",
+      "lastSeen": "2026-09-25T15:06:15Z",
       "id": "opp_fa4d81607a76c842"
     },
     {
@@ -1582,11 +1648,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_46796cd9c2ed2d1d"
     },
     {
@@ -1605,10 +1672,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Leadership"
       ],
-      "lastSeen": "2026-09-25T10:16:29Z",
+      "lastSeen": "2026-09-25T15:05:54Z",
       "id": "opp_77a00f175fe42817"
     },
     {
@@ -1627,11 +1695,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_f4caece989976142"
     },
     {
@@ -1650,11 +1719,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_dc0090450a494323"
     },
     {
@@ -1673,6 +1743,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1681,7 +1752,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:54Z",
+      "lastSeen": "2026-09-25T15:06:09Z",
       "id": "opp_ae70c0897435b6a5"
     },
     {
@@ -1700,13 +1771,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Digital Functional Skills",
         "Essential Digital Skills",
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_86409f114f85ea29"
     },
     {
@@ -1725,11 +1797,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_a9c53681b40dca9b"
     },
     {
@@ -1748,6 +1821,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1756,7 +1830,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:45Z",
+      "lastSeen": "2026-09-25T15:06:04Z",
       "id": "opp_79c06695d5ffa832"
     },
     {
@@ -1775,6 +1849,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1783,7 +1858,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:47Z",
+      "lastSeen": "2026-09-25T15:06:05Z",
       "id": "opp_10a0b4fdb03a6bb5"
     },
     {
@@ -1802,12 +1877,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_4d35a4131bbe8105"
     },
     {
@@ -1826,11 +1902,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_70d240b1dd4792f4"
     },
     {
@@ -1849,13 +1926,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_0e7b59963c6ea638"
     },
     {
@@ -1874,11 +1952,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_f1ce578c681e3da4"
     },
     {
@@ -1897,13 +1976,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_2c978b0e57a4ea22"
     },
     {
@@ -1922,11 +2002,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_870caed02c8331cf"
     },
     {
@@ -1945,13 +2026,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_67430ef15b96cab6"
     },
     {
@@ -1970,6 +2052,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -1978,7 +2061,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:56Z",
+      "lastSeen": "2026-09-25T15:06:11Z",
       "id": "opp_a9c4cd48350ce967"
     },
     {
@@ -1997,13 +2080,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_5ba384c367e65b8d"
     },
     {
@@ -2022,13 +2106,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_5875768c2fcc6c85"
     },
     {
@@ -2047,13 +2132,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_96f0e62fdb22e01b"
     },
     {
@@ -2072,6 +2158,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2080,7 +2167,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:39Z",
+      "lastSeen": "2026-09-25T15:06:00Z",
       "id": "opp_0cecfea4f79be1a0"
     },
     {
@@ -2099,10 +2186,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_be10c41b8d24f501"
     },
     {
@@ -2121,13 +2209,14 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "IQA training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_b31a6ca4207f75e6"
     },
     {
@@ -2146,11 +2235,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-09-25T10:16:30Z",
+      "lastSeen": "2026-09-25T15:05:55Z",
       "id": "opp_485da026f6484007"
     },
     {
@@ -2169,11 +2259,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_e68f114c93f93109"
     },
     {
@@ -2192,10 +2283,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_2dca0ef7a0ab0484"
     },
     {
@@ -2214,6 +2306,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2222,7 +2315,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:49Z",
+      "lastSeen": "2026-09-25T15:06:07Z",
       "id": "opp_2a2dd7e728c40da4"
     },
     {
@@ -2241,12 +2334,13 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training",
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_b64018812c4a05b6"
     },
     {
@@ -2265,10 +2359,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_480f99f2e0398261"
     },
     {
@@ -2287,6 +2382,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2295,7 +2391,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:17:00Z",
+      "lastSeen": "2026-09-25T15:06:15Z",
       "id": "opp_f194ed27ab48e1e1"
     },
     {
@@ -2314,6 +2410,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2322,7 +2419,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:57Z",
+      "lastSeen": "2026-09-25T15:06:12Z",
       "id": "opp_091302bb4ba2daac"
     },
     {
@@ -2341,11 +2438,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_fa2bb23b88344dd9"
     },
     {
@@ -2364,6 +2462,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2372,7 +2471,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:55Z",
+      "lastSeen": "2026-09-25T15:06:10Z",
       "id": "opp_26b7310b733a1a83"
     },
     {
@@ -2391,10 +2490,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_af8556ca4a101074"
     },
     {
@@ -2413,6 +2513,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2421,7 +2522,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:53Z",
+      "lastSeen": "2026-09-25T15:06:09Z",
       "id": "opp_e9a65f8463236472"
     },
     {
@@ -2440,6 +2541,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2448,7 +2550,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:52Z",
+      "lastSeen": "2026-09-25T15:06:08Z",
       "id": "opp_253f748f645a5b68"
     },
     {
@@ -2467,10 +2569,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_7ca4de8abc4fe45d"
     },
     {
@@ -2489,6 +2592,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2497,7 +2601,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:42Z",
+      "lastSeen": "2026-09-25T15:06:02Z",
       "id": "opp_70f1104d17da2b88"
     },
     {
@@ -2516,6 +2620,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2524,7 +2629,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:56Z",
+      "lastSeen": "2026-09-25T15:06:12Z",
       "id": "opp_a17a87a01cfffa95"
     },
     {
@@ -2543,10 +2648,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_3ad34e7125790d62"
     },
     {
@@ -2565,6 +2671,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2573,7 +2680,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:58Z",
+      "lastSeen": "2026-09-25T15:06:13Z",
       "id": "opp_2017a3ede31372df"
     },
     {
@@ -2592,10 +2699,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_8e845cac408ad1a1"
     },
     {
@@ -2614,11 +2722,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_21debc3351c09500"
     },
     {
@@ -2637,6 +2746,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2645,7 +2755,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:50Z",
+      "lastSeen": "2026-09-25T15:06:07Z",
       "id": "opp_e1e3550938c9bd5b"
     },
     {
@@ -2664,10 +2774,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_fbf8ea0cdf135866"
     },
     {
@@ -2686,10 +2797,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_e80741f7c30d13a4"
     },
     {
@@ -2708,10 +2820,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_60706e147f767b5c"
     },
     {
@@ -2730,6 +2843,7 @@
       "cost": "Free",
       "isFree": true,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2738,7 +2852,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:43Z",
+      "lastSeen": "2026-09-25T15:06:03Z",
       "id": "opp_8e3959894d8faefa"
     },
     {
@@ -2757,6 +2871,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2765,7 +2880,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:40Z",
+      "lastSeen": "2026-09-25T15:06:01Z",
       "id": "opp_356ba3b3fdc12656"
     },
     {
@@ -2784,10 +2899,11 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_c752cda682295c48"
     },
     {
@@ -2806,11 +2922,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_412d2c6f3aff4d8e"
     },
     {
@@ -2829,11 +2946,12 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-09-25T10:16:26Z",
+      "lastSeen": "2026-09-25T15:05:51Z",
       "id": "opp_ec9a65c3fe771a70"
     },
     {
@@ -2852,6 +2970,7 @@
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
+      "linkType": "direct",
       "tags": [
         "Assessment",
         "Early Years",
@@ -2860,16 +2979,376 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-09-25T10:16:58Z",
+      "lastSeen": "2026-09-25T15:06:13Z",
       "id": "opp_6dcfed1f9011329e"
+    },
+    {
+      "title": "AI Awareness",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This short e-learning course provides a solid foundation in what AI is - and what it isn’t - by breaking down key concepts, terminology, and trends in a simple and accessible way. It also explores how AI is used across common workplace functions, the types of tools employees migh",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_3b4053ccfbaf666e"
+    },
+    {
+      "title": "Asbestos Awareness: Identifying and Mitigating Risks",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "Asbestos Awareness: Identifying and Mitigating Risks This course aims to equip participants with fundamental knowledge regarding asbestos use in buildings. On completion, participants will be aware of asbestos nature, properties and health effects, understand various types and us",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£10.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_2f4cfdea7f88c637"
+    },
+    {
+      "title": "Basic Life Saving",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "The course aims to provide individuals with a knowledge and understanding of basic life saving along with the use of AEDs. Developing a fundamental understanding increases confidence when using AEDs and can directly impact lives. This course will benefit those who wish to learn a",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "Free",
+      "isFree": true,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_0f8e90e37054e213"
+    },
+    {
+      "title": "Carbon Awareness: A Beginner's Guide to Climate Action",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This course is for anyone who wants to up-skill themselves on the impact of climate change and what part they can play in reducing carbon emissions on an individual, community and organisational level to support the transition to a low-carbon economy. It is designed to motivate a",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_77fa0eb11409f817"
+    },
+    {
+      "title": "EDI in Construction",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This online training course introduces Equality, Diversity, and Inclusion (EDI) within the construction sector. It provides practical knowledge, real-life examples, and interactive activities to help learners understand their responsibilities and the importance of creating inclus",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£25.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_90963af8e581768f"
+    },
+    {
+      "title": "Emergency First Aid in Construction",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This assured course provides participants with essential emergency first aid knowledge and skills tailored specifically for the construction industry. It covers key techniques to respond to workplace injuries, illnesses, and emergencies, emphasising compliance with safety standar",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_51bca6c757a8e746"
+    },
+    {
+      "title": "Fire Awareness in Construction",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "The Building Safety Act 2022 introduced significant reforms to the building safety regulatory system in the UK, with a focus on improving fire safety in high-risk residential buildings. This course is for personnel wishing to increase their knowledge of fire awareness in the cons",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£6.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_866a614925a46d4e"
+    },
+    {
+      "title": "Health and Safety Awareness in Construction",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This online course is aimed at individuals who are new to the construction industry or those looking to refresh their knowledge of essential health and safety practices. It is suitable for labourers, site operatives, apprentices, and anyone seeking to increase their understanding",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£45.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_07a217e73b93ad92"
+    },
+    {
+      "title": "Inspiring A Green Future: Integrating Sustainability in Education",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This course focuses on enhancing the understanding of sustainability and its integration into education for educators, teaching assistants, curriculum planners - anyone working in an education setting – to empower future generations, address global challenges, promote lifelong le",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_73c78bada2925d31"
+    },
+    {
+      "title": "Inspiring A Green Future: Integrating Sustainability in Engineering",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This short course follows on from our Inspiring A Green Future: Integrating Sustainability in Education online course and it is aimed at educators, teaching assistants, curriculum planners - anyone working in an education setting within the engineering sector – to empower future",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_a409a9a25e48304b"
+    },
+    {
+      "title": "Introduction to Hydrogen",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "The course aims to provide individuals with knowledge and understanding of hydrogen, including its properties, behaviour, and environmental impact. It covers key topics such as hydrogen production methods, its classification as a green fuel, and the various ways hydrogen can be s",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_581cb3abd04dd835"
+    },
+    {
+      "title": "Level 5 Introduction to Solar PV Systems",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "The course aims to provide individuals with knowledge and understanding of solar energy, including the types of solar panels, their function, and factors affecting their efficiency. It covers key topics such as the components and installation principles of both domestic and large",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£60.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_deb17c5f88a8437c"
+    },
+    {
+      "title": "Manual Handling in Construction",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This online course is designed for individuals working in the construction industry who are involved in the lifting, moving, or transporting of loads as part of their daily duties. It is suitable for site operatives, apprentices, supervisors, and anyone who needs to understand ho",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_7fcf087ffe3a4e6f"
+    },
+    {
+      "title": "Understanding Damp & Mould: Protecting Your Home & Health",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "This course provides essential knowledge on identifying, managing, and preventing damp and mould in residential and commercial properties. Damp and mould can cause significant damage to buildings and pose serious health risks. This course equips participants with the skills and u",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_e1fa630f2f310a70"
+    },
+    {
+      "title": "Working at Height and Harness Awareness",
+      "provider": "NOCN",
+      "url": "https://www.nocn.org.uk/products/short-online-courses",
+      "sourceUrl": "https://www.nocn.org.uk/products/short-online-courses",
+      "type": "Course",
+      "description": "The course aims to provide learners with a knowledge of the risks and hazards present when working at height, the protective measures and legislative requirements associated when working in these conditions, and an awareness of harnesses and their use.",
+      "startDate": null,
+      "endDate": null,
+      "startTime": null,
+      "endTime": null,
+      "delivery": "Online",
+      "location": "",
+      "cost": "£15.00",
+      "isFree": false,
+      "isSelfPaced": true,
+      "linkType": "catalogue",
+      "tags": [
+        "Registration required",
+        "Self-paced"
+      ],
+      "lastSeen": "2026-09-25T15:05:56Z",
+      "id": "opp_8fbb6609c424e101"
     }
   ],
   "sources": [
     {
       "url": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "provider": "Pearson",
-      "lastAttempted": "2026-09-25T10:16:17Z",
-      "lastSuccessful": "2026-09-25T10:16:17Z",
+      "lastAttempted": "2026-09-25T15:05:42Z",
+      "lastSuccessful": "2026-09-25T15:05:42Z",
       "count": 15,
       "status": "ok",
       "error": null
@@ -2877,8 +3356,8 @@
     {
       "url": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/",
       "provider": "NCFE",
-      "lastAttempted": "2026-09-25T10:16:17Z",
-      "lastSuccessful": "2026-09-25T10:16:17Z",
+      "lastAttempted": "2026-09-25T15:05:42Z",
+      "lastSuccessful": "2026-09-25T15:05:42Z",
       "count": 57,
       "status": "ok",
       "error": null
@@ -2886,8 +3365,8 @@
     {
       "url": "https://etfoundation.co.uk/events-and-community/",
       "provider": "ETF",
-      "lastAttempted": "2026-09-25T10:16:17Z",
-      "lastSuccessful": "2026-09-25T10:16:17Z",
+      "lastAttempted": "2026-09-25T15:05:42Z",
+      "lastSuccessful": "2026-09-25T15:05:42Z",
       "count": 8,
       "status": "ok",
       "error": null
@@ -2895,8 +3374,8 @@
     {
       "url": "https://www.theimi.org.uk/industry-latest/events",
       "provider": "IMI",
-      "lastAttempted": "2026-09-25T10:16:17Z",
-      "lastSuccessful": "2026-09-25T10:16:17Z",
+      "lastAttempted": "2026-09-25T15:05:42Z",
+      "lastSuccessful": "2026-09-25T15:05:42Z",
       "count": 11,
       "status": "ok",
       "error": null
@@ -2904,17 +3383,17 @@
     {
       "url": "https://www.nocn.org.uk/products/short-online-courses/",
       "provider": "NOCN",
-      "lastAttempted": "2026-09-25T10:16:17Z",
-      "lastSuccessful": null,
-      "count": 0,
-      "status": "error",
-      "error": "No opportunities found; retained last-known-good data"
+      "lastAttempted": "2026-09-25T15:05:42Z",
+      "lastSuccessful": "2026-09-25T15:05:42Z",
+      "count": 15,
+      "status": "ok",
+      "error": null
     },
     {
       "url": "https://www.vtctskills.org.uk/media-centre/events/",
       "provider": "VTCT Skills",
-      "lastAttempted": "2026-09-25T10:16:17Z",
-      "lastSuccessful": "2026-09-25T10:16:17Z",
+      "lastAttempted": "2026-09-25T15:05:42Z",
+      "lastSuccessful": "2026-09-25T15:05:42Z",
       "count": 28,
       "status": "ok",
       "error": null

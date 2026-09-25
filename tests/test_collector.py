@@ -10,6 +10,8 @@ from collector.adapters.ncfe import NcfeAdapter
 from collector.adapters.etf import EtfAdapter
 from collector.adapters.pearson import PearsonAdapter
 from collector.adapters.vtct import VtctAdapter
+from collector.adapters.nocn import NocnAdapter
+from collector.pipeline import is_allowed_destination
 from collector.models import Opportunity, deduplicate
 from collector.parsing import parse_date, parse_times
 from collector.pipeline import collect, is_direct_destination, read_sources
@@ -74,6 +76,24 @@ class VtctSession:
 
 
 class CollectorTests(unittest.TestCase):
+    def test_nocn_catalogue_prices_and_scoped_exception(self):
+        url = "https://www.nocn.org.uk/products/short-online-courses/"
+        html = '''<nav><strong>Not a course</strong></nav><div class="article">
+        <table><tr><td><strong>AI Awareness</strong></td></tr><tr><td><p>Learn AI basics.</p></td></tr><tr><td>£15.00</td><td><a href="https://nocn.org/login">Register or login</a></td></tr></table>
+        <table><tr><td><strong>Sustainability</strong></td></tr><tr><td><p>Learn green skills.</p></td></tr><tr><td>Free</td><td><a href="https://nocn.org/login">Register or login</a></td></tr></table></div>'''
+        items = NocnAdapter().extract(html, url)
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items[0].cost, "£15.00")
+        self.assertFalse(items[0].isFree)
+        self.assertTrue(items[1].isFree)
+        self.assertEqual(items[0].description, "Learn AI basics.")
+        self.assertTrue(items[0].isSelfPaced)
+        self.assertIsNone(items[0].startDate)
+        self.assertEqual(items[0].url, url)
+        self.assertTrue(is_allowed_destination(items[0]))
+        items[0].provider = "Other"
+        self.assertFalse(is_allowed_destination(items[0]))
+
     def test_sources_ignore_comments_and_blanks(self):
         with TemporaryDirectory() as folder:
             path = Path(folder) / "sources.txt"

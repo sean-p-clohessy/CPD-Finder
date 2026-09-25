@@ -48,6 +48,8 @@ This reads `sources.txt` and updates `public/data/opportunities.json`. Collectio
 
 ## Add another source
 
+NOCN short online courses are collected from the individual course tables on its public catalogue, including descriptions and published prices. These appear under Learn anytime. They carry `linkType: "catalogue"` and link to the NOCN catalogue because enrolment uses a shared login. This approved exception is restricted to NOCN's short-online-courses URL; other providers retain the direct-destination requirement. Cards explain the registration requirement. The purple provider links above search open each provider's main catalogue in a new tab.
+
 1. Open `sources.txt`
 2. Add the new URL on a new line
 3. Commit the file

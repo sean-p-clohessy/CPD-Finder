@@ -37,6 +37,7 @@ class Opportunity:
     cost: str = "Unknown"
     isFree: bool | None = None
     isSelfPaced: bool = False
+    linkType: str = "direct"
     tags: list[str] = field(default_factory=list)
     lastSeen: str = field(default_factory=utc_now)
     id: str = ""
