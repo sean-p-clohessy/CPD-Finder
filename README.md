@@ -2,6 +2,14 @@
 
 CPD Finder is a lightweight discovery site for professional development from awarding bodies, professional organisations and education-sector partners. It prioritises calm browsing: the current three months are shown together, with undated and on-demand learning in a separate **Learn anytime** section.
 
+## Design review — October 2026
+
+The Apple-design review treats CPD Finder as a browsing utility. The refresh prioritises legibility, content hierarchy and predictable controls. The large dark hero and decorative arch have been replaced with a compact introduction on the page background. System typography, an 8px spacing rhythm, quieter badges and a purple action colour unify the interface. Teal is reserved for the update status. Light is the first-visit default; a saved dark preference is preserved.
+
+Course cards have flexible heights and readable summaries rather than clipping body text into a fixed box. Desktop card lists use equal grid tracks within each month; mobile cards expand naturally. Main interactive targets are at least 44px high, keyboard focus is visible, and reduced-motion and increased-contrast preferences are supported. Provider links, the visits counter and collection behaviour are retained.
+
+The review also identified weak feedback: unmatched searches now offer a reset action, empty months distinguish filters from absent listings, data errors offer retry, and expanding a month preserves keyboard focus. A Learn anytime shortcut improves access to self-paced courses. Versioned asset URLs prevent a previous stylesheet from hiding the refresh.
+
 ## Architecture
 
 ```text

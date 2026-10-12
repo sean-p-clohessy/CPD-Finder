@@ -28,7 +28,7 @@ function syncThemeControl() {
 themeToggle.addEventListener("click", () => {
   const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
   document.documentElement.dataset.theme = next;
-  localStorage.setItem("cpd-theme", next);
+  try { localStorage.setItem("cpd-theme", next); } catch { /* Theme remains usable when storage is blocked. */ }
   syncThemeControl();
 });
 syncThemeControl();
@@ -50,6 +50,9 @@ function populateFilters() {
 }
 
 function card(item) {
+  // Collected summaries are capped at 280 characters; mark excerpts clearly.
+  const description = item.description?.length >= 275
+    ? item.description.replace(/\s+\S*$/, "") + "…" : item.description;
   const date = item.startDate ? dateFmt.format(new Date(`${item.startDate}T12:00:00`)) : "Anytime";
   const time = item.startTime ? `${item.startTime}${item.endTime ? `–${item.endTime}` : ""}` : "";
   const meta = [time, item.delivery, item.location].filter(Boolean).map(escapeHtml).join(" · ");
@@ -58,14 +61,16 @@ function card(item) {
   return `<article class="opportunity-card">
     <div class="badges"><span class="badge provider provider-${escapeHtml(item.provider.toLowerCase().replace(/[^a-z0-9]/g, ""))}">${escapeHtml(item.provider)}</span><span class="badge">${escapeHtml(item.type)}</span>${access}${cost}</div>
     <p class="card-date">${escapeHtml(date)}</p><h3>${escapeHtml(item.title)}</h3>
-    ${meta ? `<p class="meta">${meta}</p>` : ""}${item.description ? `<p class="description">${escapeHtml(item.description)}</p>` : ""}
+    ${meta ? `<p class="meta">${meta}</p>` : ""}${description ? `<p class="description">${escapeHtml(description)}</p>` : ""}
     ${item.linkType === "catalogue" ? '<p class="catalogue-note">Find this course in the catalogue; registration or login required.</p>' : ""}
     <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${item.linkType === "catalogue" ? "Browse NOCN courses" : "View opportunity"} <span aria-hidden="true">→</span><span class="sr-only">: ${escapeHtml(item.title)} (opens in a new tab)</span></a>
   </article>`;
 }
 
 function render() {
+  if (!state.data) return;
   const visible = state.data.opportunities.filter(matches);
+  const filtered = Boolean(state.query || state.provider || state.topic || state.type || state.onlineOnly);
   const months = rollingMonths();
   els.months.innerHTML = months.map((month, index) => {
     const key = monthKey(month);
@@ -73,14 +78,18 @@ function render() {
       .sort((a, b) => `${a.startDate}${a.startTime || ""}`.localeCompare(`${b.startDate}${b.startTime || ""}`));
     const expanded = state.expandedMonths.has(key);
     const shown = expanded ? items : items.slice(0, 6);
-    const more = items.length > 6 ? `<button class="show-more" type="button" data-month="${key}" aria-expanded="${expanded}">${expanded ? "Show fewer" : `Show all ${items.length}`}</button>` : "";
-    return `<section class="month-column" aria-labelledby="month-${index}"><div class="month-title"><h3 id="month-${index}">${monthFmt.format(month)}</h3><span>${items.length || "—"}</span></div><div class="card-list">${shown.length ? shown.map(card).join("") : '<p class="empty">Nothing discovered yet —<br>check back soon.</p>'}</div>${more}</section>`;
+    const more = items.length > 6 ? `<button class="show-more" type="button" data-month="${key}" aria-expanded="${expanded}" aria-label="${expanded ? 'Show fewer events in' : 'Show all events in'} ${monthFmt.format(month)}">${expanded ? "Show fewer" : `Show all ${items.length}`}</button>` : "";
+    return `<section class="month-column" aria-labelledby="month-${index}"><div class="month-title"><h3 id="month-${index}">${monthFmt.format(month)}</h3><span>${items.length || "0"}</span></div><div class="card-list">${shown.length ? shown.map(card).join("") : `<p class="empty">${filtered ? 'No matches this month. Try another filter.' : 'No events listed yet. Explore the provider catalogues above.'}</p>`}</div>${more}</section>`;
   }).join("");
   const anytime = visible.filter(item => item.isSelfPaced);
   els.anytimeSection.hidden = !anytime.length;
+  document.querySelector("#anytime-jump").hidden = !anytime.length;
   els.anytime.innerHTML = anytime.map(card).join("");
   const datedCount = visible.filter(item => isInRollingWindow(item.startDate)).length;
   els.count.textContent = `${datedCount} ${datedCount === 1 ? "opportunity" : "opportunities"} coming up`;
+  document.querySelector("#no-results").hidden = Boolean(datedCount || anytime.length);
+  els.clear.disabled = !filtered;
+  els.months.setAttribute("aria-busy", "false");
 }
 
 function renderHealth() {
@@ -91,6 +100,9 @@ function renderHealth() {
 }
 
 async function init() {
+  els.error.hidden = true;
+  els.months.hidden = false;
+  els.months.setAttribute("aria-busy", "true");
   try {
     const response = await fetch("./data/opportunities.json", { cache: "no-cache" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -99,7 +111,7 @@ async function init() {
     els.freshness.innerHTML = `<span class="status-dot" aria-hidden="true"></span>Last updated ${updatedFmt.format(updated)}`;
     populateFilters(); renderHealth(); render();
   } catch (error) {
-    console.error(error); els.error.hidden = false; els.months.hidden = true; els.freshness.textContent = "Update unavailable";
+    console.error(error); els.error.hidden = false; els.months.hidden = true; els.months.setAttribute("aria-busy", "false"); els.freshness.textContent = "Update unavailable";
   }
 }
 
@@ -114,9 +126,13 @@ els.months.addEventListener("click", event => {
   const key = button.dataset.month;
   state.expandedMonths.has(key) ? state.expandedMonths.delete(key) : state.expandedMonths.add(key);
   render();
+  els.months.querySelector(`[data-month="${key}"]`)?.focus({ preventScroll: true });
 });
-els.clear.addEventListener("click", () => {
+function clearFilters() {
   state.query = state.provider = state.topic = state.type = ""; state.onlineOnly = false;
   els.search.value = els.provider.value = els.topic.value = els.type.value = ""; els.online.checked = false; render();
-});
+}
+els.clear.addEventListener("click", clearFilters);
+document.querySelector("#reset-search").addEventListener("click", () => { clearFilters(); els.search.focus(); });
+document.querySelector("#retry-load").addEventListener("click", init);
 init();

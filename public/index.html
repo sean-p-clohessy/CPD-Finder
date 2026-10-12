@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Discover professional development from awarding bodies and industry partners.">
     <title>CPD Finder</title>
-    <script>document.documentElement.dataset.theme=localStorage.getItem("cpd-theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")</script>
-    <link rel="stylesheet" href="./styles.css">
-    <script type="module" src="./app.js"></script>
+    <script>try{document.documentElement.dataset.theme=localStorage.getItem("cpd-theme")||"light"}catch{document.documentElement.dataset.theme="light"}</script>
+    <link rel="stylesheet" href="./styles.css?v=20261012">
+    <script type="module" src="./app.js?v=20261012"></script>
     <script type="module" src="./visits.js"></script>
   </head>
   <body>
@@ -18,9 +18,9 @@
           <a class="brand" href="./" aria-label="CPD Finder home"><span class="brand-mark" aria-hidden="true">C</span><span>CPD Finder</span></a>
           <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark mode" aria-pressed="false"><span class="sun" aria-hidden="true">☀</span><span class="moon" aria-hidden="true">☾</span></button>
         </div>
-        <p class="eyebrow">Professional learning, made easier to find</p>
-        <h1>Find something worth <br><em>learning next.</em></h1>
-        <p class="intro">Discover professional development from awarding bodies and industry partners — all in one calm, browsable place.</p>
+        <p class="eyebrow">Professional development. All in one place.</p>
+        <h1>Your next step.<br><em>Starts with learning.</em></h1>
+        <p class="intro">Find courses, events and fresh ideas from trusted education and industry providers.</p>
         <div class="freshness" id="freshness"><span class="status-dot" aria-hidden="true"></span>Loading latest opportunities…</div>
       </div>
     </header>
@@ -49,11 +49,13 @@
         <button id="clear-filters" type="button">Clear filters</button>
       </section>
 
+      <div class="browse-links"><span>Explore opportunities</span><a href="#anytime-section" id="anytime-jump" hidden>Learn anytime <span aria-hidden="true">↓</span></a></div>
+      <section id="no-results" class="empty-results" hidden aria-live="polite"><h2>No matching opportunities</h2><p>Try a broader search or clear your filters to see what’s available.</p><button id="reset-search" type="button">Clear search and filters</button></section>
       <div class="section-heading">
         <div><p class="eyebrow dark">Coming up</p><h2>The next three months</h2></div>
         <p id="result-count" aria-live="polite"></p>
       </div>
-      <section id="month-grid" class="month-grid" aria-label="Dated opportunities"></section>
+      <section id="month-grid" class="month-grid" aria-label="Dated opportunities" aria-busy="true"><p class="loading">Finding your next learning opportunity…</p></section>
 
       <section id="anytime-section" class="anytime" hidden>
         <div class="section-heading">
@@ -66,6 +68,7 @@
       <section id="load-error" class="load-error" hidden role="alert">
         <h2>We couldn't load the latest opportunities</h2>
         <p>Please refresh the page, or check back soon.</p>
+        <button id="retry-load" type="button">Try again</button>
       </section>
     </main>
 
