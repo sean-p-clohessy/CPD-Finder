@@ -5,6 +5,8 @@ from tempfile import TemporaryDirectory
 import unittest
 
 from collector.adapters.generic import GenericAdapter
+from collector.adapters.ascentis import AscentisAdapter
+from collector.adapters import adapter_for
 from collector.adapters.imi import ImiAdapter
 from collector.adapters.ncfe import NcfeAdapter
 from collector.adapters.etf import EtfAdapter
@@ -76,6 +78,54 @@ class VtctSession:
 
 
 class CollectorTests(unittest.TestCase):
+    def test_ascentis_all_pages_direct_links_and_metadata(self):
+        url = "https://www.ascentis.co.uk/events/"
+        def card(day, title="ESOL Webinar", destination="https://events.teams.microsoft.com/event/one"):
+            return f'<li><span>Quality Assurance Events</span><p>{title}</p><a href="{destination}">View Event Details</a><div><date>October {day}, 2026</date><time>3:00 pm - 4:30 pm</time></div></li>'
+        first = card(20)
+        listing = '<ul id="eventList" data-paged="1" data-max-pages="3" data-ajax-url="/wp-admin/admin-ajax.php" data-nonce="test" data-query="{}">' + first + '</ul>'
+        calls = []
+        class Pages:
+            def post(self, endpoint, **kwargs):
+                page = int(kwargs["data"]["paged"])
+                calls.append(page)
+                self_payload = first + card(20 + page, "Regional Meeting", "https://eventbrite.co.uk/e/meeting")
+                return JsonResponse({"success": True, "data": {"html": self_payload, "paged": page, "max_pages": 3, "has_more": page < 3}})
+        self.assertIsInstance(adapter_for(url), AscentisAdapter)
+        items = AscentisAdapter().collect(listing, url, Pages())
+        self.assertEqual(calls, [2, 3])
+        self.assertEqual(len(items), 3)
+        webinar = next(item for item in items if item.title == "ESOL Webinar")
+        self.assertEqual(webinar.startDate, "2026-10-20")
+        self.assertEqual((webinar.startTime, webinar.endTime), ("15:00", "16:30"))
+        self.assertEqual(webinar.delivery, "Online")
+        self.assertIn("ESOL", webinar.tags)
+        self.assertEqual(webinar.cost, "Unknown")
+        self.assertTrue(all(is_direct_destination(item) for item in items))
+        self.assertEqual(next(item for item in items if item.title == "Regional Meeting").delivery, "Unknown")
+        self.assertEqual(AscentisAdapter().extract('<ul id="eventList"><li><p>No date</p><a href="/event">Link</a></li></ul>', url), [])
+
+    def test_ascentis_pagination_failure_is_not_partial_success(self):
+        class FailedPages:
+            def post(self, *args, **kwargs): return JsonResponse({"success": False})
+        with self.assertRaisesRegex(ValueError, "pagination failed"):
+            AscentisAdapter().collect('<ul id="eventList" data-max-pages="2"></ul>', "https://www.ascentis.co.uk/events/", FailedPages())
+
+    def test_ascentis_refreshes_expired_nonce_once(self):
+        class ExpiredResponse:
+            status_code = 403
+            def raise_for_status(self): raise ValueError("Still forbidden")
+        class StalePages:
+            refreshes = 0
+            def post(self, *args, **kwargs): return ExpiredResponse()
+            def get(self, *args, **kwargs):
+                self.refreshes += 1
+                return TextResponse('<ul id="eventList" data-max-pages="2"></ul>')
+        session = StalePages()
+        with self.assertRaisesRegex(ValueError, "Still forbidden"):
+            AscentisAdapter().collect('<ul id="eventList" data-max-pages="2"></ul>', "https://www.ascentis.co.uk/events/", session)
+        self.assertEqual(session.refreshes, 1)
+
     def test_nocn_catalogue_prices_and_scoped_exception(self):
         url = "https://www.nocn.org.uk/products/short-online-courses/"
         html = '''<nav><strong>Not a course</strong></nav><div class="article">
