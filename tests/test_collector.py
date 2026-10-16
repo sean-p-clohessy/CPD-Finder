@@ -67,6 +67,7 @@ class EtfSession:
 class VtctSession:
     @staticmethod
     def get(url, *args, **kwargs):
+        assert kwargs.get("headers", {}).get("Accept-Encoding") == "identity"
         if "/page/2/" in url:
             return TextResponse('<a class="blog-posts__post" href="/event/second/"></a>')
         pages = {
@@ -207,6 +208,24 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(items[0].url, "https://zoom.example/register-one")
         self.assertIn("Qualification delivery", items[0].tags)
         self.assertEqual(items[1].endTime, "13:00")
+
+    def test_vtct_pipeline_requests_uncompressed_listing_and_events(self):
+        url = "https://www.vtctskills.org.uk/media-centre/events/"
+        class UncompressedSession(VtctSession):
+            @staticmethod
+            def get(request_url, *args, **kwargs):
+                if kwargs.get("headers", {}).get("Accept-Encoding") != "identity":
+                    raise ValueError("Compressed response cannot be decoded")
+                if request_url == url:
+                    return TextResponse('<a class="blog-posts__post" href="/event/one/"></a>')
+                return VtctSession.get(request_url, *args, **kwargs)
+        with TemporaryDirectory() as folder:
+            source = Path(folder) / "sources.txt"
+            source.write_text(url, encoding="utf-8")
+            result = collect(source, Path(folder) / "out.json", session=UncompressedSession,
+                             today=date(2026, 9, 3), delay=0)
+            self.assertEqual(result["sources"][0]["status"], "ok")
+            self.assertEqual(len(result["opportunities"]), 1)
 
     def test_deduplication_is_conservative(self):
         base = dict(title="Weekly webinar", provider="ETF", url="https://x.test/a", sourceUrl="https://x.test")

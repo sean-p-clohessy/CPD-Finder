@@ -59,7 +59,9 @@ def collect(source_file: Path, output_file: Path, *, session=requests, today: da
     for index, url in enumerate(sources):
         adapter = adapter_for(url)
         try:
-            response = session.get(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}, timeout=(10, 25), allow_redirects=True)
+            headers = {"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}
+            headers.update(getattr(adapter, "request_headers", {}))
+            response = session.get(url, headers=headers, timeout=(10, 25), allow_redirects=True)
             response.raise_for_status()
             extracted = adapter.collect(response.text, url, session)
             valid = [item for item in deduplicate(extracted) if not item.expired(today) and is_allowed_destination(item)]

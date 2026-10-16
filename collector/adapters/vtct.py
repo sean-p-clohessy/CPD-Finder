@@ -13,6 +13,8 @@ class VtctAdapter(Adapter):
     request_headers = {
         "User-Agent": "CPD-Finder/1.0 (+https://github.com/sean-p-clohessy/CPD-Finder; public events indexer)",
         "Accept": "text/html,application/xhtml+xml",
+        # Some VTCT event pages return malformed compressed responses.
+        "Accept-Encoding": "identity",
     }
 
     def collect(self, html: str, source_url: str, session) -> list[Opportunity]:
