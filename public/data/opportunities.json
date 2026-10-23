@@ -1,106 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T10:18:03Z",
+  "generatedAt": "2026-10-23T10:11:47Z",
   "opportunities": [
-    {
-      "title": "Ascentis Entry Level Award in ESOL Skills for Life – Speaking and Listening (Entry 3) Webinar",
-      "provider": "Ascentis",
-      "url": "https://events.teams.microsoft.com/event/68104508-2cf6-4ced-a80a-73be443e688f@b3c835d6-647c-4717-b624-755715974778",
-      "sourceUrl": "https://www.ascentis.co.uk/events",
-      "type": "Webinar",
-      "description": "Quality Assurance Events",
-      "startDate": "2026-10-22",
-      "endDate": null,
-      "startTime": "15:00",
-      "endTime": "16:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "ESOL",
-        "Quality assurance"
-      ],
-      "lastSeen": "2026-10-22T10:19:13Z",
-      "id": "opp_a1c21e3411a82eea"
-    },
-    {
-      "title": "Getting Ready for Internal Assessment: ​BTEC National (AAQ) in Health and Social Care (2025)",
-      "provider": "Pearson",
-      "url": "https://pearson.cventevents.com/d/0cznvy/4W",
-      "sourceUrl": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
-      "type": "Professional development",
-      "description": "These events, and the qualifications covered, are suitable for CENTRES IN ENGLAND ONLY. Please note: This event will cover a minimum of one mandatory unit plus other units where applicable. Delegates will: - Review the QA process for the BTEC National Level 3 qualifications - Exp",
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-22",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Free",
-      "isFree": true,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "BTEC"
-      ],
-      "lastSeen": "2026-10-22T10:18:07Z",
-      "id": "opp_b616426b3083699c"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Business & Enterprise Assessor/IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/1990174785357",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2026-10-22",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_001a977405f70e54"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Food & Cookery Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-food-cookery-assessor-and-iqa-training-tickets-1990175521559",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2026-10-28",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_8621595ce65b1acc"
-    },
     {
       "title": "Preparing for External Assessment: BTEC National (AAQ) in Health and Social Care (2025)",
       "provider": "Pearson",
@@ -121,7 +22,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:08Z",
+      "lastSeen": "2026-10-23T10:11:52Z",
       "id": "opp_84bc75fccc46ce06"
     },
     {
@@ -144,7 +45,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:06Z",
+      "lastSeen": "2026-10-23T10:11:50Z",
       "id": "opp_5f1b41a383ad845c"
     },
     {
@@ -168,7 +69,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_d2d5a6986a6e503a"
     },
     {
@@ -192,7 +93,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-10-22T10:18:16Z",
+      "lastSeen": "2026-10-23T10:11:58Z",
       "id": "opp_95b7dcfe6cf69851"
     },
     {
@@ -215,7 +116,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:06Z",
+      "lastSeen": "2026-10-23T10:11:50Z",
       "id": "opp_ab2154c1416eb63c"
     },
     {
@@ -238,7 +139,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:08Z",
+      "lastSeen": "2026-10-23T10:11:52Z",
       "id": "opp_537ae949cabf5858"
     },
     {
@@ -261,7 +162,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:09Z",
+      "lastSeen": "2026-10-23T10:11:53Z",
       "id": "opp_02d66d48001632f2"
     },
     {
@@ -286,7 +187,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-10-22T10:18:14Z",
+      "lastSeen": "2026-10-23T10:11:56Z",
       "id": "opp_9ac7e3263137bffe"
     },
     {
@@ -310,7 +211,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_cc938e2892229ae0"
     },
     {
@@ -333,7 +234,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:07Z",
+      "lastSeen": "2026-10-23T10:11:51Z",
       "id": "opp_74948f27cfb73d45"
     },
     {
@@ -356,32 +257,8 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:09Z",
+      "lastSeen": "2026-10-23T10:11:53Z",
       "id": "opp_4f5cec1a9cdcd44c"
-    },
-    {
-      "title": "NCFE Essential Digital Skills Onboarding",
-      "provider": "NCFE",
-      "url": "https://events.teams.microsoft.com/event/36de7e26-150a-45a8-8e8e-58eb492cd896@3cd6b738-bb10-4ce2-978d-9fe967dd2dba",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This onboarding webinar is aimed towards Essential Digital Skills delivery staff to give an overview of information and all the latest updates on NCFE Essential Digital Skills qualifications.",
-      "startDate": "2026-11-04",
-      "endDate": null,
-      "startTime": "15:30",
-      "endTime": "16:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "All",
-        "Essential Digital Skills"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_1e5a4aa22e03faf0"
     },
     {
       "title": "North ESOL Regional Quality Meeting",
@@ -404,7 +281,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_1c955f5208968b38"
     },
     {
@@ -432,7 +309,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:02Z",
+      "lastSeen": "2026-10-23T10:12:39Z",
       "id": "opp_d9a7904c8b9b89e5"
     },
     {
@@ -456,7 +333,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_5e58d0879dadccd9"
     },
     {
@@ -479,7 +356,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:09Z",
+      "lastSeen": "2026-10-23T10:11:53Z",
       "id": "opp_f63576041fa68d43"
     },
     {
@@ -503,7 +380,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_4b4463150f4472c3"
     },
     {
@@ -531,7 +408,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:10Z",
+      "lastSeen": "2026-10-23T10:12:49Z",
       "id": "opp_a45cbbb3fe0f3a3e"
     },
     {
@@ -554,7 +431,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:08Z",
+      "lastSeen": "2026-10-23T10:11:52Z",
       "id": "opp_6ff8a76ccf8f3890"
     },
     {
@@ -577,7 +454,7 @@
       "tags": [
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_eac2855190dc72ab"
     },
     {
@@ -600,7 +477,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:07Z",
+      "lastSeen": "2026-10-23T10:11:51Z",
       "id": "opp_e53ddd8c79cd4756"
     },
     {
@@ -624,7 +501,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_59c13cde1c96b0e2"
     },
     {
@@ -647,7 +524,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:07Z",
+      "lastSeen": "2026-10-23T10:11:51Z",
       "id": "opp_5b865dca4a3bd86d"
     },
     {
@@ -671,7 +548,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_78562d40624ae13a"
     },
     {
@@ -695,7 +572,7 @@
         "Automotive",
         "Networking"
       ],
-      "lastSeen": "2026-10-22T10:18:16Z",
+      "lastSeen": "2026-10-23T10:11:58Z",
       "id": "opp_9837b201ef43d3ae"
     },
     {
@@ -703,7 +580,7 @@
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/skills-higher-level-beauty-event-pretty-faces-academy-tickets-2003120186400",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join Us for an Exclusive VTCT Skills Higher-Level Beauty Event",
       "startDate": "2026-11-11",
       "endDate": null,
@@ -723,7 +600,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:04Z",
+      "lastSeen": "2026-10-23T10:12:42Z",
       "id": "opp_1a30e0a634dc499a"
     },
     {
@@ -747,7 +624,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:13Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_3a32fcd9bdd1078c"
     },
     {
@@ -770,7 +647,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:08Z",
+      "lastSeen": "2026-10-23T10:11:52Z",
       "id": "opp_b9d619bbbbd54c52"
     },
     {
@@ -793,31 +670,8 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:06Z",
+      "lastSeen": "2026-10-23T10:11:50Z",
       "id": "opp_94e4b67642944c54"
-    },
-    {
-      "title": "NCFE Functional Skills Assessor Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-functional-skills-assessor-training-thursday-12-november-2026-tickets-1992642798250",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to virtually meet with assessment professionals and like-minded practitioners to learn about or expand your knowledge and understanding of assessment and our qualifications.",
-      "startDate": "2026-11-12",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_f4f522a362b94a25"
     },
     {
       "title": "Ascentis Community Interpreting Level 1&2 Webinar for New Centres",
@@ -825,7 +679,7 @@
       "url": "https://events.teams.microsoft.com/event/84a1ff77-e412-4499-800c-7a31a5185973@b3c835d6-647c-4717-b624-755715974778",
       "sourceUrl": "https://www.ascentis.co.uk/events",
       "type": "Webinar",
-      "description": "Quality Assurance Event",
+      "description": "Quality Assurance Events",
       "startDate": "2026-11-13",
       "endDate": null,
       "startTime": "15:30",
@@ -839,32 +693,31 @@
       "tags": [
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:52Z",
       "id": "opp_9ccde5601652ea7f"
     },
     {
-      "title": "2026/27 Group Approval Hub for V Cert Level 1/2 Technical Awards",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G0ffd437ee2ae4d5b9a5e7949ab102ba3@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
+      "title": "Preparing for External Assessment: BTEC National (AAQ) in Medical Science (2025)",
+      "provider": "Pearson",
+      "url": "https://pearson.cventevents.com/d/2cznfn/4W",
+      "sourceUrl": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "type": "Professional development",
-      "description": "",
+      "description": "During this session you will: - Discuss the external assessment unit content - Gain an overview of the assessment and its structure - Discuss how to best prepare your learners to sit an external assessment - Look at example questions and the accompanying mark schemes Pearson has",
       "startDate": "2026-11-16",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
+      "endDate": "2026-11-16",
+      "startTime": "16:30",
+      "endTime": "18:00",
       "delivery": "Online",
       "location": "",
-      "cost": "Unknown",
-      "isFree": null,
+      "cost": "Free",
+      "isFree": true,
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [
-        "Support webinars",
-        "V Certs"
+        "BTEC"
       ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_d01ebf60ac31a763"
+      "lastSeen": "2026-10-23T10:11:53Z",
+      "id": "opp_826ec53ef53bd783"
     },
     {
       "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 16th November 2026",
@@ -891,7 +744,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:36Z",
+      "lastSeen": "2026-10-23T10:12:16Z",
       "id": "opp_b09b977367a575c7"
     },
     {
@@ -915,7 +768,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_2e1b0cdb2584e3c6"
     },
     {
@@ -939,7 +792,7 @@
         "Automotive",
         "Electric vehicles"
       ],
-      "lastSeen": "2026-10-22T10:18:16Z",
+      "lastSeen": "2026-10-23T10:11:58Z",
       "id": "opp_b36a1c3542e4ada7"
     },
     {
@@ -963,83 +816,8 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-10-22T10:18:14Z",
+      "lastSeen": "2026-10-23T10:11:56Z",
       "id": "opp_122263e5fbc03038"
-    },
-    {
-      "title": "Functional Fluency: Enhancing EAL Support in English Functional Skills",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/functional-fluency-enhancing-eal-support-in-english-functional-skills-tickets-1982871824003",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This interactive NCFE English Functional Skills training session is designed for all teachers delivering Functional Skills English, with a focus on supporting learners who use English as an Additional Language (EAL). This workshop-style session will explore practical strategies f",
-      "startDate": "2026-11-18",
-      "endDate": null,
-      "startTime": "13:00",
-      "endTime": "15:00",
-      "delivery": "In person",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Functional Skills",
-        "Functional skills"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_e0296d0d5ef99625"
-    },
-    {
-      "title": "Functional Fluency: Enhancing EAL Support in Maths Functional Skills",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/functional-fluency-enhancing-eal-support-in-maths-functional-skills-tickets-1982871768838",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This interactive NCFE Maths Functional Skills training session is designed for all teachers delivering Functional Skills Maths, with a focus on supporting learners who use English as an Additional Language (EAL). This workshop-style session will explore practical strategies for b",
-      "startDate": "2026-11-18",
-      "endDate": null,
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "delivery": "In person",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Functional Skills",
-        "Functional skills"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_11b912b1322f1d45"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Childcare Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-childcare-assessor-and-iqa-training-tickets-1990175684045",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2026-11-18",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "NCFE Training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_5992d9c95ff2f7e7"
     },
     {
       "title": "Ascentis Level 2 Award in ESOL Skills for Life – Writing Webinar",
@@ -1062,7 +840,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_6a5da449e704afb7"
     },
     {
@@ -1086,7 +864,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-10-22T10:18:16Z",
+      "lastSeen": "2026-10-23T10:11:58Z",
       "id": "opp_7f69693ac6a5c040"
     },
     {
@@ -1110,41 +888,15 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_381a3ff2d5904edd"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Health & Social Care Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-health-social-care-assessor-and-iqa-training-tickets-1990175272815",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2026-11-19",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_339417d7cea84540"
     },
     {
       "title": "VTCT Skills Regional Networking Events – Hair & Beauty / Hospitality & Catering",
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/vtct-skills-networking-hair-beauty-event-tickets-2002132768005",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join VTCT Skills for our Regional Networking Event, a great opportunity to connect with fellow educators, share ideas and explore the opportunities and challenges shaping skills-based education.",
       "startDate": "2026-11-19",
       "endDate": null,
@@ -1164,7 +916,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:06Z",
+      "lastSeen": "2026-10-23T10:12:46Z",
       "id": "opp_c7f35169f2f5a75d"
     },
     {
@@ -1188,7 +940,7 @@
         "Automotive",
         "Wellbeing"
       ],
-      "lastSeen": "2026-10-22T10:18:16Z",
+      "lastSeen": "2026-10-23T10:11:58Z",
       "id": "opp_e9c24df7816d68f9"
     },
     {
@@ -1209,20 +961,20 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_25df225765b60939"
     },
     {
-      "title": "Education & Early Years Teacher and Assessor Networks: Working together for student success",
-      "provider": "NCFE",
-      "url": "https://events.teams.microsoft.com/event/e447cb07-770b-49de-a302-0b2af658d4f7@3cd6b738-bb10-4ce2-978d-9fe967dd2dba",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Networking",
-      "description": "The purpose of this Education and Early Years TQ Assessor Network is to allow for supported networking opportunities for staff involved in the assessment of Assignment 1 (EYE & AT) parts 1 and 2. Led by NCFE Moderators, this session will allow for the sharing of ideas and experie",
-      "startDate": "2026-11-25",
+      "title": "VTCT Skills Hair and Beauty Curriculum Planning – 30 November 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/J_1-23uVQkm4Dn4bXTC-1g",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Course",
+      "description": "We’re back with another inspiring online session hosted by VTCT Skills, dedicated to curriculum planning for the hairdressing and beauty therapy sectors",
+      "startDate": "2026-11-30",
       "endDate": null,
-      "startTime": null,
-      "endTime": null,
+      "startTime": "16:00",
+      "endTime": "17:00",
       "delivery": "Online",
       "location": "",
       "cost": "Unknown",
@@ -1230,44 +982,22 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [
-        "T Level Education and Childcare",
-        "T Levels"
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_3e44ee5d18ed2cd5"
-    },
-    {
-      "title": "Functional & Essential Skills Drop-in Clinic",
-      "provider": "NCFE",
-      "url": "https://events.teams.microsoft.com/event/c60882f7-9a34-49ef-8c41-d924a01a0cce@3cd6b738-bb10-4ce2-978d-9fe967dd2dba",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This drop-in clinic is to support the teaching and delivery of NCFE Functional and Essential Maths, English and Digital qualifications. Whether you are new to delivery or already delivering this is an opportunity to get answers to qualification specific or subject content questio",
-      "startDate": "2026-11-25",
-      "endDate": null,
-      "startTime": "12:00",
-      "endTime": "13:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Digital Functional Skills",
-        "Essential Digital Skills",
-        "Functional Skills",
-        "Functional skills"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_01259793bb0d16dd"
+      "lastSeen": "2026-10-23T10:12:22Z",
+      "id": "opp_91f3e6827b380d42"
     },
     {
       "title": "Hair and Barbering online Collective – Tuesday 1st December 2026 – 12pm",
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/Vk4d1KhuQE--i0VDr9ddcQ",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
       "startDate": "2026-12-01",
       "endDate": null,
@@ -1287,7 +1017,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:30Z",
+      "lastSeen": "2026-10-23T10:12:10Z",
       "id": "opp_c1163ea5ebc08a8c"
     },
     {
@@ -1315,7 +1045,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:09Z",
+      "lastSeen": "2026-10-23T10:12:48Z",
       "id": "opp_fa4d81607a76c842"
     },
     {
@@ -1339,7 +1069,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-10-22T10:18:14Z",
+      "lastSeen": "2026-10-23T10:11:56Z",
       "id": "opp_46796cd9c2ed2d1d"
     },
     {
@@ -1360,7 +1090,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_986611587aed5c5f"
     },
     {
@@ -1368,7 +1098,7 @@
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/vtct-skills-higher-level-beauty-event-burton-south-derbyshire-college-tickets-2002429037154",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join Us for an Exclusive VTCT Skills Higher-Level Beauty Event",
       "startDate": "2026-12-02",
       "endDate": null,
@@ -1388,32 +1118,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:05Z",
+      "lastSeen": "2026-10-23T10:12:43Z",
       "id": "opp_092b2560fcd841d0"
-    },
-    {
-      "title": "Education & Early Years Assessor Masterclass: Assessment Conversations that Count: Maximising the Value of Professional Discussion",
-      "provider": "NCFE",
-      "url": "https://events.teams.microsoft.com/event/8104537e-7eed-4a3a-8648-9cebe09b79ac@3cd6b738-bb10-4ce2-978d-9fe967dd2dba",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "Move beyond question-and-answer approaches. Discover how professional discussions can reveal deeper understanding, professional reasoning and decision-making, helping assessors gather richer evidence and make more informed judgements.",
-      "startDate": "2026-12-03",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "11:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "T Level Education and Childcare",
-        "T Levels"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_f609f9538fd72f85"
     },
     {
       "title": "Neuroinclusive Workplaces: Supporting Wellbeing at Work",
@@ -1435,63 +1141,15 @@
       "tags": [
         "Leadership"
       ],
-      "lastSeen": "2026-10-22T10:18:14Z",
+      "lastSeen": "2026-10-23T10:11:56Z",
       "id": "opp_77a00f175fe42817"
-    },
-    {
-      "title": "CPD English: Entry Level English Standardisation",
-      "provider": "NCFE",
-      "url": "https://events.teams.microsoft.com/event/233da810-37a9-46d5-afa0-2b350a510033@3cd6b738-bb10-4ce2-978d-9fe967dd2dba",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Standardisation",
-      "description": "This free CPD session is designed to support consistency and confidence in the assessment of Entry Level Functional Skills English, with a focus on the Reading and Writing components.",
-      "startDate": "2026-12-09",
-      "endDate": null,
-      "startTime": "15:30",
-      "endTime": "17:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Functional Skills",
-        "Functional skills"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_f4caece989976142"
-    },
-    {
-      "title": "CPD Maths: maximising marks in Functional Skills maths assessments",
-      "provider": "NCFE",
-      "url": "https://events.teams.microsoft.com/event/e75bfe85-89f6-4c6d-be79-42b72012bb62@3cd6b738-bb10-4ce2-978d-9fe967dd2dba",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This free CPD session focuses on effective strategies to help learners achieve maximum marks in Functional Skills maths assessments.",
-      "startDate": "2026-12-10",
-      "endDate": null,
-      "startTime": "15:30",
-      "endTime": "17:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Functional Skills",
-        "Functional skills"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_dc0090450a494323"
     },
     {
       "title": "VTCT Skills Beauty Collective – 10th December 2026",
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/h7eAvd-cTherNQw3KShCCA",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
       "startDate": "2026-12-10",
       "endDate": null,
@@ -1511,58 +1169,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:46Z",
+      "lastSeen": "2026-10-23T10:12:26Z",
       "id": "opp_ae70c0897435b6a5"
-    },
-    {
-      "title": "Functional & Essential Skills Drop-in Clinic",
-      "provider": "NCFE",
-      "url": "https://events.teams.microsoft.com/event/dcf51361-2459-41f4-b039-8150c7305326@3cd6b738-bb10-4ce2-978d-9fe967dd2dba",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This drop-in clinic is to support the teaching and delivery of NCFE Functional and Essential Maths, English and Digital qualifications. Whether you are new to delivery or already delivering this is an opportunity to get answers to qualification specific or subject content questio",
-      "startDate": "2026-12-16",
-      "endDate": null,
-      "startTime": "12:00",
-      "endTime": "13:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Digital Functional Skills",
-        "Essential Digital Skills",
-        "Functional Skills",
-        "Functional skills"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_86409f114f85ea29"
-    },
-    {
-      "title": "V Cert Drop-In Q&A with Rachel and Beth: Preparing for the NEA",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G24555a73e00042c999e6b1f5eb7e679f@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "Join Provider Development Officers Rachel and Beth for a relaxed drop-in session focused on practical delivery support for V Cert Level 1/2 Technical Awards. This is your chance to ask questions and get guidance on key areas of planning and classroom management for the NEA.",
-      "startDate": "2026-12-16",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_a9c53681b40dca9b"
     },
     {
       "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 16th December 2026",
@@ -1589,7 +1197,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:34Z",
+      "lastSeen": "2026-10-23T10:12:14Z",
       "id": "opp_79c06695d5ffa832"
     },
     {
@@ -1617,109 +1225,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:35Z",
+      "lastSeen": "2026-10-23T10:12:15Z",
       "id": "opp_10a0b4fdb03a6bb5"
-    },
-    {
-      "title": "V Certs Level 1/2 Technical Awards Road show Face -to- Face Standardisation Event - Stevenage",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/v-certs-level-1-2-technical-awards-face-to-face-standardisation-event-tickets-1991543457091",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Standardisation",
-      "description": "Join us for a full-day, in-person training event focused on standardisation and best practice in assessment. This is a fantastic opportunity to meet with the Provider Quality Assurance and Development Team and like-minded practitioners to learn about, or expand your knowledge and",
-      "startDate": "2027-01-13",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "In person",
-      "location": "Holiday Inn Stevenage (St. George's Way, Stevenage, Hertfordshire, United Kingdom, SG1 1HS)",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_4d35a4131bbe8105"
-    },
-    {
-      "title": "2026/27 Group Approval Hub for V Cert Level 1/2 Technical Awards",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G0ffd437ee2ae4d5b9a5e7949ab102ba3@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This approval session is designed exclusively for newly approved centres delivering V Cert Level 1/2 Technical Awards. It aims to provide the essential knowledge and guidance needed to help you get started quickly, confidently, and effectively. During the session, we will guide y",
-      "startDate": "2027-01-18",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_70d240b1dd4792f4"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Health & Fitness Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-health-fitness-assessor-and-iqa-training-tickets-1990176580727",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2027-01-18",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_0e7b59963c6ea638"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Childcare Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-childcare-assessor-and-iqa-training-tickets-1990177936783",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2027-01-19",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_2c978b0e57a4ea22"
     },
     {
       "title": "NCAP: Purpose, Process and Impact",
@@ -1742,41 +1249,15 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-10-22T10:18:16Z",
+      "lastSeen": "2026-10-23T10:11:58Z",
       "id": "opp_870caed02c8331cf"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Food & Cookery Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-food-cookery-assessor-and-iqa-training-tickets-1990177384130",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2027-01-20",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_67430ef15b96cab6"
     },
     {
       "title": "VTCT Skills Beauty Collective – 20th January 2027",
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/FdkjwTWQT9-ku7qrjdTIOg",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
       "startDate": "2027-01-20",
       "endDate": null,
@@ -1796,60 +1277,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:49Z",
+      "lastSeen": "2026-10-23T10:12:28Z",
       "id": "opp_a9c4cd48350ce967"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Business & Enterprise Assessor/IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-business-enterprise-assessoriqa-training-tickets-1990176836492",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2027-01-21",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_5ba384c367e65b8d"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Music Technology Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-music-technology-assessor-and-iqa-training-tickets-1990177283830",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2027-01-22",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_5875768c2fcc6c85"
     },
     {
       "title": "Functional Skills: Entry Level (English Reading & Writing and Mathematics) Quality Assurance Webinar",
@@ -1872,34 +1301,8 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_7121d611db6572a7"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Engineering Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-engineering-assessor-and-iqa-training-tickets-1990176724156",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2027-01-26",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_96f0e62fdb22e01b"
     },
     {
       "title": "Functional Skills: Speaking, Listening and Communication (all levels) and Level 1 and 2 Reading & Writing and Mathematics Quality Assurance Webinar",
@@ -1922,7 +1325,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_39c2fed0b1d02814"
     },
     {
@@ -1943,7 +1346,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_037d5dbdbd44e20e"
     },
     {
@@ -1951,7 +1354,7 @@
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/Jzd-LcsvQ1K0lCnO6E7lqw",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
       "startDate": "2027-02-01",
       "endDate": null,
@@ -1971,7 +1374,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:27Z",
+      "lastSeen": "2026-10-23T10:12:07Z",
       "id": "opp_0cecfea4f79be1a0"
     },
     {
@@ -1995,7 +1398,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:14Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_3baaac57d6facdbf"
     },
     {
@@ -2003,7 +1406,7 @@
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/beauty-collective-live-2027-tickets-2002613373509",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "This exciting and engaging event will bring you the latest nails, makeup, lash, and brow services techniques and trends, showcased through inspiring demonstrations and presentations.",
       "startDate": "2027-02-02",
       "endDate": null,
@@ -2023,57 +1426,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:52Z",
+      "lastSeen": "2026-10-23T10:12:31Z",
       "id": "opp_e50e8ce3de0f02b2"
-    },
-    {
-      "title": "NCFE Assessor Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-assessor-training-wednesday-3-feb-2027-tickets-1992630507488",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to virtually meet with assessment professionals and like-minded practitioners to learn about or expand your knowledge and understanding of assessment and our qualifications.",
-      "startDate": "2027-02-03",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_be10c41b8d24f501"
-    },
-    {
-      "title": "NCFE L1/2 Technical Award in Health & Social Care Assessor and IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-l12-technical-award-in-health-social-care-assessor-and-iqa-training-tickets-1990177065176",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This is a fantastic opportunity to explore the assessment and IQA processes related to the NEA through a virtual meeting of subject teachers.",
-      "startDate": "2027-02-04",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "IQA training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_b31a6ca4207f75e6"
     },
     {
       "title": "The Career Conversation – It’s Not Always What We Expect",
@@ -2096,7 +1450,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-10-22T10:18:16Z",
+      "lastSeen": "2026-10-23T10:11:58Z",
       "id": "opp_485da026f6484007"
     },
     {
@@ -2120,55 +1474,8 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:15Z",
+      "lastSeen": "2026-10-23T10:12:53Z",
       "id": "opp_6333d67f69c675a3"
-    },
-    {
-      "title": "V Cert Drop-In Q&A with Rachel and Beth: Holistic marking",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G24555a73e00042c999e6b1f5eb7e679f@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "Join Provider Development Officers Rachel and Beth for an informal Q&A session designed to support your delivery of V Cert Level 1/2 Technical Awards. Whether you're new to V Certs or looking for clarification on specific areas, this is a chance to ask questions and get practical",
-      "startDate": "2027-02-10",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_e68f114c93f93109"
-    },
-    {
-      "title": "NCFE IQA Wednesday Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-iqa-wednesday-training-wednesday-17-feb-2027-tickets-1992630587728",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to meet with internal quality assurance (IQA) professionals and like-minded practitioners to learn about or expand your knowledge and understanding of IQA and our qualifications.",
-      "startDate": "2027-02-17",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "IQA training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_2dca0ef7a0ab0484"
     },
     {
       "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 18th February 2027",
@@ -2195,40 +1502,15 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:38Z",
+      "lastSeen": "2026-10-23T10:12:17Z",
       "id": "opp_2a2dd7e728c40da4"
-    },
-    {
-      "title": "V Certs Level 1/2 Technical Awards Road show Face -to- Face Standardisation Event - Manchester",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/v-certs-level-1-2-technical-awards-face-to-face-standardisation-event-tickets-1991543036834",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Standardisation",
-      "description": "Join us for a full-day, in-person training event focused on standardisation and best practice in assessment. This is a fantastic opportunity to meet with the Provider Quality Assurance and Development Team and like-minded practitioners to learn about, or expand your knowledge and",
-      "startDate": "2027-02-23",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "In person",
-      "location": "The Alan Hotel and Meeting Space (18, Princess Street, Manchester, Greater Manchester, United Kingdom, M1 4LG)",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_b64018812c4a05b6"
     },
     {
       "title": "VTCT Skills Beauty Collective LIVE – 23rd February 2027",
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/beauty-collective-live-2027-tickets-2002613886042",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "This exciting and engaging event will bring you the latest nails, makeup, lash, and brow services techniques and trends, showcased through inspiring demonstrations and presentations.",
       "startDate": "2027-02-23",
       "endDate": null,
@@ -2248,7 +1530,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:55Z",
+      "lastSeen": "2026-10-23T10:12:33Z",
       "id": "opp_f9b0135f9b535a7e"
     },
     {
@@ -2271,7 +1553,7 @@
       "tags": [
         "Access to HE"
       ],
-      "lastSeen": "2026-10-22T10:19:15Z",
+      "lastSeen": "2026-10-23T10:12:54Z",
       "id": "opp_8235c4422d989560"
     },
     {
@@ -2279,7 +1561,7 @@
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/beauty-collective-live-2027-tickets-2002614215026",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "This exciting and engaging event will bring you the latest nails, makeup, lash, and brow services techniques and trends, showcased through inspiring demonstrations and presentations.",
       "startDate": "2027-03-02",
       "endDate": null,
@@ -2299,38 +1581,15 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:53Z",
+      "lastSeen": "2026-10-23T10:12:32Z",
       "id": "opp_10de30b2f23a8caf"
-    },
-    {
-      "title": "NCFE Assessor Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-assessor-training-wednesday-3-march-2027-tickets-1992630832460",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to virtually meet with assessment professionals and like-minded practitioners to learn about or expand your knowledge and understanding of assessment and our qualifications.",
-      "startDate": "2027-03-03",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_480f99f2e0398261"
     },
     {
       "title": "VTCT Skills Regional Networking Events – Hair & Beauty / Hospitality & Catering",
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/vtct-skills-networking-hair-beauty-event-tickets-2002134276517",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join VTCT Skills for our Regional Networking Event, a great opportunity to connect with fellow educators, share ideas and explore the opportunities and challenges shaping skills-based education.",
       "startDate": "2027-03-04",
       "endDate": null,
@@ -2350,7 +1609,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:08Z",
+      "lastSeen": "2026-10-23T10:12:47Z",
       "id": "opp_f194ed27ab48e1e1"
     },
     {
@@ -2358,7 +1617,7 @@
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/beauty-collective-live-2027-tickets-2002614360461",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "This exciting and engaging event will bring you the latest nails, makeup, lash, and brow services techniques and trends, showcased through inspiring demonstrations and presentations.",
       "startDate": "2027-03-09",
       "endDate": null,
@@ -2378,7 +1637,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:56Z",
+      "lastSeen": "2026-10-23T10:12:34Z",
       "id": "opp_1d4593131ed11239"
     },
     {
@@ -2406,7 +1665,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:58Z",
+      "lastSeen": "2026-10-23T10:12:35Z",
       "id": "opp_091302bb4ba2daac"
     },
     {
@@ -2429,39 +1688,15 @@
       "tags": [
         "Quality assurance"
       ],
-      "lastSeen": "2026-10-22T10:19:15Z",
+      "lastSeen": "2026-10-23T10:12:54Z",
       "id": "opp_a364ac23e4078938"
-    },
-    {
-      "title": "2026/27 Group Approval Hub for V Cert Level 1/2 Technical Awards",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G0ffd437ee2ae4d5b9a5e7949ab102ba3@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This approval session is designed exclusively for newly approved centres delivering V Cert Level 1/2 Technical Awards. It aims to provide the essential knowledge and guidance needed to help you get started quickly, confidently, and effectively. During the session, we will guide y",
-      "startDate": "2027-03-15",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_fa2bb23b88344dd9"
     },
     {
       "title": "VTCT Skills Beauty Collective – 16th March 2027",
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/HBwSdDjjQe-ClVDWBPVssA",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
       "startDate": "2027-03-16",
       "endDate": null,
@@ -2481,31 +1716,36 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:48Z",
+      "lastSeen": "2026-10-23T10:12:27Z",
       "id": "opp_26b7310b733a1a83"
     },
     {
-      "title": "NCFE IQA Training",
-      "provider": "NCFE",
-      "url": "This training is a great opportunity to meet with internal quality assurance (IQA) professionals and like-minded practitioners to learn about or expand your knowledge and understanding of IQA and our qualifications.",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to meet with internal quality assurance (IQA) professionals and like-minded practitioners to learn about or expand your knowledge and understanding of IQA and our qualifications.",
-      "startDate": "2027-03-17",
+      "title": "VTCT Skills Regional Networking Events – Hair & Beauty / Hospitality & Catering",
+      "provider": "VTCT Skills",
+      "url": "https://www.eventbrite.co.uk/e/vtct-skills-networking-hair-beauty-event-tickets-2003781344943",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Webinar",
+      "description": "Join VTCT Skills for our Regional Networking Event, a great opportunity to connect with fellow educators, share ideas and explore the opportunities and challenges shaping skills-based education.",
+      "startDate": "2027-03-16",
       "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
+      "startTime": "10:00",
+      "endTime": "15:00",
+      "delivery": "In person",
+      "location": "Nottingham College, 111 Canal Street Nottingham NG1 7HB",
       "cost": "Unknown",
       "isFree": null,
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [
-        "IQA training"
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_af8556ca4a101074"
+      "lastSeen": "2026-10-23T10:12:44Z",
+      "id": "opp_c7a0f1a4d43a96d2"
     },
     {
       "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 22nd March 2027",
@@ -2532,7 +1772,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:42Z",
+      "lastSeen": "2026-10-23T10:12:21Z",
       "id": "opp_e9a65f8463236472"
     },
     {
@@ -2555,7 +1795,7 @@
       "tags": [
         "ESOL"
       ],
-      "lastSeen": "2026-10-22T10:19:15Z",
+      "lastSeen": "2026-10-23T10:12:54Z",
       "id": "opp_3ca8932cca98e055"
     },
     {
@@ -2583,38 +1823,15 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:40Z",
+      "lastSeen": "2026-10-23T10:12:20Z",
       "id": "opp_253f748f645a5b68"
-    },
-    {
-      "title": "NCFE Assessor Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-assessor-training-thursday-22-april-2027-tickets-1992639412122",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to virtually meet with assessment professionals and like-minded practitioners to learn about or expand your knowledge and understanding of assessment and our qualifications.",
-      "startDate": "2027-04-22",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_7ca4de8abc4fe45d"
     },
     {
       "title": "Hair and Barbering online Collective – Tuesday 27th April 2027 – 3pm",
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/XzqvRHu5Sy2RC3OkzzvKNw",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
       "startDate": "2027-04-27",
       "endDate": null,
@@ -2634,7 +1851,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:31Z",
+      "lastSeen": "2026-10-23T10:12:11Z",
       "id": "opp_70f1104d17da2b88"
     },
     {
@@ -2655,7 +1872,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-10-22T10:19:15Z",
+      "lastSeen": "2026-10-23T10:12:54Z",
       "id": "opp_5b0e6d4343033ab7"
     },
     {
@@ -2663,7 +1880,7 @@
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/tRtEzfegRM6yxLCezpaJWA",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "Join the VTCT Skills Beauty Online Collective Connect. Learn. Be Inspired. Shape the Future of Beauty Education. Following the success of our previous Beauty Online Collectives, we’re excited to bring them back — with another inspiring programme of expert-led talks, industry insi",
       "startDate": "2027-05-05",
       "endDate": null,
@@ -2683,31 +1900,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:50Z",
+      "lastSeen": "2026-10-23T10:12:29Z",
       "id": "opp_a17a87a01cfffa95"
-    },
-    {
-      "title": "NCFE Assessor Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-assessor-training-thursday-6-may-2027-tickets-1992640473296",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "",
-      "startDate": "2027-05-06",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_3ad34e7125790d62"
     },
     {
       "title": "VTCT Skills Early Years Collective – 11th May 2027",
@@ -2734,55 +1928,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:59Z",
+      "lastSeen": "2026-10-23T10:12:37Z",
       "id": "opp_2017a3ede31372df"
-    },
-    {
-      "title": "NCFE Functional Skills Assessor Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-functional-skills-assessor-training-thursday-13-may-2027-tickets-1992643593629",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to virtually meet with assessment professionals and like-minded practitioners to learn about or expand your knowledge and understanding of assessment and our qualifications.",
-      "startDate": "2027-05-13",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_8e845cac408ad1a1"
-    },
-    {
-      "title": "2026/27 Group Approval Hub for V Cert Level 1/2 Technical Awards",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G0ffd437ee2ae4d5b9a5e7949ab102ba3@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This approval session is designed exclusively for newly approved centres delivering V Cert Level 1/2 Technical Awards. It aims to provide the essential knowledge and guidance needed to help you get started quickly, confidently, and effectively. During the session, we will guide y",
-      "startDate": "2027-05-17",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_21debc3351c09500"
     },
     {
       "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 19th May 2027",
@@ -2809,31 +1956,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:39Z",
+      "lastSeen": "2026-10-23T10:12:19Z",
       "id": "opp_e1e3550938c9bd5b"
-    },
-    {
-      "title": "NCFE Functional Skills IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-functional-skills-iqa-training-thursday-20-may-2027-tickets-1992645373954",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to meet with internal quality assurance (IQA) professionals and like-minded practitioners to learn about or expand your knowledge and understanding of IQA and our qualifications.",
-      "startDate": "2027-05-20",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "IQA training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_fbf8ea0cdf135866"
     },
     {
       "title": "Flexible Learning with Ascentis Short Vocational Qualifications Webinar",
@@ -2853,54 +1977,8 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-10-22T10:19:15Z",
+      "lastSeen": "2026-10-23T10:12:54Z",
       "id": "opp_8172b96fbc5e3f9c"
-    },
-    {
-      "title": "NCFE Assessor Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-assessor-training-wednesday-9-june-2027-tickets-1992641755130",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "",
-      "startDate": "2027-06-09",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_e80741f7c30d13a4"
-    },
-    {
-      "title": "NCFE IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-iqa-training-thursday-10-june-2027-tickets-1992642049009",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to meet with internal quality assurance (IQA) professionals and like-minded practitioners to learn about or expand your knowledge and understanding of IQA and our qualifications.",
-      "startDate": "2027-06-10",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "IQA training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_60706e147f767b5c"
     },
     {
       "title": "VTCT Skills Higher Level Beauty Qualifications – Online Drop In Session – 10th June 2027",
@@ -2927,7 +2005,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:33Z",
+      "lastSeen": "2026-10-23T10:12:12Z",
       "id": "opp_8e3959894d8faefa"
     },
     {
@@ -2935,7 +2013,7 @@
       "provider": "VTCT Skills",
       "url": "https://us02web.zoom.us/meeting/register/P7DqHjihQfqXM3aBvZr1CA",
       "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
-      "type": "Networking",
+      "type": "Webinar",
       "description": "The Hair and Barbering Collective is an online community for all those involved in the hair and barbering industry to share knowledge and be inspired.",
       "startDate": "2027-06-15",
       "endDate": null,
@@ -2955,79 +2033,8 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:18:28Z",
+      "lastSeen": "2026-10-23T10:12:08Z",
       "id": "opp_356ba3b3fdc12656"
-    },
-    {
-      "title": "NCFE Functional Skills IQA Training",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/ncfe-functional-skills-iqa-training-thursday-8-july-2027-tickets-1992647041943",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This training is a great opportunity to meet with internal quality assurance (IQA) professionals and like-minded practitioners to learn about or expand your knowledge and understanding of IQA and our qualifications.",
-      "startDate": "2027-07-08",
-      "endDate": null,
-      "startTime": "09:30",
-      "endTime": "12:30",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "IQA training"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_c752cda682295c48"
-    },
-    {
-      "title": "2026/27 Group Approval Hub for V Cert Level 1/2 Technical Awards",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G0ffd437ee2ae4d5b9a5e7949ab102ba3@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "This approval session is designed exclusively for newly approved centres delivering V Cert Level 1/2 Technical Awards. It aims to provide the essential knowledge and guidance needed to help you get started quickly, confidently, and effectively. During the session, we will guide y",
-      "startDate": "2027-07-12",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_412d2c6f3aff4d8e"
-    },
-    {
-      "title": "V Cert Drop-In Q&A with Rachel and Beth: Preparing for 2026/27 – Key Information for approved Centres",
-      "provider": "NCFE",
-      "url": "https://bookings.cloud.microsoft/book/G24555a73e00042c999e6b1f5eb7e679f@ncfe.org.uk",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Professional development",
-      "description": "Join Provider Development Officers Rachel and Beth for a focused Q&A session designed for existing centres preparing to deliver V Cert Level 1/2 Technical Awards in 2026/27. If you're continuing with V Certs and want clarity on what’s coming up, this is a great opportunity to ask",
-      "startDate": "2027-07-14",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "Online",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-10-22T10:18:11Z",
-      "id": "opp_ec9a65c3fe771a70"
     },
     {
       "title": "VTCT Skills Early Years Collective – 19th July 2027",
@@ -3054,8 +2061,36 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-10-22T10:19:00Z",
+      "lastSeen": "2026-10-23T10:12:38Z",
       "id": "opp_6dcfed1f9011329e"
+    },
+    {
+      "title": "VTCT Skills Funding Webinar – 7 December 2026",
+      "provider": "VTCT Skills",
+      "url": "https://us02web.zoom.us/meeting/register/zzwxv8LVQFm_0laQIoIDSQ",
+      "sourceUrl": "https://www.vtctskills.org.uk/media-centre/events",
+      "type": "Webinar",
+      "description": "Join us for this webinar hosted by VTCT Skills with a funding focus.",
+      "startDate": "2027-12-07",
+      "endDate": null,
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "delivery": "In person",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "linkType": "direct",
+      "tags": [
+        "Assessment",
+        "Early Years",
+        "Hair & Beauty",
+        "Logistics",
+        "Networking",
+        "Qualification delivery"
+      ],
+      "lastSeen": "2026-10-23T10:12:41Z",
+      "id": "opp_2910ea05c8438e7e"
     },
     {
       "title": "AI Awareness",
@@ -3078,7 +2113,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_3b4053ccfbaf666e"
     },
     {
@@ -3102,7 +2137,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_2f4cfdea7f88c637"
     },
     {
@@ -3126,7 +2161,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_0f8e90e37054e213"
     },
     {
@@ -3150,7 +2185,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_77fa0eb11409f817"
     },
     {
@@ -3174,7 +2209,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_90963af8e581768f"
     },
     {
@@ -3198,7 +2233,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_51bca6c757a8e746"
     },
     {
@@ -3222,7 +2257,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_866a614925a46d4e"
     },
     {
@@ -3246,7 +2281,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_07a217e73b93ad92"
     },
     {
@@ -3270,7 +2305,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_73c78bada2925d31"
     },
     {
@@ -3294,7 +2329,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_a409a9a25e48304b"
     },
     {
@@ -3318,7 +2353,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_581cb3abd04dd835"
     },
     {
@@ -3342,7 +2377,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_deb17c5f88a8437c"
     },
     {
@@ -3366,7 +2401,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_7fcf087ffe3a4e6f"
     },
     {
@@ -3390,7 +2425,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_e1fa630f2f310a70"
     },
     {
@@ -3414,7 +2449,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-10-22T10:18:18Z",
+      "lastSeen": "2026-10-23T10:12:00Z",
       "id": "opp_8fbb6609c424e101"
     }
   ],
@@ -3422,8 +2457,8 @@
     {
       "url": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "provider": "Pearson",
-      "lastAttempted": "2026-10-22T10:18:03Z",
-      "lastSuccessful": "2026-10-22T10:18:03Z",
+      "lastAttempted": "2026-10-23T10:11:47Z",
+      "lastSuccessful": "2026-10-23T10:11:47Z",
       "count": 14,
       "status": "ok",
       "error": null
@@ -3431,17 +2466,17 @@
     {
       "url": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/",
       "provider": "NCFE",
-      "lastAttempted": "2026-10-22T10:18:03Z",
+      "lastAttempted": "2026-10-23T10:11:47Z",
       "lastSuccessful": "2026-10-22T10:18:03Z",
-      "count": 42,
-      "status": "ok",
-      "error": null
+      "count": 0,
+      "status": "error",
+      "error": "404 Client Error: Not Found for url: https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/"
     },
     {
       "url": "https://etfoundation.co.uk/events-and-community/",
       "provider": "ETF",
-      "lastAttempted": "2026-10-22T10:18:03Z",
-      "lastSuccessful": "2026-10-22T10:18:03Z",
+      "lastAttempted": "2026-10-23T10:11:47Z",
+      "lastSuccessful": "2026-10-23T10:11:47Z",
       "count": 4,
       "status": "ok",
       "error": null
@@ -3449,8 +2484,8 @@
     {
       "url": "https://www.theimi.org.uk/industry-latest/events",
       "provider": "IMI",
-      "lastAttempted": "2026-10-22T10:18:03Z",
-      "lastSuccessful": "2026-10-22T10:18:03Z",
+      "lastAttempted": "2026-10-23T10:11:47Z",
+      "lastSuccessful": "2026-10-23T10:11:47Z",
       "count": 7,
       "status": "ok",
       "error": null
@@ -3458,8 +2493,8 @@
     {
       "url": "https://www.nocn.org.uk/products/short-online-courses/",
       "provider": "NOCN",
-      "lastAttempted": "2026-10-22T10:18:03Z",
-      "lastSuccessful": "2026-10-22T10:18:03Z",
+      "lastAttempted": "2026-10-23T10:11:47Z",
+      "lastSuccessful": "2026-10-23T10:11:47Z",
       "count": 15,
       "status": "ok",
       "error": null
@@ -3467,18 +2502,18 @@
     {
       "url": "https://www.vtctskills.org.uk/media-centre/events/",
       "provider": "VTCT Skills",
-      "lastAttempted": "2026-10-22T10:18:03Z",
-      "lastSuccessful": "2026-10-22T10:18:03Z",
-      "count": 30,
+      "lastAttempted": "2026-10-23T10:11:47Z",
+      "lastSuccessful": "2026-10-23T10:11:47Z",
+      "count": 33,
       "status": "ok",
       "error": null
     },
     {
       "url": "https://www.ascentis.co.uk/events/",
       "provider": "Ascentis",
-      "lastAttempted": "2026-10-22T10:18:03Z",
-      "lastSuccessful": "2026-10-22T10:18:03Z",
-      "count": 26,
+      "lastAttempted": "2026-10-23T10:11:47Z",
+      "lastSuccessful": "2026-10-23T10:11:47Z",
+      "count": 25,
       "status": "ok",
       "error": null
     }
