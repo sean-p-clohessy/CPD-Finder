@@ -1,53 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T13:26:16Z",
+  "generatedAt": "2026-11-23T16:08:16Z",
   "opportunities": [
-    {
-      "title": "Getting Ready for Internal Assessment: ​BTEC National (AAQ) in Applied Science (2025)",
-      "provider": "Pearson",
-      "url": "https://pearson.cventevents.com/d/ccznf3/4W",
-      "sourceUrl": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
-      "type": "Professional development",
-      "description": "These events, and the qualifications covered, are suitable for CENTRES IN ENGLAND ONLY. Please note: This event will cover a minimum of one mandatory unit plus other units where applicable. Delegates will: - Review the QA process for the BTEC National Level 3 qualifications - Exp",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
-      "startTime": "16:30",
-      "endTime": "18:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Free",
-      "isFree": true,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "BTEC"
-      ],
-      "lastSeen": "2026-11-22T13:26:19Z",
-      "id": "opp_d458a629ba9215f7"
-    },
-    {
-      "title": "Roles & Responsibilities of the Lead Internal Verifiers (UK centres only)",
-      "provider": "Pearson",
-      "url": "https://pearson.cventevents.com/d/xcz09l/4W",
-      "sourceUrl": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
-      "type": "Standardisation",
-      "description": "This session is an excellent CPD opportunity aimed at new and experienced Lead Internal Verifiers (LIVs). The session will take you through the key roles and responsibilities over the academic year with reference to the BTEC Entry/Level 1 to Level 3 annual quality assurance model",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
-      "startTime": "16:00",
-      "endTime": "17:00",
-      "delivery": "Online",
-      "location": "",
-      "cost": "Free",
-      "isFree": true,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "BTEC"
-      ],
-      "lastSeen": "2026-11-22T13:26:19Z",
-      "id": "opp_a6ef315235966ee0"
-    },
     {
       "title": "Ascentis Level 1 Award in ESOL Skills for Life – Speaking and Listening Webinar",
       "provider": "Ascentis",
@@ -69,7 +23,7 @@
         "ESOL",
         "Quality assurance"
       ],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_249e1aecde610b78"
     },
     {
@@ -90,7 +44,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_005996c0f88dee1d"
     },
     {
@@ -113,7 +67,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:21Z",
+      "lastSeen": "2026-11-23T16:08:23Z",
       "id": "opp_36f22c8e8a453b2d"
     },
     {
@@ -137,7 +91,7 @@
         "Automotive",
         "Wellbeing"
       ],
-      "lastSeen": "2026-11-22T13:26:28Z",
+      "lastSeen": "2026-11-23T16:08:32Z",
       "id": "opp_36ea728a719c4349"
     },
     {
@@ -158,7 +112,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_25df225765b60939"
     },
     {
@@ -182,7 +136,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_3e44ee5d18ed2cd5"
     },
     {
@@ -208,7 +162,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_01259793bb0d16dd"
     },
     {
@@ -231,7 +185,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:19Z",
+      "lastSeen": "2026-11-23T16:08:21Z",
       "id": "opp_4ea6e8bd055a5cd6"
     },
     {
@@ -254,7 +208,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:21Z",
+      "lastSeen": "2026-11-23T16:08:24Z",
       "id": "opp_92eb3209d5dc4055"
     },
     {
@@ -277,7 +231,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:22Z",
+      "lastSeen": "2026-11-23T16:08:24Z",
       "id": "opp_7d062d9d00961f17"
     },
     {
@@ -300,7 +254,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:19Z",
+      "lastSeen": "2026-11-23T16:08:20Z",
       "id": "opp_4deed1a88a54b0a9"
     },
     {
@@ -323,7 +277,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:20Z",
+      "lastSeen": "2026-11-23T16:08:22Z",
       "id": "opp_b862c5cd465549e2"
     },
     {
@@ -346,7 +300,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:21Z",
+      "lastSeen": "2026-11-23T16:08:23Z",
       "id": "opp_7fb77dab8acd3be3"
     },
     {
@@ -374,7 +328,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:43Z",
+      "lastSeen": "2026-11-23T16:08:54Z",
       "id": "opp_91f3e6827b380d42"
     },
     {
@@ -402,7 +356,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:52Z",
+      "lastSeen": "2026-11-23T16:09:09Z",
       "id": "opp_daa65ae779cb7474"
     },
     {
@@ -430,7 +384,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:38Z",
+      "lastSeen": "2026-11-23T16:08:45Z",
       "id": "opp_c1163ea5ebc08a8c"
     },
     {
@@ -458,7 +412,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:52Z",
+      "lastSeen": "2026-11-23T16:09:08Z",
       "id": "opp_5be88dcf032cf15c"
     },
     {
@@ -486,7 +440,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:54Z",
+      "lastSeen": "2026-11-23T16:09:12Z",
       "id": "opp_fa4d81607a76c842"
     },
     {
@@ -510,7 +464,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-22T13:26:26Z",
+      "lastSeen": "2026-11-23T16:08:29Z",
       "id": "opp_46796cd9c2ed2d1d"
     },
     {
@@ -531,7 +485,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_986611587aed5c5f"
     },
     {
@@ -559,7 +513,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:51Z",
+      "lastSeen": "2026-11-23T16:09:07Z",
       "id": "opp_092b2560fcd841d0"
     },
     {
@@ -583,7 +537,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_f609f9538fd72f85"
     },
     {
@@ -606,7 +560,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:20Z",
+      "lastSeen": "2026-11-23T16:08:22Z",
       "id": "opp_33569bb44ca5a4a3"
     },
     {
@@ -629,7 +583,7 @@
       "tags": [
         "Leadership"
       ],
-      "lastSeen": "2026-11-22T13:26:26Z",
+      "lastSeen": "2026-11-23T16:08:29Z",
       "id": "opp_77a00f175fe42817"
     },
     {
@@ -657,7 +611,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:51Z",
+      "lastSeen": "2026-11-23T16:09:06Z",
       "id": "opp_7b189419edf9f36d"
     },
     {
@@ -680,7 +634,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:18Z",
+      "lastSeen": "2026-11-23T16:08:20Z",
       "id": "opp_02b47ba5c7b621c9"
     },
     {
@@ -704,7 +658,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_f4caece989976142"
     },
     {
@@ -727,7 +681,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:20Z",
+      "lastSeen": "2026-11-23T16:08:22Z",
       "id": "opp_fdc76a06dbe33358"
     },
     {
@@ -751,7 +705,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_dc0090450a494323"
     },
     {
@@ -779,7 +733,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:44Z",
+      "lastSeen": "2026-11-23T16:08:55Z",
       "id": "opp_ae70c0897435b6a5"
     },
     {
@@ -802,7 +756,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:19Z",
+      "lastSeen": "2026-11-23T16:08:21Z",
       "id": "opp_8c23680d35620015"
     },
     {
@@ -828,7 +782,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_86409f114f85ea29"
     },
     {
@@ -851,7 +805,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-22T13:26:21Z",
+      "lastSeen": "2026-11-23T16:08:23Z",
       "id": "opp_95895f9f2330912e"
     },
     {
@@ -875,7 +829,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_137b04d662bc6b7a"
     },
     {
@@ -899,7 +853,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_a9c53681b40dca9b"
     },
     {
@@ -927,7 +881,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:40Z",
+      "lastSeen": "2026-11-23T16:08:48Z",
       "id": "opp_79c06695d5ffa832"
     },
     {
@@ -951,7 +905,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-22T13:26:26Z",
+      "lastSeen": "2026-11-23T16:08:29Z",
       "id": "opp_c659c2f7dd70b3dd"
     },
     {
@@ -979,7 +933,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:40Z",
+      "lastSeen": "2026-11-23T16:08:49Z",
       "id": "opp_10a0b4fdb03a6bb5"
     },
     {
@@ -1004,7 +958,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_4d35a4131bbe8105"
     },
     {
@@ -1032,7 +986,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:36Z",
+      "lastSeen": "2026-11-23T16:08:42Z",
       "id": "opp_a9f5a3cd844dc2d9"
     },
     {
@@ -1056,7 +1010,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_70d240b1dd4792f4"
     },
     {
@@ -1082,7 +1036,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_0e7b59963c6ea638"
     },
     {
@@ -1106,7 +1060,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_f1ce578c681e3da4"
     },
     {
@@ -1134,7 +1088,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:35Z",
+      "lastSeen": "2026-11-23T16:08:41Z",
       "id": "opp_ac934f27f2ed6b7f"
     },
     {
@@ -1160,7 +1114,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_2c978b0e57a4ea22"
     },
     {
@@ -1184,7 +1138,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-11-22T13:26:28Z",
+      "lastSeen": "2026-11-23T16:08:32Z",
       "id": "opp_88df4250deaeeb12"
     },
     {
@@ -1210,7 +1164,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_67430ef15b96cab6"
     },
     {
@@ -1234,7 +1188,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-22T13:26:26Z",
+      "lastSeen": "2026-11-23T16:08:29Z",
       "id": "opp_c9f669db8fd12dd4"
     },
     {
@@ -1262,7 +1216,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:45Z",
+      "lastSeen": "2026-11-23T16:08:57Z",
       "id": "opp_a9c4cd48350ce967"
     },
     {
@@ -1288,7 +1242,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_5ba384c367e65b8d"
     },
     {
@@ -1314,7 +1268,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_5875768c2fcc6c85"
     },
     {
@@ -1338,7 +1292,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_7121d611db6572a7"
     },
     {
@@ -1364,7 +1318,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_96f0e62fdb22e01b"
     },
     {
@@ -1388,7 +1342,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_39c2fed0b1d02814"
     },
     {
@@ -1409,7 +1363,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_037d5dbdbd44e20e"
     },
     {
@@ -1433,7 +1387,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-22T13:26:26Z",
+      "lastSeen": "2026-11-23T16:08:29Z",
       "id": "opp_c3c24111b1e2e87e"
     },
     {
@@ -1461,7 +1415,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:36Z",
+      "lastSeen": "2026-11-23T16:08:43Z",
       "id": "opp_0cecfea4f79be1a0"
     },
     {
@@ -1485,7 +1439,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-11-22T13:26:28Z",
+      "lastSeen": "2026-11-23T16:08:32Z",
       "id": "opp_9133d1c19aa19a3d"
     },
     {
@@ -1509,7 +1463,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_3baaac57d6facdbf"
     },
     {
@@ -1537,7 +1491,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:46Z",
+      "lastSeen": "2026-11-23T16:08:59Z",
       "id": "opp_e50e8ce3de0f02b2"
     },
     {
@@ -1560,7 +1514,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_be10c41b8d24f501"
     },
     {
@@ -1586,7 +1540,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_b31a6ca4207f75e6"
     },
     {
@@ -1610,8 +1564,34 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-11-22T13:26:28Z",
+      "lastSeen": "2026-11-23T16:08:32Z",
       "id": "opp_9cf1183c2b6590c6"
+    },
+    {
+      "title": "Driving Change: Vehicle Emissions Explained",
+      "provider": "IMI",
+      "url": "https://www.theimi.org.uk/members/events/driving-change-vehicle-emissions-explained-0",
+      "sourceUrl": "https://www.theimi.org.uk/industry-latest/events",
+      "type": "Networking",
+      "description": "| City of Portsmouth College | This practical IMI Member Network event, hosted by leading expert, Phil Dugmore from Forte at Portsmouth College, is designed to support vehicle techn...",
+      "startDate": "2027-02-10",
+      "endDate": null,
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "delivery": "In person",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "linkType": "direct",
+      "tags": [
+        "Automotive",
+        "Members only",
+        "Networking",
+        "Vehicle technology"
+      ],
+      "lastSeen": "2026-11-23T16:08:32Z",
+      "id": "opp_f23823fa36531daa"
     },
     {
       "title": "Mathematics (Stepping Stones to Functional Skills) Quality Assurance Webinar",
@@ -1634,7 +1614,7 @@
         "Functional Skills",
         "Quality assurance"
       ],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_6333d67f69c675a3"
     },
     {
@@ -1658,7 +1638,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_e68f114c93f93109"
     },
     {
@@ -1681,7 +1661,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_4943c4501d4f7b03"
     },
     {
@@ -1709,7 +1689,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:34Z",
+      "lastSeen": "2026-11-23T16:08:40Z",
       "id": "opp_5207f1c434780e01"
     },
     {
@@ -1737,7 +1717,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:41Z",
+      "lastSeen": "2026-11-23T16:08:50Z",
       "id": "opp_2a2dd7e728c40da4"
     },
     {
@@ -1762,7 +1742,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_b64018812c4a05b6"
     },
     {
@@ -1790,7 +1770,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:48Z",
+      "lastSeen": "2026-11-23T16:09:01Z",
       "id": "opp_f9b0135f9b535a7e"
     },
     {
@@ -1813,7 +1793,7 @@
       "tags": [
         "Access to HE"
       ],
-      "lastSeen": "2026-11-22T13:26:57Z",
+      "lastSeen": "2026-11-23T16:09:13Z",
       "id": "opp_8235c4422d989560"
     },
     {
@@ -1841,7 +1821,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:47Z",
+      "lastSeen": "2026-11-23T16:09:00Z",
       "id": "opp_10de30b2f23a8caf"
     },
     {
@@ -1864,7 +1844,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_480f99f2e0398261"
     },
     {
@@ -1892,7 +1872,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:54Z",
+      "lastSeen": "2026-11-23T16:09:11Z",
       "id": "opp_f194ed27ab48e1e1"
     },
     {
@@ -1920,7 +1900,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:48Z",
+      "lastSeen": "2026-11-23T16:09:02Z",
       "id": "opp_1d4593131ed11239"
     },
     {
@@ -1948,7 +1928,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:49Z",
+      "lastSeen": "2026-11-23T16:09:03Z",
       "id": "opp_091302bb4ba2daac"
     },
     {
@@ -1971,7 +1951,7 @@
       "tags": [
         "Quality assurance"
       ],
-      "lastSeen": "2026-11-22T13:26:58Z",
+      "lastSeen": "2026-11-23T16:09:14Z",
       "id": "opp_a364ac23e4078938"
     },
     {
@@ -1995,7 +1975,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_fa2bb23b88344dd9"
     },
     {
@@ -2023,7 +2003,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:44Z",
+      "lastSeen": "2026-11-23T16:08:56Z",
       "id": "opp_26b7310b733a1a83"
     },
     {
@@ -2051,7 +2031,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:53Z",
+      "lastSeen": "2026-11-23T16:09:10Z",
       "id": "opp_c7a0f1a4d43a96d2"
     },
     {
@@ -2074,7 +2054,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_af8556ca4a101074"
     },
     {
@@ -2102,7 +2082,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:43Z",
+      "lastSeen": "2026-11-23T16:08:53Z",
       "id": "opp_e9a65f8463236472"
     },
     {
@@ -2125,7 +2105,7 @@
       "tags": [
         "ESOL"
       ],
-      "lastSeen": "2026-11-22T13:26:58Z",
+      "lastSeen": "2026-11-23T16:09:14Z",
       "id": "opp_3ca8932cca98e055"
     },
     {
@@ -2153,7 +2133,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:42Z",
+      "lastSeen": "2026-11-23T16:08:52Z",
       "id": "opp_253f748f645a5b68"
     },
     {
@@ -2176,7 +2156,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_7ca4de8abc4fe45d"
     },
     {
@@ -2204,7 +2184,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:38Z",
+      "lastSeen": "2026-11-23T16:08:46Z",
       "id": "opp_70f1104d17da2b88"
     },
     {
@@ -2225,7 +2205,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-22T13:26:58Z",
+      "lastSeen": "2026-11-23T16:09:14Z",
       "id": "opp_5b0e6d4343033ab7"
     },
     {
@@ -2253,7 +2233,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:46Z",
+      "lastSeen": "2026-11-23T16:08:58Z",
       "id": "opp_a17a87a01cfffa95"
     },
     {
@@ -2276,7 +2256,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_3ad34e7125790d62"
     },
     {
@@ -2299,7 +2279,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_795208f9c1c21b42"
     },
     {
@@ -2327,7 +2307,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:49Z",
+      "lastSeen": "2026-11-23T16:09:04Z",
       "id": "opp_2017a3ede31372df"
     },
     {
@@ -2350,7 +2330,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_8e845cac408ad1a1"
     },
     {
@@ -2374,7 +2354,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_21debc3351c09500"
     },
     {
@@ -2402,7 +2382,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:41Z",
+      "lastSeen": "2026-11-23T16:08:51Z",
       "id": "opp_e1e3550938c9bd5b"
     },
     {
@@ -2425,7 +2405,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_fbf8ea0cdf135866"
     },
     {
@@ -2446,7 +2426,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-22T13:26:58Z",
+      "lastSeen": "2026-11-23T16:09:14Z",
       "id": "opp_8172b96fbc5e3f9c"
     },
     {
@@ -2469,7 +2449,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_e80741f7c30d13a4"
     },
     {
@@ -2492,7 +2472,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_60706e147f767b5c"
     },
     {
@@ -2520,7 +2500,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:39Z",
+      "lastSeen": "2026-11-23T16:08:47Z",
       "id": "opp_8e3959894d8faefa"
     },
     {
@@ -2548,7 +2528,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:37Z",
+      "lastSeen": "2026-11-23T16:08:44Z",
       "id": "opp_356ba3b3fdc12656"
     },
     {
@@ -2571,7 +2551,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_c752cda682295c48"
     },
     {
@@ -2595,7 +2575,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_412d2c6f3aff4d8e"
     },
     {
@@ -2619,7 +2599,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-22T13:26:24Z",
+      "lastSeen": "2026-11-23T16:08:26Z",
       "id": "opp_ec9a65c3fe771a70"
     },
     {
@@ -2647,7 +2627,7 @@
         "Networking",
         "Qualification delivery"
       ],
-      "lastSeen": "2026-11-22T13:26:50Z",
+      "lastSeen": "2026-11-23T16:09:05Z",
       "id": "opp_6dcfed1f9011329e"
     },
     {
@@ -2671,7 +2651,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_3b4053ccfbaf666e"
     },
     {
@@ -2695,7 +2675,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_04a25ec3a22d1055"
     },
     {
@@ -2719,7 +2699,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_0ee793b228874b11"
     },
     {
@@ -2743,7 +2723,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_b8af96ed78adfe1e"
     },
     {
@@ -2767,7 +2747,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_2f4cfdea7f88c637"
     },
     {
@@ -2791,7 +2771,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_0f8e90e37054e213"
     },
     {
@@ -2815,7 +2795,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_77fa0eb11409f817"
     },
     {
@@ -2839,7 +2819,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_90963af8e581768f"
     },
     {
@@ -2863,7 +2843,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_51bca6c757a8e746"
     },
     {
@@ -2887,7 +2867,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_866a614925a46d4e"
     },
     {
@@ -2911,7 +2891,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_07a217e73b93ad92"
     },
     {
@@ -2935,7 +2915,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_73c78bada2925d31"
     },
     {
@@ -2959,7 +2939,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_a409a9a25e48304b"
     },
     {
@@ -2983,7 +2963,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_581cb3abd04dd835"
     },
     {
@@ -3007,7 +2987,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_deb17c5f88a8437c"
     },
     {
@@ -3031,7 +3011,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_7fcf087ffe3a4e6f"
     },
     {
@@ -3055,7 +3035,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_e1fa630f2f310a70"
     },
     {
@@ -3079,7 +3059,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-22T13:26:30Z",
+      "lastSeen": "2026-11-23T16:08:34Z",
       "id": "opp_8fbb6609c424e101"
     }
   ],
@@ -3087,17 +3067,17 @@
     {
       "url": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "provider": "Pearson",
-      "lastAttempted": "2026-11-22T13:26:16Z",
-      "lastSuccessful": "2026-11-22T13:26:16Z",
-      "count": 14,
+      "lastAttempted": "2026-11-23T16:08:16Z",
+      "lastSuccessful": "2026-11-23T16:08:16Z",
+      "count": 12,
       "status": "ok",
       "error": null
     },
     {
       "url": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/",
       "provider": "NCFE",
-      "lastAttempted": "2026-11-22T13:26:16Z",
-      "lastSuccessful": "2026-11-22T13:26:16Z",
+      "lastAttempted": "2026-11-23T16:08:16Z",
+      "lastSuccessful": "2026-11-23T16:08:16Z",
       "count": 36,
       "status": "ok",
       "error": null
@@ -3105,8 +3085,8 @@
     {
       "url": "https://etfoundation.co.uk/events-and-community/",
       "provider": "ETF",
-      "lastAttempted": "2026-11-22T13:26:16Z",
-      "lastSuccessful": "2026-11-22T13:26:16Z",
+      "lastAttempted": "2026-11-23T16:08:16Z",
+      "lastSuccessful": "2026-11-23T16:08:16Z",
       "count": 5,
       "status": "ok",
       "error": null
@@ -3114,17 +3094,17 @@
     {
       "url": "https://www.theimi.org.uk/industry-latest/events",
       "provider": "IMI",
-      "lastAttempted": "2026-11-22T13:26:16Z",
-      "lastSuccessful": "2026-11-22T13:26:16Z",
-      "count": 4,
+      "lastAttempted": "2026-11-23T16:08:16Z",
+      "lastSuccessful": "2026-11-23T16:08:16Z",
+      "count": 5,
       "status": "ok",
       "error": null
     },
     {
       "url": "https://www.nocn.org.uk/products/short-online-courses/",
       "provider": "NOCN",
-      "lastAttempted": "2026-11-22T13:26:16Z",
-      "lastSuccessful": "2026-11-22T13:26:16Z",
+      "lastAttempted": "2026-11-23T16:08:16Z",
+      "lastSuccessful": "2026-11-23T16:08:16Z",
       "count": 18,
       "status": "ok",
       "error": null
@@ -3132,8 +3112,8 @@
     {
       "url": "https://www.vtctskills.org.uk/media-centre/events/",
       "provider": "VTCT Skills",
-      "lastAttempted": "2026-11-22T13:26:16Z",
-      "lastSuccessful": "2026-11-22T13:26:16Z",
+      "lastAttempted": "2026-11-23T16:08:16Z",
+      "lastSuccessful": "2026-11-23T16:08:16Z",
       "count": 33,
       "status": "ok",
       "error": null
@@ -3141,8 +3121,8 @@
     {
       "url": "https://www.ascentis.co.uk/events/",
       "provider": "Ascentis",
-      "lastAttempted": "2026-11-22T13:26:16Z",
-      "lastSuccessful": "2026-11-22T13:26:16Z",
+      "lastAttempted": "2026-11-23T16:08:16Z",
+      "lastSuccessful": "2026-11-23T16:08:16Z",
       "count": 14,
       "status": "ok",
       "error": null
