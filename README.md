@@ -69,7 +69,13 @@ Unknown sources use the generic collector. A site with unusual markup or a clien
 
 `collect.yml` runs at approximately 05:23 UTC every day and also supports **Actions → Collect CPD opportunities → Run workflow**. It installs pinned dependencies, runs the tests, collects all sources and commits the generated JSON only when it changed. Repository **Actions: Read and write permissions** must permit the workflow's `contents: write` token.
 
-`pages.yml` deploys `public/` after pushes to `main`, including automated data refreshes. In repository settings, choose **GitHub Actions** as the Pages source.
+`pages.yml` deploys `public/` after pushes to `main` and after completion of the collection workflow on `main`. The explicit `workflow_run` trigger is necessary because commits made with `GITHUB_TOKEN` do not trigger push workflows. Deployment checks out the latest `main`, including the collector's newly committed feed. In repository settings, choose **GitHub Actions** as the Pages source.
+
+Provider failures retain non-expired last-known-good data and exit collection with a nonzero status. The workflow still commits the updated feed and health records, then fails visibly; Pages also publishes these partial-success runs so healthy providers keep updating. Each run writes a source-health summary and error annotations. A drop of more than half of a source's still-current records (with a baseline of at least ten) is flagged for review; it is not proof of missing courses.
+
+ETF has two independently monitored sources under the same provider: Events and Community, and the Learning Library. Both APIs are paginated and checked against their reported totals. Dated library records link to their individual course pages. Undated programmes and placeholder dates are explicitly counted but excluded rather than incorrectly labelled self-paced. Prices and delivery remain unknown when not supplied or evidenced by the listing.
+
+Exception: library records with the 2040/1753 date placeholders are checked against their detail pages. Explicitly labelled on-demand/self-paced courses appear under Learn anytime with no invented session date. Deployment also fetches the public JSON and verifies it matches the uploaded artifact, failing visibly if Pages remains stale.
 
 ## Public visits counter
 

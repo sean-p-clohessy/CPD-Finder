@@ -79,6 +79,78 @@ class VtctSession:
 
 
 class CollectorTests(unittest.TestCase):
+    def test_publication_verification_retries_and_rejects_stale_feed(self):
+        from collector.verify_published import verify
+        responses = iter([{'generatedAt': 'old'}, {'generatedAt': 'new'}])
+        verify({'generatedAt': 'new'}, lambda: next(responses), attempts=2, delay=0)
+        with self.assertRaisesRegex(RuntimeError, 'does not match'):
+            verify({'generatedAt': 'new'}, lambda: {'generatedAt': 'old'}, attempts=2, delay=0)
+
+    def test_etf_library_pagination_and_placeholder_dates(self):
+        class LibrarySession:
+            def post(self, url, **kwargs):
+                assert url.endswith('/CoursesApi/Courses')
+                number = kwargs['json']['page']
+                record = {"name": "SEND stakeholder voice", "startDate": "2026-12-09T16:15:00Z", "endDate": "2026-12-09T17:30:00Z", "summary": "A live online webinar", "courseUrl": "/learning-library/send/", "courseTags": ["SEND"], "fromPrice": 0}
+                record['externalUrl'] = {'url': 'https://booking.example/shared-login'}
+                if number == 1:
+                    record = {**record, "name": "Undated programme", "startDate": "1753-01-01T00:00:00Z"}
+                return JsonResponse({"results": [record], "page": number, "pages": 2, "total": 2})
+        adapter = EtfAdapter()
+        items = adapter.collect('', 'https://etfoundation.co.uk/learning-library/', LibrarySession())
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].startDate, '2026-12-09')
+        self.assertEqual(items[0].startTime, '16:15')
+        self.assertEqual(items[0].delivery, 'Online')
+        self.assertTrue(items[0].isFree)
+        self.assertFalse(items[0].isSelfPaced)
+        self.assertEqual(adapter.coverage['undatedExcluded'], 1)
+
+    def test_etf_incomplete_api_response_fails(self):
+        class IncompleteSession:
+            def post(self, *args, **kwargs):
+                return JsonResponse({"results": [], "pages": 1, "total": 3})
+        with self.assertRaisesRegex(ValueError, 'coverage mismatch'):
+            EtfAdapter().collect('', 'https://etfoundation.co.uk/learning-library/', IncompleteSession())
+
+    def test_etf_placeholder_date_requires_explicit_on_demand_evidence(self):
+        class OnDemandSession:
+            text = '<main>Free On Demand Course</main>'
+            def post(self, *args, **kwargs):
+                return JsonResponse({'results': [{'name': 'Leadership', 'startDate': '2040-07-01T08:00:00Z', 'endDate': '1753-01-01T00:00:00Z', 'courseUrl': '/learning-library/leadership/'}]})
+            def get(self, *args, **kwargs): return TextResponse(self.text)
+        session = OnDemandSession()
+        adapter = EtfAdapter()
+        items = adapter.collect('', 'https://etfoundation.co.uk/learning-library/', session)
+        self.assertTrue(items[0].isSelfPaced)
+        self.assertTrue(items[0].isFree)
+        self.assertIsNone(items[0].startDate)
+        session.text = '<main>Contact us to arrange training</main>'
+        self.assertEqual(adapter.collect('', 'https://etfoundation.co.uk/learning-library/', session), [])
+
+    def test_health_reporting_fails_for_errors_and_coverage_warnings(self):
+        from collector.__main__ import report
+        source = {"provider": "ETF", "url": "https://example.org", "count": 2, "status": "ok"}
+        self.assertEqual(report({"sources": [source]}), 0)
+        self.assertEqual(report({"sources": [{**source, "warning": "Coverage dropped"}]}), 1)
+        self.assertEqual(report({"sources": [{**source, "status": "error", "error": "Unavailable"}]}), 1)
+
+    def test_large_drop_in_still_current_records_is_flagged(self):
+        from unittest.mock import patch
+        url = 'https://example.org/events/'
+        prior = [Opportunity(title=f'Event {i}', provider='Example', url=f'https://example.org/event/{i}', sourceUrl=url, startDate='2026-12-09') for i in range(10)]
+        class Adapter:
+            provider = 'Example'
+            def collect(self, *args): return prior[:2]
+        with TemporaryDirectory() as folder:
+            source = Path(folder) / 'sources.txt'
+            output = Path(folder) / 'out.json'
+            source.write_text(url, encoding='utf-8')
+            output.write_text(json.dumps({'opportunities': [x.to_dict() for x in prior]}), encoding='utf-8')
+            with patch('collector.pipeline.adapter_for', return_value=Adapter()):
+                result = collect(source, output, session=Session, today=date(2026, 11, 26), delay=0)
+            self.assertIn('10 still-current records to 2', result['sources'][0]['warning'])
+
     def test_ascentis_all_pages_direct_links_and_metadata(self):
         url = "https://www.ascentis.co.uk/events/"
         def card(day, title="ESOL Webinar", destination="https://events.teams.microsoft.com/event/one"):
@@ -245,7 +317,7 @@ class CollectorTests(unittest.TestCase):
     def test_failure_retains_last_known_good(self):
         with TemporaryDirectory() as folder:
             root = Path(folder); source = root / "sources.txt"; output = root / "out.json"
-            url = "https://example.com/events"; source.write_text(url, encoding="utf-8")
+            url = "https://example.com/events/"; source.write_text(url, encoding="utf-8")
             previous = {"generatedAt":"2026-09-01T00:00:00Z","opportunities":[Opportunity(title="Still useful", provider="Example", url="https://example.com/a", sourceUrl=url, startDate="2026-10-01").to_dict()],"sources":[{"url":url,"provider":"Example","lastSuccessful":"2026-09-01T00:00:00Z"}]}
             output.write_text(json.dumps(previous), encoding="utf-8")
             result = collect(source, output, session=Session, today=date(2026, 9, 3), delay=0)

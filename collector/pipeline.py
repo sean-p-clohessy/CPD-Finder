@@ -7,7 +7,7 @@ import time
 from urllib.parse import urlparse
 import requests
 from collector.adapters import adapter_for
-from collector.models import Opportunity, deduplicate, utc_now
+from collector.models import Opportunity, canonical_url, deduplicate, utc_now
 
 
 USER_AGENT = "CPD-Finder/1.0 (+https://github.com/; polite daily educational-opportunity indexer)"
@@ -51,12 +51,13 @@ def collect(source_file: Path, output_file: Path, *, session=requests, today: da
     old_by_source: dict[str, list[dict]] = {}
     old_health = {item["url"]: item for item in previous.get("sources", [])}
     for item in previous.get("opportunities", []):
-        old_by_source.setdefault(item.get("sourceUrl", ""), []).append(item)
+        old_by_source.setdefault(canonical_url(item.get("sourceUrl", "")), []).append(item)
     all_items: list[Opportunity] = []
     health: list[dict] = []
     now = utc_now()
     sources = read_sources(source_file)
     for index, url in enumerate(sources):
+        source_key = canonical_url(url)
         adapter = adapter_for(url)
         try:
             headers = {"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}
@@ -69,9 +70,18 @@ def collect(source_file: Path, output_file: Path, *, session=requests, today: da
                 raise ValueError("No opportunities found; retained last-known-good data")
             all_items.extend(valid)
             health.append({"url": url, "provider": adapter.provider if adapter.provider != "Unknown" else urlparse(url).netloc, "lastAttempted": now, "lastSuccessful": now, "count": len(valid), "status": "ok", "error": None})
+            health[-1]["coverage"] = {**getattr(adapter, "coverage", {}), "extracted": len(extracted), "published": len(valid)}
+            comparable = 0
+            for raw in old_by_source.get(source_key, []):
+                try:
+                    comparable += not Opportunity(**raw).expired(today)
+                except TypeError:
+                    continue
+            if comparable >= 10 and len(valid) < comparable / 2:
+                health[-1]["warning"] = f"Coverage dropped from {comparable} still-current records to {len(valid)}; review source changes"
         except Exception as error:
             retained = []
-            for raw in old_by_source.get(url, []):
+            for raw in old_by_source.get(source_key, []):
                 try:
                     item = Opportunity(**raw)
                     if not item.expired(today) and is_allowed_destination(item):

@@ -26,7 +26,10 @@ jobs:
           node-version: "22"
       - run: pip install -r requirements.txt
       - run: npm test
-      - run: python -m collector
+      - name: Collect and report source health
+        id: collector
+        continue-on-error: true
+        run: python -m collector
       - name: Commit refreshed data
         run: |
           if git diff --quiet -- public/data/opportunities.json; then
@@ -38,3 +41,6 @@ jobs:
           git add public/data/opportunities.json
           git commit -m "chore: refresh CPD opportunities"
           git push
+      - name: Fail visibly when collection needs attention
+        if: steps.collector.outcome == 'failure'
+        run: exit 1
