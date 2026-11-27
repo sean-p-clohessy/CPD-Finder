@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T15:26:58Z",
+  "generatedAt": "2026-11-27T15:15:44Z",
   "opportunities": [
     {
       "title": "SEND Knowledge Exchange Network: Building Inclusive FE Together",
@@ -22,7 +22,7 @@
       "tags": [
         "SEND"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_713f55211fe92698"
     },
     {
@@ -46,7 +46,7 @@
         "Professional Recognition",
         "SEND"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_6d5fd4b725a5cbb9"
     },
     {
@@ -67,7 +67,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_232e0d38db197553"
     },
     {
@@ -90,7 +90,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:05Z",
+      "lastSeen": "2026-11-27T15:15:51Z",
       "id": "opp_7fb77dab8acd3be3"
     },
     {
@@ -226,7 +226,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-26T15:27:13Z",
+      "lastSeen": "2026-11-27T15:15:57Z",
       "id": "opp_46796cd9c2ed2d1d"
     },
     {
@@ -268,7 +268,7 @@
       "isSelfPaced": false,
       "linkType": "direct",
       "tags": [],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_63c1505a97c8ad80"
     },
     {
@@ -320,7 +320,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_f609f9538fd72f85"
     },
     {
@@ -343,7 +343,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:04Z",
+      "lastSeen": "2026-11-27T15:15:50Z",
       "id": "opp_33569bb44ca5a4a3"
     },
     {
@@ -366,7 +366,7 @@
       "tags": [
         "Leadership"
       ],
-      "lastSeen": "2026-11-26T15:27:13Z",
+      "lastSeen": "2026-11-27T15:15:57Z",
       "id": "opp_77a00f175fe42817"
     },
     {
@@ -417,7 +417,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:01Z",
+      "lastSeen": "2026-11-27T15:15:48Z",
       "id": "opp_02b47ba5c7b621c9"
     },
     {
@@ -441,31 +441,8 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_f4caece989976142"
-    },
-    {
-      "title": "SEND Knowledge Exchange Network: Session 3: PfA - Measuring what matters",
-      "provider": "ETF",
-      "url": "https://etfoundation.co.uk/learning-library/send-knowledge-exchange-network-session-3-pfa-measuring-what-matters",
-      "sourceUrl": "https://etfoundation.co.uk/learning-library",
-      "type": "Networking",
-      "description": "Through interactive activities and collaborative discussion, participants will identify the structural barriers that can prevent effective PfA planning and explore practical ways to overcome them. The session will support participants to map early intervention pathways and shift",
-      "startDate": "2026-12-09",
-      "endDate": "2026-12-09",
-      "startTime": "16:00",
-      "endTime": "17:00",
-      "delivery": "Unknown",
-      "location": "",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "SEND"
-      ],
-      "lastSeen": "2026-11-26T15:27:15Z",
-      "id": "opp_94bea21c6626619f"
     },
     {
       "title": "SEND Session: Developing the stakeholder voice in SEND provision",
@@ -487,7 +464,7 @@
       "tags": [
         "SEND"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_8b4b17f24879dda5"
     },
     {
@@ -510,7 +487,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:03Z",
+      "lastSeen": "2026-11-27T15:15:49Z",
       "id": "opp_fdc76a06dbe33358"
     },
     {
@@ -534,7 +511,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_dc0090450a494323"
     },
     {
@@ -566,6 +543,30 @@
       "id": "opp_ae70c0897435b6a5"
     },
     {
+      "title": "Erasmus+ Leaders Briefing",
+      "provider": "ETF",
+      "url": "https://etfoundation.co.uk/events-and-community/erasmusplus-leaders-briefing",
+      "sourceUrl": "https://etfoundation.co.uk/events-and-community",
+      "type": "Online",
+      "description": "The FE and skills sector is facing significant challenges, from workforce development and recruitment pressures to improving outcomes for learners and responding to changing employer needs. Across Europe, providers are tackling many of these same issues in innovative ways. This o",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-14",
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "delivery": "Online",
+      "location": "",
+      "cost": "Unknown",
+      "isFree": null,
+      "isSelfPaced": false,
+      "linkType": "direct",
+      "tags": [
+        "Leadership",
+        "Leadership and Management"
+      ],
+      "lastSeen": "2026-11-27T15:15:57Z",
+      "id": "opp_d03e82b517673f50"
+    },
+    {
       "title": "How to Migrate from BTEC Leadership Through Sport to Pearson Skills for Life and Work qualifications for 14-16 Learners in Wales",
       "provider": "Pearson",
       "url": "https://pearson.cventevents.com/d/tcz99g/4W",
@@ -585,7 +586,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:03Z",
+      "lastSeen": "2026-11-27T15:15:49Z",
       "id": "opp_8c23680d35620015"
     },
     {
@@ -611,7 +612,7 @@
         "Functional Skills",
         "Functional skills"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_86409f114f85ea29"
     },
     {
@@ -634,7 +635,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:05Z",
+      "lastSeen": "2026-11-27T15:15:51Z",
       "id": "opp_95895f9f2330912e"
     },
     {
@@ -658,7 +659,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_137b04d662bc6b7a"
     },
     {
@@ -682,7 +683,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_a9c53681b40dca9b"
     },
     {
@@ -733,7 +734,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:02Z",
+      "lastSeen": "2026-11-27T15:15:48Z",
       "id": "opp_d517f0a284a4c0e5"
     },
     {
@@ -756,7 +757,7 @@
       "tags": [
         "Governance"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_afe8c379bbefb20d"
     },
     {
@@ -779,7 +780,7 @@
       "tags": [
         "BTEC"
       ],
-      "lastSeen": "2026-11-26T15:27:04Z",
+      "lastSeen": "2026-11-27T15:15:50Z",
       "id": "opp_2970e339c1d8b31f"
     },
     {
@@ -803,7 +804,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-26T15:27:13Z",
+      "lastSeen": "2026-11-27T15:15:57Z",
       "id": "opp_c659c2f7dd70b3dd"
     },
     {
@@ -863,31 +864,6 @@
       "id": "opp_d2b2bafb513200d1"
     },
     {
-      "title": "V Certs Level 1/2 Technical Awards Road show Face -to- Face Standardisation Event - Stevenage",
-      "provider": "NCFE",
-      "url": "https://www.eventbrite.co.uk/e/v-certs-level-1-2-technical-awards-face-to-face-standardisation-event-tickets-1991543457091",
-      "sourceUrl": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars",
-      "type": "Standardisation",
-      "description": "Join us for a full-day, in-person training event focused on standardisation and best practice in assessment. This is a fantastic opportunity to meet with the Provider Quality Assurance and Development Team and like-minded practitioners to learn about, or expand your knowledge and",
-      "startDate": "2027-01-13",
-      "endDate": null,
-      "startTime": null,
-      "endTime": null,
-      "delivery": "In person",
-      "location": "Holiday Inn Stevenage (St. George's Way, Stevenage, Hertfordshire, United Kingdom, SG1 1HS)",
-      "cost": "Unknown",
-      "isFree": null,
-      "isSelfPaced": false,
-      "linkType": "direct",
-      "tags": [
-        "Assessor training",
-        "Support webinars",
-        "V Certs"
-      ],
-      "lastSeen": "2026-11-26T15:27:09Z",
-      "id": "opp_4d35a4131bbe8105"
-    },
-    {
       "title": "Hair & Barbering Collective LIVE – Barking and Dagenham College",
       "provider": "VTCT Skills",
       "url": "https://www.eventbrite.co.uk/e/collective-live-dagenham-14-jan-2027-tickets-2004371001622",
@@ -936,7 +912,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_70d240b1dd4792f4"
     },
     {
@@ -962,7 +938,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_0e7b59963c6ea638"
     },
     {
@@ -986,7 +962,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_f1ce578c681e3da4"
     },
     {
@@ -1040,7 +1016,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_2c978b0e57a4ea22"
     },
     {
@@ -1063,7 +1039,7 @@
       "tags": [
         "SEND"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_33cf421f8f988c70"
     },
     {
@@ -1087,7 +1063,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-11-26T15:27:40Z",
+      "lastSeen": "2026-11-27T15:16:26Z",
       "id": "opp_88df4250deaeeb12"
     },
     {
@@ -1113,7 +1089,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_67430ef15b96cab6"
     },
     {
@@ -1137,7 +1113,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-26T15:27:13Z",
+      "lastSeen": "2026-11-27T15:15:57Z",
       "id": "opp_c9f669db8fd12dd4"
     },
     {
@@ -1191,7 +1167,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_5ba384c367e65b8d"
     },
     {
@@ -1217,7 +1193,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_5875768c2fcc6c85"
     },
     {
@@ -1267,7 +1243,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_96f0e62fdb22e01b"
     },
     {
@@ -1291,7 +1267,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_b5e8404ec4fbd13a"
     },
     {
@@ -1360,7 +1336,7 @@
         "Members only",
         "Membership"
       ],
-      "lastSeen": "2026-11-26T15:27:13Z",
+      "lastSeen": "2026-11-27T15:15:57Z",
       "id": "opp_c3c24111b1e2e87e"
     },
     {
@@ -1412,7 +1388,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_9b08d876574038f3"
     },
     {
@@ -1436,7 +1412,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-11-26T15:27:40Z",
+      "lastSeen": "2026-11-27T15:16:26Z",
       "id": "opp_9133d1c19aa19a3d"
     },
     {
@@ -1460,7 +1436,7 @@
         "Governance",
         "Leadership"
       ],
-      "lastSeen": "2026-11-26T15:27:13Z",
+      "lastSeen": "2026-11-27T15:15:57Z",
       "id": "opp_f7ded59971f66aaf"
     },
     {
@@ -1535,7 +1511,7 @@
       "tags": [
         "Automotive"
       ],
-      "lastSeen": "2026-11-26T15:27:40Z",
+      "lastSeen": "2026-11-27T15:16:26Z",
       "id": "opp_dd5d91081ee7411e"
     },
     {
@@ -1558,7 +1534,7 @@
       "tags": [
         "Governance"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_1d9861ada7403e77"
     },
     {
@@ -1581,7 +1557,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_be10c41b8d24f501"
     },
     {
@@ -1607,7 +1583,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_b31a6ca4207f75e6"
     },
     {
@@ -1631,7 +1607,7 @@
         "Automotive",
         "Leadership & teams"
       ],
-      "lastSeen": "2026-11-26T15:27:40Z",
+      "lastSeen": "2026-11-27T15:16:26Z",
       "id": "opp_9cf1183c2b6590c6"
     },
     {
@@ -1657,7 +1633,7 @@
         "Networking",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-11-26T15:27:40Z",
+      "lastSeen": "2026-11-27T15:16:26Z",
       "id": "opp_f23823fa36531daa"
     },
     {
@@ -1705,7 +1681,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_e68f114c93f93109"
     },
     {
@@ -1728,7 +1704,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_4943c4501d4f7b03"
     },
     {
@@ -1809,7 +1785,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_b64018812c4a05b6"
     },
     {
@@ -1883,7 +1859,7 @@
       "tags": [
         "Governance"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_a292531083d3968e"
     },
     {
@@ -1907,7 +1883,7 @@
         "Automotive",
         "Vehicle technology"
       ],
-      "lastSeen": "2026-11-26T15:27:40Z",
+      "lastSeen": "2026-11-27T15:16:26Z",
       "id": "opp_286845bb88057515"
     },
     {
@@ -1958,7 +1934,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_480f99f2e0398261"
     },
     {
@@ -1982,7 +1958,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_50fa1697403e48f3"
     },
     {
@@ -2062,7 +2038,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_49bbf24b23a018b8"
     },
     {
@@ -2136,7 +2112,7 @@
       "tags": [
         "Leadership"
       ],
-      "lastSeen": "2026-11-26T15:27:13Z",
+      "lastSeen": "2026-11-27T15:15:57Z",
       "id": "opp_74843bcd282bd6d3"
     },
     {
@@ -2160,7 +2136,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_fa2bb23b88344dd9"
     },
     {
@@ -2239,7 +2215,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_af8556ca4a101074"
     },
     {
@@ -2291,7 +2267,7 @@
         "T Level Education and Childcare",
         "T Levels"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_238fdcb194db25b1"
     },
     {
@@ -2365,7 +2341,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_7ca4de8abc4fe45d"
     },
     {
@@ -2465,7 +2441,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_3ad34e7125790d62"
     },
     {
@@ -2488,7 +2464,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_795208f9c1c21b42"
     },
     {
@@ -2539,7 +2515,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_8e845cac408ad1a1"
     },
     {
@@ -2563,7 +2539,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_21debc3351c09500"
     },
     {
@@ -2614,7 +2590,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_fbf8ea0cdf135866"
     },
     {
@@ -2658,7 +2634,7 @@
       "tags": [
         "Assessor training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_e80741f7c30d13a4"
     },
     {
@@ -2681,7 +2657,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_60706e147f767b5c"
     },
     {
@@ -2760,7 +2736,7 @@
       "tags": [
         "IQA training"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_c752cda682295c48"
     },
     {
@@ -2784,7 +2760,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_412d2c6f3aff4d8e"
     },
     {
@@ -2808,7 +2784,7 @@
         "Support webinars",
         "V Certs"
       ],
-      "lastSeen": "2026-11-26T15:27:09Z",
+      "lastSeen": "2026-11-27T15:15:54Z",
       "id": "opp_ec9a65c3fe771a70"
     },
     {
@@ -2860,7 +2836,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:19Z",
+      "lastSeen": "2026-11-27T15:16:03Z",
       "id": "opp_127a7bdad3452bed"
     },
     {
@@ -2884,7 +2860,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:22Z",
+      "lastSeen": "2026-11-27T15:16:06Z",
       "id": "opp_2db1ccaf6f5c6798"
     },
     {
@@ -2908,7 +2884,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_3b4053ccfbaf666e"
     },
     {
@@ -2932,7 +2908,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_04a25ec3a22d1055"
     },
     {
@@ -2956,7 +2932,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_0ee793b228874b11"
     },
     {
@@ -2980,7 +2956,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_b8af96ed78adfe1e"
     },
     {
@@ -3004,7 +2980,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_a1ba8be34aedb0e3"
     },
     {
@@ -3028,7 +3004,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:15:59Z",
       "id": "opp_d708a02a7539e42d"
     },
     {
@@ -3052,7 +3028,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_2f4cfdea7f88c637"
     },
     {
@@ -3076,7 +3052,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:22Z",
+      "lastSeen": "2026-11-27T15:16:06Z",
       "id": "opp_c77cbc9b38789e00"
     },
     {
@@ -3100,7 +3076,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_0f8e90e37054e213"
     },
     {
@@ -3124,7 +3100,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:21Z",
+      "lastSeen": "2026-11-27T15:16:05Z",
       "id": "opp_1cfdbf6c85ec071a"
     },
     {
@@ -3148,7 +3124,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:19Z",
+      "lastSeen": "2026-11-27T15:16:03Z",
       "id": "opp_24dce69da7c20bad"
     },
     {
@@ -3172,7 +3148,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:20Z",
+      "lastSeen": "2026-11-27T15:16:04Z",
       "id": "opp_aa4cb1a064576060"
     },
     {
@@ -3196,7 +3172,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:27Z",
+      "lastSeen": "2026-11-27T15:16:11Z",
       "id": "opp_39e3d2cc9af06194"
     },
     {
@@ -3220,7 +3196,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_77fa0eb11409f817"
     },
     {
@@ -3244,7 +3220,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:15Z",
+      "lastSeen": "2026-11-27T15:16:00Z",
       "id": "opp_96b73cfa38bc663a"
     },
     {
@@ -3268,7 +3244,7 @@
         "AI, Digital and EdTech",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:34Z",
+      "lastSeen": "2026-11-27T15:16:19Z",
       "id": "opp_3b25f1792f725f45"
     },
     {
@@ -3292,7 +3268,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:28Z",
+      "lastSeen": "2026-11-27T15:16:11Z",
       "id": "opp_c468e7b81ac7fe99"
     },
     {
@@ -3316,7 +3292,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:16Z",
+      "lastSeen": "2026-11-27T15:16:00Z",
       "id": "opp_e7a35ea42947ae49"
     },
     {
@@ -3340,7 +3316,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:24Z",
+      "lastSeen": "2026-11-27T15:16:08Z",
       "id": "opp_8620fd4c4877907a"
     },
     {
@@ -3364,7 +3340,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:24Z",
+      "lastSeen": "2026-11-27T15:16:07Z",
       "id": "opp_0117a46026c2c166"
     },
     {
@@ -3388,7 +3364,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:28Z",
+      "lastSeen": "2026-11-27T15:16:11Z",
       "id": "opp_06e708915b3c0f1e"
     },
     {
@@ -3412,7 +3388,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:16Z",
+      "lastSeen": "2026-11-27T15:16:00Z",
       "id": "opp_5fbc3cc9d06e3564"
     },
     {
@@ -3436,7 +3412,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:17Z",
+      "lastSeen": "2026-11-27T15:16:01Z",
       "id": "opp_03c10612d6033372"
     },
     {
@@ -3460,7 +3436,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_90963af8e581768f"
     },
     {
@@ -3484,7 +3460,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:17Z",
+      "lastSeen": "2026-11-27T15:16:01Z",
       "id": "opp_34078888fcd7efca"
     },
     {
@@ -3508,7 +3484,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:16Z",
+      "lastSeen": "2026-11-27T15:16:01Z",
       "id": "opp_5e9df8916491644a"
     },
     {
@@ -3532,7 +3508,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_51bca6c757a8e746"
     },
     {
@@ -3556,7 +3532,7 @@
         "Inclusion",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:30Z",
+      "lastSeen": "2026-11-27T15:16:14Z",
       "id": "opp_b19a20e998501e8e"
     },
     {
@@ -3580,7 +3556,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:22Z",
+      "lastSeen": "2026-11-27T15:16:06Z",
       "id": "opp_44a02bb7c2ac8586"
     },
     {
@@ -3604,7 +3580,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_866a614925a46d4e"
     },
     {
@@ -3628,7 +3604,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:18Z",
+      "lastSeen": "2026-11-27T15:16:02Z",
       "id": "opp_8405f51f349b56ec"
     },
     {
@@ -3652,7 +3628,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:28Z",
+      "lastSeen": "2026-11-27T15:16:12Z",
       "id": "opp_9d1199efd2ebb385"
     },
     {
@@ -3676,7 +3652,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_07a217e73b93ad92"
     },
     {
@@ -3700,7 +3676,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_73c78bada2925d31"
     },
     {
@@ -3724,7 +3700,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_a409a9a25e48304b"
     },
     {
@@ -3748,7 +3724,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:21Z",
+      "lastSeen": "2026-11-27T15:16:05Z",
       "id": "opp_d1b0baf6eb8ce8fd"
     },
     {
@@ -3772,7 +3748,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:23Z",
+      "lastSeen": "2026-11-27T15:16:07Z",
       "id": "opp_8a755eab86d4ee57"
     },
     {
@@ -3796,7 +3772,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_581cb3abd04dd835"
     },
     {
@@ -3820,7 +3796,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:25Z",
+      "lastSeen": "2026-11-27T15:16:08Z",
       "id": "opp_7d91abb55e2599e6"
     },
     {
@@ -3844,7 +3820,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:21Z",
+      "lastSeen": "2026-11-27T15:16:05Z",
       "id": "opp_711bd102540c37ee"
     },
     {
@@ -3868,7 +3844,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_deb17c5f88a8437c"
     },
     {
@@ -3892,7 +3868,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:18Z",
+      "lastSeen": "2026-11-27T15:16:01Z",
       "id": "opp_84cd7a4408d48661"
     },
     {
@@ -3916,7 +3892,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_7fcf087ffe3a4e6f"
     },
     {
@@ -3940,7 +3916,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:27Z",
+      "lastSeen": "2026-11-27T15:16:10Z",
       "id": "opp_8db12b3a95f1bcff"
     },
     {
@@ -3964,7 +3940,7 @@
         "Self-paced",
         "Teaching Practice"
       ],
-      "lastSeen": "2026-11-26T15:27:35Z",
+      "lastSeen": "2026-11-27T15:16:21Z",
       "id": "opp_f64a867a67e3ed82"
     },
     {
@@ -3988,7 +3964,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:28Z",
+      "lastSeen": "2026-11-27T15:16:12Z",
       "id": "opp_3eb22569ab2ff82d"
     },
     {
@@ -4012,7 +3988,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:26Z",
+      "lastSeen": "2026-11-27T15:16:10Z",
       "id": "opp_6900f3a299d7b96a"
     },
     {
@@ -4036,7 +4012,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:23Z",
+      "lastSeen": "2026-11-27T15:16:07Z",
       "id": "opp_3b76906e7dbf5dfc"
     },
     {
@@ -4060,7 +4036,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:25Z",
+      "lastSeen": "2026-11-27T15:16:09Z",
       "id": "opp_faec2199d0bfe32a"
     },
     {
@@ -4084,7 +4060,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:23Z",
+      "lastSeen": "2026-11-27T15:16:07Z",
       "id": "opp_cb47a3462de88ba5"
     },
     {
@@ -4108,7 +4084,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:19Z",
+      "lastSeen": "2026-11-27T15:16:03Z",
       "id": "opp_9c86299c34c8f8f7"
     },
     {
@@ -4132,7 +4108,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:24Z",
+      "lastSeen": "2026-11-27T15:16:08Z",
       "id": "opp_2ab0ded5a8facd74"
     },
     {
@@ -4156,7 +4132,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:20Z",
+      "lastSeen": "2026-11-27T15:16:04Z",
       "id": "opp_78e089afd6e15cd5"
     },
     {
@@ -4180,7 +4156,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:18Z",
+      "lastSeen": "2026-11-27T15:16:02Z",
       "id": "opp_c8d903726f566238"
     },
     {
@@ -4204,7 +4180,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:19Z",
+      "lastSeen": "2026-11-27T15:16:02Z",
       "id": "opp_7afa1e481282fe19"
     },
     {
@@ -4228,7 +4204,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:20Z",
+      "lastSeen": "2026-11-27T15:16:04Z",
       "id": "opp_c04b88d165d6c4e4"
     },
     {
@@ -4252,7 +4228,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:21Z",
+      "lastSeen": "2026-11-27T15:16:05Z",
       "id": "opp_f234ff779b87dae8"
     },
     {
@@ -4276,7 +4252,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:26Z",
+      "lastSeen": "2026-11-27T15:16:10Z",
       "id": "opp_e1f9574d8e4943c4"
     },
     {
@@ -4300,7 +4276,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:27Z",
+      "lastSeen": "2026-11-27T15:16:11Z",
       "id": "opp_5a25612d05711ba0"
     },
     {
@@ -4324,7 +4300,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_e1fa630f2f310a70"
     },
     {
@@ -4348,7 +4324,7 @@
         "Apprenticeship",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:18Z",
+      "lastSeen": "2026-11-27T15:16:02Z",
       "id": "opp_c9ccccde686f30fb"
     },
     {
@@ -4372,7 +4348,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:25Z",
+      "lastSeen": "2026-11-27T15:16:09Z",
       "id": "opp_3e76300f227d3c18"
     },
     {
@@ -4396,7 +4372,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:24Z",
+      "lastSeen": "2026-11-27T15:16:08Z",
       "id": "opp_4b45e658ac8f9674"
     },
     {
@@ -4420,7 +4396,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:26Z",
+      "lastSeen": "2026-11-27T15:16:10Z",
       "id": "opp_b837453b6e60e7fe"
     },
     {
@@ -4444,7 +4420,7 @@
         "Governance",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:25Z",
+      "lastSeen": "2026-11-27T15:16:09Z",
       "id": "opp_4e477182c12c83e6"
     },
     {
@@ -4468,7 +4444,7 @@
         "Registration required",
         "Self-paced"
       ],
-      "lastSeen": "2026-11-26T15:27:43Z",
+      "lastSeen": "2026-11-27T15:16:29Z",
       "id": "opp_8fbb6609c424e101"
     }
   ],
@@ -4476,8 +4452,8 @@
     {
       "url": "https://qualifications.pearson.com/en/support/training-from-pearson-uk/live-training/btec.html",
       "provider": "Pearson",
-      "lastAttempted": "2026-11-26T15:26:58Z",
-      "lastSuccessful": "2026-11-26T15:26:58Z",
+      "lastAttempted": "2026-11-27T15:15:44Z",
+      "lastSuccessful": "2026-11-27T15:15:44Z",
       "count": 8,
       "status": "ok",
       "error": null,
@@ -4489,55 +4465,55 @@
     {
       "url": "https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/events-webinars/",
       "provider": "NCFE",
-      "lastAttempted": "2026-11-26T15:26:58Z",
-      "lastSuccessful": "2026-11-26T15:26:58Z",
-      "count": 39,
+      "lastAttempted": "2026-11-27T15:15:44Z",
+      "lastSuccessful": "2026-11-27T15:15:44Z",
+      "count": 38,
       "status": "ok",
       "error": null,
       "coverage": {
-        "extracted": 40,
-        "published": 39
+        "extracted": 39,
+        "published": 38
       }
     },
     {
       "url": "https://etfoundation.co.uk/events-and-community/",
       "provider": "ETF",
-      "lastAttempted": "2026-11-26T15:26:58Z",
-      "lastSuccessful": "2026-11-26T15:26:58Z",
-      "count": 7,
+      "lastAttempted": "2026-11-27T15:15:44Z",
+      "lastSuccessful": "2026-11-27T15:15:44Z",
+      "count": 8,
       "status": "ok",
       "error": null,
       "coverage": {
-        "listed": 7,
+        "listed": 8,
         "undatedExcluded": 0,
         "unavailableExcluded": 0,
         "invalidExcluded": 0,
-        "extracted": 7,
-        "published": 7
+        "extracted": 8,
+        "published": 8
       }
     },
     {
       "url": "https://etfoundation.co.uk/learning-library/",
       "provider": "ETF",
-      "lastAttempted": "2026-11-26T15:26:58Z",
-      "lastSuccessful": "2026-11-26T15:26:58Z",
-      "count": 60,
+      "lastAttempted": "2026-11-27T15:15:44Z",
+      "lastSuccessful": "2026-11-27T15:15:44Z",
+      "count": 59,
       "status": "ok",
       "error": null,
       "coverage": {
         "listed": 151,
-        "undatedExcluded": 91,
+        "undatedExcluded": 92,
         "unavailableExcluded": 0,
         "invalidExcluded": 0,
-        "extracted": 60,
-        "published": 60
+        "extracted": 59,
+        "published": 59
       }
     },
     {
       "url": "https://www.theimi.org.uk/industry-latest/events",
       "provider": "IMI",
-      "lastAttempted": "2026-11-26T15:26:58Z",
-      "lastSuccessful": "2026-11-26T15:26:58Z",
+      "lastAttempted": "2026-11-27T15:15:44Z",
+      "lastSuccessful": "2026-11-27T15:15:44Z",
       "count": 6,
       "status": "ok",
       "error": null,
@@ -4549,8 +4525,8 @@
     {
       "url": "https://www.nocn.org.uk/products/short-online-courses/",
       "provider": "NOCN",
-      "lastAttempted": "2026-11-26T15:26:58Z",
-      "lastSuccessful": "2026-11-26T15:26:58Z",
+      "lastAttempted": "2026-11-27T15:15:44Z",
+      "lastSuccessful": "2026-11-27T15:15:44Z",
       "count": 18,
       "status": "ok",
       "error": null,
@@ -4562,28 +4538,20 @@
     {
       "url": "https://www.vtctskills.org.uk/media-centre/events/",
       "provider": "VTCT Skills",
-      "lastAttempted": "2026-11-26T15:26:58Z",
+      "lastAttempted": "2026-11-27T15:15:44Z",
       "lastSuccessful": "2026-11-26T15:26:58Z",
       "count": 33,
-      "status": "ok",
-      "error": null,
-      "coverage": {
-        "extracted": 33,
-        "published": 33
-      }
+      "status": "error",
+      "error": "No opportunities found; retained last-known-good data"
     },
     {
       "url": "https://www.ascentis.co.uk/events/",
       "provider": "Ascentis",
-      "lastAttempted": "2026-11-26T15:26:58Z",
+      "lastAttempted": "2026-11-27T15:15:44Z",
       "lastSuccessful": "2026-11-26T15:26:58Z",
       "count": 11,
-      "status": "ok",
-      "error": null,
-      "coverage": {
-        "extracted": 11,
-        "published": 11
-      }
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ]
 }
